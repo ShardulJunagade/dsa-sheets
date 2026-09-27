@@ -1400,7 +1400,7 @@
           {
             "id": "findthrptingndmissingnmbr-i",
             "title": "Find the repeating and missing number",
-            "article": "https://web.archive.org/web/20240301000000/https://takeuforward.org/data-structure/find-the-repeating-and-missing-numbers/",
+            "article": "https://web.archive.org/web/20240303211049/https://takeuforward.org/data-structure/find-the-repeating-and-missing-numbers/",
             "youtube": "https://www.youtube.com/watch?v=2D0D8HE6uak",
             "practice": [
               {
@@ -1417,7 +1417,7 @@
           {
             "id": "cntinvrsins",
             "title": "Count Inversions",
-            "article": "https://web.archive.org/web/20240301000000/https://takeuforward.org/data-structure/count-inversions-in-an-array/",
+            "article": "https://web.archive.org/web/20240302000900/https://takeuforward.org/data-structure/count-inversions-in-an-array/",
             "youtube": "https://www.youtube.com/watch?v=AseUmwVNaoY",
             "practice": [
               {
@@ -1434,7 +1434,7 @@
           {
             "id": "rvrspirs",
             "title": "Reverse Pairs",
-            "article": "https://web.archive.org/web/20240301000000/https://takeuforward.org/data-structure/count-reverse-pairs/",
+            "article": "https://web.archive.org/web/20231203151659/https://takeuforward.org/data-structure/count-reverse-pairs/",
             "youtube": "https://www.youtube.com/watch?v=0e4bZaP3MDI",
             "practice": [
               {
@@ -1455,7 +1455,7 @@
           {
             "id": "mximmprdctsbrry",
             "title": "Maximum Product Subarray",
-            "article": "https://web.archive.org/web/20240301000000/https://takeuforward.org/data-structure/maximum-product-subarray-in-an-array/",
+            "article": "https://web.archive.org/web/20231001162720/https://takeuforward.org/data-structure/maximum-product-subarray-in-an-array/",
             "youtube": "https://www.youtube.com/watch?v=hnswaLJvr6g",
             "practice": [
               {
@@ -1487,7 +1487,7 @@
           {
             "id": "binrysrchtfindxinsrtdrry",
             "title": "Binary Search to find X in sorted array",
-            "article": "https://web.archive.org/web/20240301000000/https://takeuforward.org/data-structure/binary-search-explained/",
+            "article": "https://web.archive.org/web/20231205013209/https://takeuforward.org/data-structure/binary-search-explained/",
             "youtube": "https://www.youtube.com/watch?v=MHf6awe89xw",
             "practice": [
               {
@@ -1508,7 +1508,7 @@
           {
             "id": "implmntlwrbnd",
             "title": "Implement Lower Bound",
-            "article": "https://web.archive.org/web/20240301000000/https://takeuforward.org/arrays/implement-lower-bound-bs-2/",
+            "article": "https://web.archive.org/web/20240119141048/https://takeuforward.org/arrays/implement-lower-bound-bs-2/",
             "youtube": "https://www.youtube.com/watch?v=6zhGS79oQ4k",
             "practice": [
               {
@@ -1542,7 +1542,7 @@
           {
             "id": "srchinsrtpsitin",
             "title": "Search Insert Position",
-            "article": "https://web.archive.org/web/20240301000000/https://takeuforward.org/arrays/search-insert-position/",
+            "article": "https://web.archive.org/web/20231001152255/https://takeuforward.org/arrays/search-insert-position/",
             "youtube": "https://www.youtube.com/watch?v=6zhGS79oQ4k",
             "practice": [
               {
@@ -1563,7 +1563,7 @@
           {
             "id": "chckifinptrryissrtd",
             "title": "Floor/Ceil in Sorted Array",
-            "article": "https://web.archive.org/web/20240301000000/https://takeuforward.org/arrays/floor-and-ceil-in-sorted-array/",
+            "article": "https://web.archive.org/web/20240302002209/https://takeuforward.org/arrays/floor-and-ceil-in-sorted-array/",
             "youtube": "https://www.youtube.com/watch?v=6zhGS79oQ4k",
             "practice": [
               {
@@ -1580,7 +1580,7 @@
           {
             "id": "findthfirstrlstccrrncfgivnnmbrinsrtdrry",
             "title": "Find the first or last occurrence of a given number in a sorted array",
-            "article": "https://web.archive.org/web/20240301000000/https://takeuforward.org/data-structure/last-occurrence-in-a-sorted-array/",
+            "article": "https://web.archive.org/web/20231203151358/https://takeuforward.org/data-structure/last-occurrence-in-a-sorted-array/",
             "youtube": "https://www.youtube.com/watch?v=hjR1IYVx9lY",
             "practice": [
               {
@@ -1601,7 +1601,7 @@
           {
             "id": "cntccrrncsfnmbrinsrtdrrywithdplicts",
             "title": "Count occurrences of a number in a sorted array with duplicates",
-            "article": "https://web.archive.org/web/20240301000000/https://takeuforward.org/data-structure/count-occurrences-in-sorted-array/",
+            "article": "https://web.archive.org/web/20231209212719/https://takeuforward.org/data-structure/count-occurrences-in-sorted-array/",
             "youtube": "https://www.youtube.com/watch?v=hjR1IYVx9lY",
             "practice": [
               {
@@ -1618,7 +1618,7 @@
           {
             "id": "srchinrttdsrtdrryi",
             "title": "Search in Rotated Sorted Array I",
-            "article": "https://web.archive.org/web/20240301000000/https://takeuforward.org/data-structure/search-element-in-a-rotated-sorted-array/",
+            "article": "https://web.archive.org/web/20231209215853/https://takeuforward.org/data-structure/search-element-in-a-rotated-sorted-array/",
             "youtube": "https://www.youtube.com/watch?v=5qGrJbHhqFs",
             "practice": [
               {
@@ -1639,7 +1639,7 @@
           {
             "id": "srchinrttdsrtdrryii",
             "title": "Search in Rotated Sorted Array II",
-            "article": "https://web.archive.org/web/20240301000000/https://takeuforward.org/arrays/search-element-in-rotated-sorted-array-ii/",
+            "article": "https://web.archive.org/web/20240213213759/https://takeuforward.org/arrays/search-element-in-rotated-sorted-array-ii/",
             "youtube": "https://www.youtube.com/watch?v=w2G2W8l__pc",
             "practice": [
               {
@@ -1660,7 +1660,7 @@
           {
             "id": "findminimminrttdsrtdrry",
             "title": "Find minimum in Rotated Sorted Array",
-            "article": "https://web.archive.org/web/20240301000000/https://takeuforward.org/data-structure/minimum-in-rotated-sorted-array/",
+            "article": "https://web.archive.org/web/20231209223950/https://takeuforward.org/data-structure/minimum-in-rotated-sorted-array/",
             "youtube": "https://www.youtube.com/watch?v=nhEMDKMB44g",
             "practice": [
               {
@@ -1681,7 +1681,7 @@
           {
             "id": "findthwmnytimshsnrrybnrttd",
             "title": "Find out how many times has an array been rotated",
-            "article": "https://web.archive.org/web/20240301000000/https://takeuforward.org/arrays/find-out-how-many-times-the-array-has-been-rotated/",
+            "article": "https://web.archive.org/web/20231001144053/https://takeuforward.org/arrays/find-out-how-many-times-the-array-has-been-rotated/",
             "youtube": "https://www.youtube.com/watch?v=jtSiWTPLwd0",
             "practice": [
               {
@@ -1698,7 +1698,7 @@
           {
             "id": "singllmntinsrtdrry",
             "title": "Single element in a Sorted Array",
-            "article": "https://web.archive.org/web/20240301000000/https://takeuforward.org/data-structure/search-single-element-in-a-sorted-array/",
+            "article": "https://web.archive.org/web/20231001163232/https://takeuforward.org/data-structure/search-single-element-in-a-sorted-array/",
             "youtube": "https://www.youtube.com/watch?v=AZOmHuHadxQ",
             "practice": [
               {
@@ -1719,7 +1719,7 @@
           {
             "id": "findpklmnt",
             "title": "Find peak element",
-            "article": "https://web.archive.org/web/20240301000000/https://takeuforward.org/data-structure/peak-element-in-array/",
+            "article": "https://web.archive.org/web/20231209223245/https://takeuforward.org/data-structure/peak-element-in-array/",
             "youtube": "https://www.youtube.com/watch?v=cXxmbemS6XM",
             "practice": [
               {
@@ -1745,7 +1745,7 @@
           {
             "id": "findsqrrtfnmbrinlgn",
             "title": "Find square root of a number in log n",
-            "article": "https://web.archive.org/web/20240301000000/https://takeuforward.org/binary-search/finding-sqrt-of-a-number-using-binary-search/",
+            "article": "https://web.archive.org/web/20231218140715/https://takeuforward.org/binary-search/finding-sqrt-of-a-number-using-binary-search/",
             "youtube": "https://www.youtube.com/watch?v=Bsv3FPUX_BA",
             "practice": [
               {
@@ -1762,7 +1762,7 @@
           {
             "id": "findthnthrtfnmbrsingbinrysrch",
             "title": "Find the Nth root of a number using binary search",
-            "article": "https://web.archive.org/web/20240301000000/https://takeuforward.org/data-structure/nth-root-of-a-number-using-binary-search/",
+            "article": "https://web.archive.org/web/20240302002311/https://takeuforward.org/data-structure/nth-root-of-a-number-using-binary-search/",
             "youtube": "https://www.youtube.com/watch?v=rjEJeYCasHs",
             "practice": [
               {
@@ -1779,7 +1779,7 @@
           {
             "id": "kktingbnns",
             "title": "Koko Eating Bananas",
-            "article": "https://web.archive.org/web/20240301000000/https://takeuforward.org/binary-search/koko-eating-bananas/",
+            "article": "https://web.archive.org/web/20231001161017/https://takeuforward.org/binary-search/koko-eating-bananas/",
             "youtube": "https://www.youtube.com/watch?v=qyfekrNni90",
             "practice": [
               {
@@ -1800,7 +1800,7 @@
           {
             "id": "minimmdystmkmbqts",
             "title": "Minimum days to make M bouquets",
-            "article": "https://web.archive.org/web/20240301000000/https://takeuforward.org/arrays/minimum-days-to-make-m-bouquets/",
+            "article": "https://web.archive.org/web/20231001152418/https://takeuforward.org/arrays/minimum-days-to-make-m-bouquets/",
             "youtube": "https://www.youtube.com/watch?v=TXAuxeYBTdg",
             "practice": [
               {
@@ -1821,7 +1821,7 @@
           {
             "id": "findthsmllstdivisr",
             "title": "Find the smallest Divisor",
-            "article": "https://web.archive.org/web/20240301000000/https://takeuforward.org/arrays/find-the-smallest-divisor-given-a-threshold/",
+            "article": "https://web.archive.org/web/20231001151012/https://takeuforward.org/arrays/find-the-smallest-divisor-given-a-threshold/",
             "youtube": "https://www.youtube.com/watch?v=UvBKTVaG6U8",
             "practice": [
               {
@@ -1842,7 +1842,7 @@
           {
             "id": "cpcitytshippckgswithinddys",
             "title": "Capacity to Ship Packages within D Days",
-            "article": "https://web.archive.org/web/20240301000000/https://takeuforward.org/arrays/capacity-to-ship-packages-within-d-days/",
+            "article": "https://web.archive.org/web/20240113051638/https://takeuforward.org/arrays/capacity-to-ship-packages-within-d-days/",
             "youtube": "https://www.youtube.com/watch?v=MG-Ac4TAvTY",
             "practice": [
               {
@@ -1863,7 +1863,7 @@
           {
             "id": "kthmissingpsitivnmbr",
             "title": "Kth Missing Positive Number",
-            "article": "https://web.archive.org/web/20240301000000/https://takeuforward.org/arrays/kth-missing-positive-number/",
+            "article": "https://web.archive.org/web/20231001151053/https://takeuforward.org/arrays/kth-missing-positive-number/",
             "youtube": "https://www.youtube.com/watch?v=uZ0N_hZpyps",
             "practice": [
               {
@@ -1884,7 +1884,7 @@
           {
             "id": "ggrssivcws",
             "title": "Aggressive Cows",
-            "article": "https://web.archive.org/web/20240301000000/https://takeuforward.org/data-structure/aggressive-cows-detailed-solution/",
+            "article": "https://web.archive.org/web/20240303222447/https://takeuforward.org/data-structure/aggressive-cows-detailed-solution/",
             "youtube": "https://www.youtube.com/watch?v=R_Mfw4ew-Vo",
             "practice": [
               {
@@ -1905,7 +1905,7 @@
           {
             "id": "bkllctinprblm",
             "title": "Book Allocation Problem",
-            "article": "https://web.archive.org/web/20240301000000/https://takeuforward.org/data-structure/allocate-minimum-number-of-pages/",
+            "article": "https://web.archive.org/web/20231203140459/https://takeuforward.org/data-structure/allocate-minimum-number-of-pages/",
             "youtube": "https://www.youtube.com/watch?v=Z0hwjftStI4",
             "practice": [
               {
@@ -1926,7 +1926,7 @@
           {
             "id": "splitrrylrgstsm",
             "title": "Split array - Largest Sum",
-            "article": "https://web.archive.org/web/20240301000000/https://takeuforward.org/arrays/split-array-largest-sum/",
+            "article": "https://web.archive.org/web/20240118024901/https://takeuforward.org/arrays/split-array-largest-sum/",
             "youtube": "https://www.youtube.com/watch?v=thUd_WJn6wk",
             "practice": [
               {
@@ -1947,7 +1947,7 @@
           {
             "id": "painterspartition",
             "title": "Painter's partition",
-            "article": "https://web.archive.org/web/20240301000000/https://takeuforward.org/arrays/painters-partition-problem/",
+            "article": "https://web.archive.org/web/20240117213711/https://takeuforward.org/arrays/painters-partition-problem/",
             "youtube": "https://www.youtube.com/watch?v=thUd_WJn6wk",
             "practice": [
               {
@@ -1960,7 +1960,7 @@
           {
             "id": "minimizmxdistnctgssttin",
             "title": "Minimize Max Distance to Gas Station",
-            "article": "https://web.archive.org/web/20240301000000/https://takeuforward.org/arrays/minimise-maximum-distance-between-gas-stations/",
+            "article": "https://web.archive.org/web/20240127135504/https://takeuforward.org/arrays/minimise-maximum-distance-between-gas-stations/",
             "youtube": "https://www.youtube.com/watch?v=kMSBvlZ-_HA",
             "practice": [
               {
@@ -1981,7 +1981,7 @@
           {
             "id": "mdinf2srtdrrys",
             "title": "Median of 2 sorted arrays",
-            "article": "https://web.archive.org/web/20240301000000/https://takeuforward.org/data-structure/median-of-two-sorted-arrays-of-different-sizes/",
+            "article": "https://web.archive.org/web/20240126055915/https://takeuforward.org/data-structure/median-of-two-sorted-arrays-of-different-sizes/",
             "youtube": "https://www.youtube.com/watch?v=C2rRzz-JDk8",
             "practice": [
               {
@@ -2002,7 +2002,7 @@
           {
             "id": "kthlmntf2srtdrrys",
             "title": "Kth element of 2 sorted arrays",
-            "article": "https://web.archive.org/web/20240301000000/https://takeuforward.org/data-structure/k-th-element-of-two-sorted-arrays/",
+            "article": "https://web.archive.org/web/20231209205236/https://takeuforward.org/data-structure/k-th-element-of-two-sorted-arrays/",
             "youtube": "https://www.youtube.com/watch?v=D1oDwWCq50g",
             "practice": [
               {
@@ -2024,7 +2024,7 @@
           {
             "id": "findthrwwithmximmnmbrf1s",
             "title": "Find the row with maximum number of 1's",
-            "article": "https://web.archive.org/web/20240301000000/https://takeuforward.org/arrays/find-the-row-with-maximum-number-of-1s/",
+            "article": "https://web.archive.org/web/20240119014956/https://takeuforward.org/arrays/find-the-row-with-maximum-number-of-1s/",
             "youtube": "https://www.youtube.com/watch?v=SCz-1TtYxDI",
             "practice": [
               {
@@ -2041,7 +2041,7 @@
           {
             "id": "srchin2dmtrix",
             "title": "Search in a 2 D matrix",
-            "article": "https://web.archive.org/web/20240301000000/https://takeuforward.org/data-structure/search-in-a-sorted-2d-matrix/",
+            "article": "https://web.archive.org/web/20231002053052/https://takeuforward.org/data-structure/search-in-a-sorted-2d-matrix/",
             "youtube": "https://www.youtube.com/watch?v=JXU4Akft7yk",
             "practice": [
               {
@@ -2062,7 +2062,7 @@
           {
             "id": "SearchRowColumnWiseSortedMatrix",
             "title": "Search in a row and column wise sorted matrix",
-            "article": "https://web.archive.org/web/20240301000000/https://takeuforward.org/arrays/search-in-a-row-and-column-wise-sorted-matrix/",
+            "article": "https://web.archive.org/web/20231001154217/https://takeuforward.org/arrays/search-in-a-row-and-column-wise-sorted-matrix/",
             "youtube": "https://www.youtube.com/watch?v=9ZbB397jU4k",
             "practice": [
               {
@@ -2104,7 +2104,7 @@
           {
             "id": "mtrixmdin",
             "title": "Matrix Median",
-            "article": "https://web.archive.org/web/20240301000000/https://takeuforward.org/data-structure/median-of-row-wise-sorted-matrix/",
+            "article": "https://web.archive.org/web/20231206200315/https://takeuforward.org/data-structure/median-of-row-wise-sorted-matrix/",
             "youtube": "https://www.youtube.com/watch?v=Q9wXgdxJq48",
             "practice": [
               {
@@ -2153,7 +2153,7 @@
           {
             "id": "rvrswrdsingivnstringplindrmchck",
             "title": "Reverse words in a given string / Palindrome Check",
-            "article": "https://web.archive.org/web/20240301000000/https://takeuforward.org/data-structure/reverse-words-in-a-string/",
+            "article": "https://web.archive.org/web/20240303230604/https://takeuforward.org/data-structure/reverse-words-in-a-string/",
             "youtube": null,
             "practice": [
               {
@@ -2254,7 +2254,7 @@
           {
             "id": "chckiftwstringsrngrmfchthr",
             "title": "Check if two strings are anagram of each other",
-            "article": "https://web.archive.org/web/20240301000000/https://takeuforward.org/data-structure/check-if-two-strings-are-anagrams-of-each-other/",
+            "article": "https://web.archive.org/web/20231209220920/https://takeuforward.org/data-structure/check-if-two-strings-are-anagrams-of-each-other/",
             "youtube": null,
             "practice": [
               {
@@ -2447,7 +2447,7 @@
           {
             "id": "intrdctintlinkdlistlrnbtstrctndhwisndrprsntd",
             "title": "Introduction to LinkedList, learn about struct, and how is node represented",
-            "article": "https://web.archive.org/web/20240301000000/https://takeuforward.org/linked-list/linked-list-introduction",
+            "article": "https://web.archive.org/web/20240301231656/https://takeuforward.org/linked-list/linked-list-introduction",
             "youtube": "https://www.youtube.com/watch?v=Nq7ok-OyEpg",
             "practice": [
               {
@@ -2464,7 +2464,7 @@
           {
             "id": "insrtingndinlinkdlist",
             "title": "Inserting a node in LinkedList",
-            "article": "https://web.archive.org/web/20240301000000/https://takeuforward.org/linked-list/insert-at-the-head-of-a-linked-list",
+            "article": "https://web.archive.org/web/20231206213149/https://takeuforward.org/linked-list/insert-at-the-head-of-a-linked-list",
             "youtube": "https://www.youtube.com/watch?v=VaECK03Dz-g&t=1934",
             "practice": [
               {
@@ -2481,7 +2481,7 @@
           {
             "id": "dltingndinlinkdlist",
             "title": "Deleting a node in LinkedList",
-            "article": "https://web.archive.org/web/20240301000000/https://takeuforward.org/data-structure/delete-last-node-of-linked-list/",
+            "article": "https://web.archive.org/web/20231209220030/https://takeuforward.org/data-structure/delete-last-node-of-linked-list/",
             "youtube": "https://www.youtube.com/watch?v=VaECK03Dz-g",
             "practice": [
               {
@@ -2502,7 +2502,7 @@
           {
             "id": "findthlngthfthlinkdlistlrntrvrsl",
             "title": "Find the length of the linkedlist [learn traversal]",
-            "article": "https://web.archive.org/web/20240301000000/https://takeuforward.org/linked-list/find-the-length-of-a-linked-list",
+            "article": "https://web.archive.org/web/20231206201255/https://takeuforward.org/linked-list/find-the-length-of-a-linked-list",
             "youtube": "https://www.youtube.com/watch?v=Nq7ok-OyEpg&t=2240",
             "practice": [
               {
@@ -2519,7 +2519,7 @@
           {
             "id": "srchnlmntinthll",
             "title": "Search an element in the LL",
-            "article": "https://web.archive.org/web/20240301000000/https://takeuforward.org/linked-list/search-an-element-in-a-linked-list",
+            "article": "https://web.archive.org/web/20231206211840/https://takeuforward.org/linked-list/search-an-element-in-a-linked-list",
             "youtube": "https://www.youtube.com/watch?v=Nq7ok-OyEpg&t=2524",
             "practice": [
               {
@@ -2541,7 +2541,7 @@
           {
             "id": "intrdctintdlllrnbtstrctndhwisndrprsntd",
             "title": "Introduction to DLL, learn about struct, and how is node represented",
-            "article": "https://web.archive.org/web/20240301000000/https://takeuforward.org/linked-list/introduction-to-doubly-linked-list",
+            "article": "https://web.archive.org/web/*/https://takeuforward.org/linked-list/introduction-to-doubly-linked-list",
             "youtube": "https://www.youtube.com/watch?v=0eKMU10uEDI",
             "practice": [
               {
@@ -2558,7 +2558,7 @@
           {
             "id": "insrtndindll",
             "title": "Insert a node in DLL",
-            "article": "https://web.archive.org/web/20240301000000/https://takeuforward.org/data-structure/insert-at-end-of-doubly-linked-list/",
+            "article": "https://web.archive.org/web/20231205020015/https://takeuforward.org/data-structure/insert-at-end-of-doubly-linked-list/",
             "youtube": "https://www.youtube.com/watch?v=0eKMU10uEDI&t=2684",
             "practice": [
               {
@@ -2575,7 +2575,7 @@
           {
             "id": "dltndindll",
             "title": "Delete a node in DLL",
-            "article": "https://web.archive.org/web/20240301000000/https://takeuforward.org/data-structure/delete-last-node-of-a-doubly-linked-list/",
+            "article": "https://web.archive.org/web/20240301230620/https://takeuforward.org/data-structure/delete-last-node-of-a-doubly-linked-list/",
             "youtube": "https://www.youtube.com/watch?v=0eKMU10uEDI&t=853",
             "practice": [
               {
@@ -2592,7 +2592,7 @@
           {
             "id": "rvrsdll",
             "title": "Reverse a DLL",
-            "article": "https://web.archive.org/web/20240301000000/https://takeuforward.org/data-structure/reverse-a-doubly-linked-list/",
+            "article": "https://web.archive.org/web/20231209215259/https://takeuforward.org/data-structure/reverse-a-doubly-linked-list/",
             "youtube": "https://www.youtube.com/watch?v=u3WUW2qe6ww",
             "practice": [
               {
@@ -2614,7 +2614,7 @@
           {
             "id": "middlflinkdlisttrtishrmthd",
             "title": "Middle of a LinkedList [TortoiseHare Method]",
-            "article": "https://web.archive.org/web/20240301000000/https://takeuforward.org/data-structure/find-middle-element-in-a-linked-list/",
+            "article": "https://web.archive.org/web/20231209213432/https://takeuforward.org/data-structure/find-middle-element-in-a-linked-list/",
             "youtube": "https://www.youtube.com/watch?v=7LjQ57RqgEc",
             "practice": [
               {
@@ -2635,7 +2635,7 @@
           {
             "id": "rvrslinkdlistitrtiv",
             "title": "Reverse a LinkedList [Iterative]",
-            "article": "https://web.archive.org/web/20240301000000/https://takeuforward.org/data-structure/reverse-a-linked-list/",
+            "article": "https://web.archive.org/web/20231203151641/https://takeuforward.org/data-structure/reverse-a-linked-list/",
             "youtube": "https://www.youtube.com/watch?v=D2vI2DNJGd8",
             "practice": [
               {
@@ -2656,7 +2656,7 @@
           {
             "id": "rvrsllrcrsiv",
             "title": "Reverse a LL [Recursive]",
-            "article": "https://web.archive.org/web/20240301000000/https://takeuforward.org/data-structure/reverse-a-linked-list/",
+            "article": "https://web.archive.org/web/20231203151641/https://takeuforward.org/data-structure/reverse-a-linked-list/",
             "youtube": "https://www.youtube.com/watch?v=D2vI2DNJGd8",
             "practice": [
               {
@@ -2677,7 +2677,7 @@
           {
             "id": "dtctlpinll",
             "title": "Detect a loop in LL",
-            "article": "https://web.archive.org/web/20240301000000/https://takeuforward.org/data-structure/detect-a-cycle-in-a-linked-list/",
+            "article": "https://web.archive.org/web/20240302010229/https://takeuforward.org/data-structure/detect-a-cycle-in-a-linked-list/",
             "youtube": "https://www.youtube.com/watch?v=wiOo4DC5GGA",
             "practice": [
               {
@@ -2698,7 +2698,7 @@
           {
             "id": "findthstrtingpintinll",
             "title": "Find the starting point in LL",
-            "article": "https://web.archive.org/web/20240301000000/https://takeuforward.org/data-structure/starting-point-of-loop-in-a-linked-list/",
+            "article": "https://web.archive.org/web/20231203131728/https://takeuforward.org/data-structure/starting-point-of-loop-in-a-linked-list/",
             "youtube": "https://www.youtube.com/watch?v=2Kd0KKmmHFc",
             "practice": [
               {
@@ -2719,7 +2719,7 @@
           {
             "id": "lngthflpinll",
             "title": "Length of Loop in LL",
-            "article": "https://web.archive.org/web/20240301000000/https://takeuforward.org/linked-list/length-of-loop-in-linked-list",
+            "article": "https://web.archive.org/web/20240302001815/https://takeuforward.org/linked-list/length-of-loop-in-linked-list",
             "youtube": "https://www.youtube.com/watch?v=I4g1qbkTPus",
             "practice": [
               {
@@ -2736,7 +2736,7 @@
           {
             "id": "chckifllisplindrmrnt",
             "title": "Check if LL is palindrome or not",
-            "article": "https://web.archive.org/web/20240301000000/https://takeuforward.org/data-structure/check-if-given-linked-list-is-plaindrome/",
+            "article": "https://web.archive.org/web/20231001145739/https://takeuforward.org/data-structure/check-if-given-linked-list-is-plaindrome/",
             "youtube": "https://www.youtube.com/watch?v=lRY_G-u_8jk",
             "practice": [
               {
@@ -2757,7 +2757,7 @@
           {
             "id": "sgrrgtddndvnndsinll",
             "title": "Segrregate odd and even nodes in LL",
-            "article": "https://web.archive.org/web/20240301000000/https://takeuforward.org/data-structure/segregate-even-and-odd-nodes-in-linkedlist",
+            "article": "https://web.archive.org/web/20231209224322/https://takeuforward.org/data-structure/segregate-even-and-odd-nodes-in-linkedlist",
             "youtube": "https://www.youtube.com/watch?v=qf6qp7GzD5Q",
             "practice": [
               {
@@ -2778,7 +2778,7 @@
           {
             "id": "rmvnthndfrmthbckfthll",
             "title": "Remove Nth node from the back of the LL",
-            "article": "https://web.archive.org/web/20240301000000/https://takeuforward.org/data-structure/remove-n-th-node-from-the-end-of-a-linked-list/",
+            "article": "https://web.archive.org/web/20240116151734/https://takeuforward.org/data-structure/remove-n-th-node-from-the-end-of-a-linked-list/",
             "youtube": "https://www.youtube.com/watch?v=3kMKYQ2wNIU",
             "practice": [
               {
@@ -2799,7 +2799,7 @@
           {
             "id": "dltthmiddlndfll",
             "title": "Delete the middle node of LL",
-            "article": "https://web.archive.org/web/20240301000000/https://takeuforward.org/linked-list/delete-the-middle-node-of-the-linked-list",
+            "article": "https://web.archive.org/web/20240302012246/https://takeuforward.org/linked-list/delete-the-middle-node-of-the-linked-list",
             "youtube": "https://www.youtube.com/watch?v=ePpV-_pfOeI",
             "practice": [
               {
@@ -2820,7 +2820,7 @@
           {
             "id": "srtll",
             "title": "Sort LL",
-            "article": "https://web.archive.org/web/20240301000000/https://takeuforward.org/linked-list/sort-a-linked-list",
+            "article": "https://web.archive.org/web/*/https://takeuforward.org/linked-list/sort-a-linked-list",
             "youtube": "https://www.youtube.com/watch?v=8ocB7a_c-Cc",
             "practice": [
               {
@@ -2858,7 +2858,7 @@
           {
             "id": "findthintrsctinpintfyll",
             "title": "Find the intersection point of Y LL",
-            "article": "https://web.archive.org/web/20240301000000/https://takeuforward.org/data-structure/find-intersection-of-two-linked-lists/",
+            "article": "https://web.archive.org/web/20231002045959/https://takeuforward.org/data-structure/find-intersection-of-two-linked-lists/",
             "youtube": "https://www.youtube.com/watch?v=0DYoPz2Tpt4",
             "practice": [
               {
@@ -2896,7 +2896,7 @@
           {
             "id": "dd2nmbrsinll",
             "title": "Add 2 numbers in LL",
-            "article": "https://web.archive.org/web/20240301000000/https://takeuforward.org/data-structure/add-two-numbers-represented-as-linked-lists/",
+            "article": "https://web.archive.org/web/20231001162559/https://takeuforward.org/data-structure/add-two-numbers-represented-as-linked-lists/",
             "youtube": "https://www.youtube.com/watch?v=XmRrGzR6udg",
             "practice": [
               {
@@ -2978,7 +2978,7 @@
           {
             "id": "rvrsllingrpfgivnsizk",
             "title": "Reverse LL in group of given size K",
-            "article": "https://web.archive.org/web/20240301000000/https://takeuforward.org/data-structure/reverse-linked-list-in-groups-of-size-k/",
+            "article": "https://web.archive.org/web/20231203151554/https://takeuforward.org/data-structure/reverse-linked-list-in-groups-of-size-k/",
             "youtube": "https://www.youtube.com/watch?v=lIar1skcQYI",
             "practice": [
               {
@@ -2999,7 +2999,7 @@
           {
             "id": "rttll",
             "title": "Rotate a LL",
-            "article": "https://web.archive.org/web/20240301000000/https://takeuforward.org/data-structure/rotate-a-linked-list/",
+            "article": "https://web.archive.org/web/20231209224122/https://takeuforward.org/data-structure/rotate-a-linked-list/",
             "youtube": "https://www.youtube.com/watch?v=uT7YI7XbTY8",
             "practice": [
               {
@@ -3020,7 +3020,7 @@
           {
             "id": "flttningfll",
             "title": "Flattening of LL",
-            "article": "https://web.archive.org/web/20240301000000/https://takeuforward.org/data-structure/flattening-a-linked-list/",
+            "article": "https://web.archive.org/web/20240303211323/https://takeuforward.org/data-structure/flattening-a-linked-list/",
             "youtube": "https://www.youtube.com/watch?v=ykelywHJWLg",
             "practice": [
               {
@@ -3037,7 +3037,7 @@
           {
             "id": "clnlinkdlistwithrndmndnxtpintr",
             "title": "Clone a Linked List with random and next pointer",
-            "article": "https://web.archive.org/web/20240301000000/https://takeuforward.org/data-structure/clone-linked-list-with-random-and-next-pointer/",
+            "article": "https://web.archive.org/web/20240302003620/https://takeuforward.org/data-structure/clone-linked-list-with-random-and-next-pointer/",
             "youtube": "https://www.youtube.com/watch?v=q570bKdrnlw",
             "practice": [
               {
@@ -3090,7 +3090,7 @@
           {
             "id": "pwxn",
             "title": "Pow(x, n)",
-            "article": "https://web.archive.org/web/20240301000000/https://takeuforward.org/data-structure/implement-powxn-x-raised-to-the-power-n/",
+            "article": "https://web.archive.org/web/20231209211336/https://takeuforward.org/data-structure/implement-powxn-x-raised-to-the-power-n/",
             "youtube": "https://www.youtube.com/watch?v=l0YC3876qxg",
             "practice": [
               {
@@ -3209,7 +3209,7 @@
           {
             "id": "printllsbsqncspwrst",
             "title": "Print all subsequences/Power Set",
-            "article": "https://web.archive.org/web/20240301000000/https://takeuforward.org/data-structure/power-set-print-all-the-possible-subsequences-of-the-string/",
+            "article": "https://web.archive.org/web/20240303232134/https://takeuforward.org/data-structure/power-set-print-all-the-possible-subsequences-of-the-string/",
             "youtube": "https://www.youtube.com/watch?v=b7AYbpM5YrE",
             "practice": [
               {
@@ -3277,7 +3277,7 @@
           {
             "id": "cmbintinsm",
             "title": "Combination Sum",
-            "article": "https://web.archive.org/web/20240301000000/https://takeuforward.org/data-structure/combination-sum-1/",
+            "article": "https://web.archive.org/web/20240303223549/https://takeuforward.org/data-structure/combination-sum-1/",
             "youtube": "https://www.youtube.com/watch?v=OyZFFqQtu98",
             "practice": [
               {
@@ -3298,7 +3298,7 @@
           {
             "id": "cmbintinsmii",
             "title": "Combination Sum-II",
-            "article": "https://web.archive.org/web/20240301000000/https://takeuforward.org/data-structure/combination-sum-ii-find-all-unique-combinations/",
+            "article": "https://web.archive.org/web/20231209204406/https://takeuforward.org/data-structure/combination-sum-ii-find-all-unique-combinations/",
             "youtube": "https://www.youtube.com/watch?v=G1fRTGRxXU8",
             "practice": [
               {
@@ -3319,7 +3319,7 @@
           {
             "id": "sbstsmi",
             "title": "Subset Sum-I",
-            "article": "https://web.archive.org/web/20240301000000/https://takeuforward.org/data-structure/subset-sum-sum-of-all-subsets/",
+            "article": "https://web.archive.org/web/20231002042528/https://takeuforward.org/data-structure/subset-sum-sum-of-all-subsets/",
             "youtube": "https://www.youtube.com/watch?v=rYkfBRtMJr8",
             "practice": [
               {
@@ -3336,7 +3336,7 @@
           {
             "id": "sbstsmii",
             "title": "Subset Sum-II",
-            "article": "https://web.archive.org/web/20240301000000/https://takeuforward.org/data-structure/subset-ii-print-all-the-unique-subsets/",
+            "article": "https://web.archive.org/web/20231002035321/https://takeuforward.org/data-structure/subset-ii-print-all-the-unique-subsets/",
             "youtube": "https://www.youtube.com/watch?v=RIn3gOkbhQE",
             "practice": [
               {
@@ -3404,7 +3404,7 @@
           {
             "id": "plindrmprtitining",
             "title": "Palindrome Partitioning",
-            "article": "https://web.archive.org/web/20240301000000/https://takeuforward.org/data-structure/palindrome-partitioning/",
+            "article": "https://web.archive.org/web/20231203151620/https://takeuforward.org/data-structure/palindrome-partitioning/",
             "youtube": "https://www.youtube.com/watch?v=WBgsABoClE0",
             "practice": [
               {
@@ -3425,7 +3425,7 @@
           {
             "id": "wrdsrch",
             "title": "Word Search",
-            "article": "https://web.archive.org/web/20240301000000/https://takeuforward.org/data-structure/word-search-leetcode/",
+            "article": "https://web.archive.org/web/20231209211601/https://takeuforward.org/data-structure/word-search-leetcode/",
             "youtube": null,
             "practice": [
               {
@@ -3446,7 +3446,7 @@
           {
             "id": "nqn",
             "title": "N Queen",
-            "article": "https://web.archive.org/web/20240301000000/https://takeuforward.org/data-structure/n-queen-problem-return-all-distinct-solutions-to-the-n-queens-puzzle/",
+            "article": "https://web.archive.org/web/20240302001409/https://takeuforward.org/data-structure/n-queen-problem-return-all-distinct-solutions-to-the-n-queens-puzzle/",
             "youtube": "https://www.youtube.com/watch?v=i05Ju7AftcM",
             "practice": [
               {
@@ -3467,7 +3467,7 @@
           {
             "id": "rtinmz",
             "title": "Rat in a Maze",
-            "article": "https://web.archive.org/web/20240301000000/https://takeuforward.org/data-structure/rat-in-a-maze/",
+            "article": "https://web.archive.org/web/20240301231602/https://takeuforward.org/data-structure/rat-in-a-maze/",
             "youtube": "https://www.youtube.com/watch?v=bLGZhJlt4y0",
             "practice": [
               {
@@ -3509,7 +3509,7 @@
           {
             "id": "mclringprblm",
             "title": "M Coloring Problem",
-            "article": "https://web.archive.org/web/20240301000000/https://takeuforward.org/data-structure/m-coloring-problem/",
+            "article": "https://web.archive.org/web/20240301235945/https://takeuforward.org/data-structure/m-coloring-problem/",
             "youtube": "https://www.youtube.com/watch?v=wuVwUK25Rfc",
             "practice": [
               {
@@ -3530,7 +3530,7 @@
           {
             "id": "sdkslvr",
             "title": "Sudoko Solver",
-            "article": "https://web.archive.org/web/20240301000000/https://takeuforward.org/data-structure/sudoku-solver/",
+            "article": "https://web.archive.org/web/20231002042808/https://takeuforward.org/data-structure/sudoku-solver/",
             "youtube": "https://www.youtube.com/watch?v=FWAIf_EVUKE",
             "practice": [
               {
@@ -3938,7 +3938,7 @@
           {
             "id": "implmntstcksingrrys",
             "title": "Implement Stack using Arrays",
-            "article": "https://web.archive.org/web/20240301000000/https://takeuforward.org/data-structure/implement-stack-using-array/",
+            "article": "https://web.archive.org/web/20240303232056/https://takeuforward.org/data-structure/implement-stack-using-array/",
             "youtube": "https://www.youtube.com/watch?v=tqQ5fTamIN4",
             "practice": [
               {
@@ -3955,7 +3955,7 @@
           {
             "id": "implmntqsingrrys",
             "title": "Implement Queue using Arrays",
-            "article": "https://web.archive.org/web/20240301000000/https://takeuforward.org/data-structure/implement-queue-using-array/",
+            "article": "https://web.archive.org/web/20231002050219/https://takeuforward.org/data-structure/implement-queue-using-array/",
             "youtube": "https://www.youtube.com/watch?v=tqQ5fTamIN4",
             "practice": [
               {
@@ -3972,7 +3972,7 @@
           {
             "id": "implmntstcksingq",
             "title": "Implement Stack using Queue",
-            "article": "https://web.archive.org/web/20240301000000/https://takeuforward.org/data-structure/implement-stack-using-single-queue/",
+            "article": "https://web.archive.org/web/20240303224717/https://takeuforward.org/data-structure/implement-stack-using-single-queue/",
             "youtube": "https://www.youtube.com/watch?v=tqQ5fTamIN4",
             "practice": [
               {
@@ -3993,7 +3993,7 @@
           {
             "id": "implmntqsingstck",
             "title": "Implement Queue using Stack",
-            "article": "https://web.archive.org/web/20240301000000/https://takeuforward.org/data-structure/implement-queue-using-stack/",
+            "article": "https://web.archive.org/web/20231002042649/https://takeuforward.org/data-structure/implement-queue-using-stack/",
             "youtube": "https://www.youtube.com/watch?v=tqQ5fTamIN4",
             "practice": [
               {
@@ -4014,7 +4014,7 @@
           {
             "id": "implmntstcksinglinkdlist",
             "title": "Implement stack using Linkedlist",
-            "article": "https://web.archive.org/web/20240301000000/https://takeuforward.org/data-structure/implement-stack-using-linked-list/",
+            "article": "https://web.archive.org/web/20231209213701/https://takeuforward.org/data-structure/implement-stack-using-linked-list/",
             "youtube": "https://www.youtube.com/watch?v=tqQ5fTamIN4",
             "practice": [
               {
@@ -4031,7 +4031,7 @@
           {
             "id": "implmntqsinglinkdlist",
             "title": "Implement queue using Linkedlist",
-            "article": "https://web.archive.org/web/20240301000000/https://takeuforward.org/data-structure/implement-queue-using-linked-list/",
+            "article": "https://web.archive.org/web/20240303213835/https://takeuforward.org/data-structure/implement-queue-using-linked-list/",
             "youtube": "https://www.youtube.com/watch?v=tqQ5fTamIN4",
             "practice": [
               {
@@ -4048,7 +4048,7 @@
           {
             "id": "chckfrblncdprnthsis",
             "title": "Check for balanced paranthesis",
-            "article": "https://web.archive.org/web/20240301000000/https://takeuforward.org/data-structure/check-for-balanced-parentheses/",
+            "article": "https://web.archive.org/web/20231209211028/https://takeuforward.org/data-structure/check-for-balanced-parentheses/",
             "youtube": "https://www.youtube.com/watch?v=xwjS0iZhw4I",
             "practice": [
               {
@@ -4069,7 +4069,7 @@
           {
             "id": "implmntminstck",
             "title": "Implement Min Stack",
-            "article": "https://web.archive.org/web/20240301000000/https://takeuforward.org/data-structure/implement-min-stack-o2n-and-on-space-complexity/",
+            "article": "https://web.archive.org/web/20240303224039/https://takeuforward.org/data-structure/implement-min-stack-o2n-and-on-space-complexity/",
             "youtube": "https://www.youtube.com/watch?v=NdDIaH91P0g",
             "practice": [
               {
@@ -4095,7 +4095,7 @@
           {
             "id": "infixtpstfixcnvrsinsingstck",
             "title": "Infix to Postfix Conversion using Stack",
-            "article": "https://web.archive.org/web/20240301000000/https://takeuforward.org/data-structure/infix-to-postfix/",
+            "article": "https://web.archive.org/web/20240101111038/https://takeuforward.org/data-structure/infix-to-postfix/",
             "youtube": "https://www.youtube.com/watch?v=4pIc9UBHJtk",
             "practice": [
               {
@@ -4180,7 +4180,7 @@
           {
             "id": "cnvrtinfixtprfixnttin",
             "title": "Convert Infix To Prefix Notation",
-            "article": "https://web.archive.org/web/20240301000000/https://takeuforward.org/data-structure/infix-to-prefix/",
+            "article": "https://web.archive.org/web/20231209224354/https://takeuforward.org/data-structure/infix-to-prefix/",
             "youtube": "https://www.youtube.com/watch?v=4pIc9UBHJtk",
             "practice": [
               {
@@ -4202,7 +4202,7 @@
           {
             "id": "nxtgrtrlmnt",
             "title": "Next Greater Element",
-            "article": "https://web.archive.org/web/20240301000000/https://takeuforward.org/data-structure/next-greater-element-using-stack/",
+            "article": "https://web.archive.org/web/20231205023032/https://takeuforward.org/data-structure/next-greater-element-using-stack/",
             "youtube": "https://www.youtube.com/watch?v=e7XQLtOQM3I",
             "practice": [
               {
@@ -4282,7 +4282,7 @@
           {
             "id": "trppingrinwtr",
             "title": "Trapping Rainwater",
-            "article": "https://web.archive.org/web/20240301000000/https://takeuforward.org/data-structure/trapping-rainwater/",
+            "article": "https://web.archive.org/web/20231209205927/https://takeuforward.org/data-structure/trapping-rainwater/",
             "youtube": "https://www.youtube.com/watch?v=1_5VuquLbXg",
             "practice": [
               {
@@ -4387,7 +4387,7 @@
           {
             "id": "lrgstrctnglinhistgrm",
             "title": "Largest rectangle in a histogram",
-            "article": "https://web.archive.org/web/20240301000000/https://takeuforward.org/data-structure/area-of-largest-rectangle-in-histogram/",
+            "article": "https://web.archive.org/web/20240302005655/https://takeuforward.org/data-structure/area-of-largest-rectangle-in-histogram/",
             "youtube": "https://www.youtube.com/watch?v=Bzat9vgD0fs",
             "practice": [
               {
@@ -4434,7 +4434,7 @@
           {
             "id": "slidingwindwmximm",
             "title": "Sliding Window maximum",
-            "article": "https://web.archive.org/web/20240301000000/https://takeuforward.org/data-structure/sliding-window-maximum/",
+            "article": "https://web.archive.org/web/20231203133151/https://takeuforward.org/data-structure/sliding-window-maximum/",
             "youtube": "https://www.youtube.com/watch?v=NwBvene4Imo",
             "practice": [
               {
@@ -4497,7 +4497,7 @@
           {
             "id": "lrcchimprtnt",
             "title": "LRU cache (IMPORTANT)",
-            "article": "https://web.archive.org/web/20240301000000/https://takeuforward.org/data-structure/implement-lru-cache/",
+            "article": "https://web.archive.org/web/20240302000542/https://takeuforward.org/data-structure/implement-lru-cache/",
             "youtube": "https://www.youtube.com/watch?v=z9bJUPxzFOw",
             "practice": [
               {
@@ -4550,7 +4550,7 @@
           {
             "id": "lngstsbstringwithtrptingchrctrs",
             "title": "Longest Substring Without Repeating Characters",
-            "article": "https://web.archive.org/web/20240301000000/https://takeuforward.org/data-structure/length-of-longest-substring-without-any-repeating-character/",
+            "article": "https://web.archive.org/web/20231209222307/https://takeuforward.org/data-structure/length-of-longest-substring-without-any-repeating-character/",
             "youtube": "https://www.youtube.com/watch?v=-zSxTJkcdAo",
             "practice": [
               {
@@ -4887,7 +4887,7 @@
           {
             "id": "kthlrgstlmntinnrrysprirityq",
             "title": "Kth largest element in an array [use priority queue]",
-            "article": "https://web.archive.org/web/20240301000000/https://takeuforward.org/data-structure/kth-largest-smallest-element-in-an-array/",
+            "article": "https://web.archive.org/web/20240303231623/https://takeuforward.org/data-structure/kth-largest-smallest-element-in-an-array/",
             "youtube": null,
             "practice": [
               {
@@ -4908,7 +4908,7 @@
           {
             "id": "kthsmllstlmntinnrrysprirityq",
             "title": "Kth smallest element in an array [use priority queue]",
-            "article": "https://web.archive.org/web/20240301000000/https://takeuforward.org/data-structure/kth-largest-smallest-element-in-an-array/",
+            "article": "https://web.archive.org/web/20240303231623/https://takeuforward.org/data-structure/kth-largest-smallest-element-in-an-array/",
             "youtube": null,
             "practice": [
               {
@@ -4959,7 +4959,7 @@
           {
             "id": "rplcchrrylmntbyitscrrspndingrnk",
             "title": "Replace each array element by its corresponding rank",
-            "article": "https://web.archive.org/web/20240301000000/https://takeuforward.org/data-structure/replace-elements-by-its-rank-in-the-array/",
+            "article": "https://web.archive.org/web/20231209220435/https://takeuforward.org/data-structure/replace-elements-by-its-rank-in-the-array/",
             "youtube": null,
             "practice": [
               {
@@ -5152,7 +5152,7 @@
           {
             "id": "ssignckis",
             "title": "Assign Cookies",
-            "article": "https://web.archive.org/web/20240301000000/https://takeuforward.org/Greedy/assign-cookies",
+            "article": "https://web.archive.org/web/*/https://takeuforward.org/Greedy/assign-cookies",
             "youtube": "https://www.youtube.com/watch?v=DIX2p7vb9co",
             "practice": [
               {
@@ -5173,7 +5173,7 @@
           {
             "id": "frctinlknpsckprblm",
             "title": "Fractional Knapsack Problem",
-            "article": "https://web.archive.org/web/20240301000000/https://takeuforward.org/data-structure/fractional-knapsack-problem-greedy-approach/",
+            "article": "https://web.archive.org/web/20231002040921/https://takeuforward.org/data-structure/fractional-knapsack-problem-greedy-approach/",
             "youtube": "https://www.youtube.com/watch?v=1ibsQrnuEEg",
             "practice": [
               {
@@ -5194,7 +5194,7 @@
           {
             "id": "grdylgrithmtfindminimmnmbrfcins",
             "title": "Greedy algorithm to find minimum number of coins",
-            "article": "https://web.archive.org/web/20240301000000/https://takeuforward.org/data-structure/find-minimum-number-of-coins/",
+            "article": "https://web.archive.org/web/20231209223639/https://takeuforward.org/data-structure/find-minimum-number-of-coins/",
             "youtube": "https://www.youtube.com/watch?v=mVg9CfJvayM",
             "practice": [
               {
@@ -5215,7 +5215,7 @@
           {
             "id": "lmndchng",
             "title": "Lemonade Change",
-            "article": "https://web.archive.org/web/20240301000000/https://takeuforward.org/Greedy/lemonade-change",
+            "article": "https://web.archive.org/web/*/https://takeuforward.org/Greedy/lemonade-change",
             "youtube": "https://www.youtube.com/watch?v=n_tmibEhO6Q",
             "practice": [
               {
@@ -5262,7 +5262,7 @@
           {
             "id": "nmtingsinnrm",
             "title": "N meetings in one room",
-            "article": "https://web.archive.org/web/20240301000000/https://takeuforward.org/data-structure/n-meetings-in-one-room/",
+            "article": "https://web.archive.org/web/20231222061729/https://takeuforward.org/data-structure/n-meetings-in-one-room/",
             "youtube": "https://www.youtube.com/watch?v=mKfhTotEguk",
             "practice": [
               {
@@ -5283,7 +5283,7 @@
           {
             "id": "jmpgm",
             "title": "Jump Game",
-            "article": "https://web.archive.org/web/20240301000000/https://takeuforward.org/Greedy/jump-game-i",
+            "article": "https://web.archive.org/web/*/https://takeuforward.org/Greedy/jump-game-i",
             "youtube": "https://www.youtube.com/watch?v=tZAa_jJ3SwQ",
             "practice": [
               {
@@ -5325,7 +5325,7 @@
           {
             "id": "minimmnmbrfpltfrmsrqirdfrrilwy",
             "title": "Minimum number of platforms required for a railway",
-            "article": "https://web.archive.org/web/20240301000000/https://takeuforward.org/data-structure/minimum-number-of-platforms-required-for-a-railway/",
+            "article": "https://web.archive.org/web/20231002054139/https://takeuforward.org/data-structure/minimum-number-of-platforms-required-for-a-railway/",
             "youtube": "https://www.youtube.com/watch?v=AsGzwR_FWok",
             "practice": [
               {
@@ -5346,7 +5346,7 @@
           {
             "id": "jbsqncingprblm",
             "title": "Job sequencing Problem",
-            "article": "https://web.archive.org/web/20240301000000/https://takeuforward.org/data-structure/job-sequencing-problem/",
+            "article": "https://web.archive.org/web/20231203141605/https://takeuforward.org/data-structure/job-sequencing-problem/",
             "youtube": "https://www.youtube.com/watch?v=QbwltemZbRg",
             "practice": [
               {
@@ -5388,7 +5388,7 @@
           {
             "id": "prgrmfrshrtstjbfirstrsjfcpschdling",
             "title": "Program for Shortest Job First (or SJF) CPU Scheduling",
-            "article": "https://web.archive.org/web/20240301000000/https://takeuforward.org/Greedy/shortest-job-first-or-sjf-cpu-scheduling",
+            "article": "https://web.archive.org/web/*/https://takeuforward.org/Greedy/shortest-job-first-or-sjf-cpu-scheduling",
             "youtube": "https://www.youtube.com/watch?v=3-QbX1iDbXs",
             "practice": [
               {
@@ -5418,7 +5418,7 @@
           {
             "id": "insrtintrvl",
             "title": "Insert Interval",
-            "article": "https://web.archive.org/web/20240301000000/https://takeuforward.org/?s=Insert+Interval",
+            "article": "https://web.archive.org/web/20240303222216/https://takeuforward.org/?s=Insert+Interval",
             "youtube": "https://www.youtube.com/watch?v=xxRE-46OCC8",
             "practice": [
               {
@@ -5492,7 +5492,7 @@
           {
             "id": "intrdctinttrs",
             "title": "Introduction to Trees",
-            "article": "https://web.archive.org/web/20240301000000/https://takeuforward.org/binary-tree/introduction-to-trees/",
+            "article": "https://web.archive.org/web/20231209204052/https://takeuforward.org/binary-tree/introduction-to-trees/",
             "youtube": "https://www.youtube.com/watch?v=_ANrF3FJm7I",
             "practice": [
               {
@@ -5509,7 +5509,7 @@
           {
             "id": "binrytrrprsnttininc",
             "title": "Binary Tree Representation in C++",
-            "article": "https://web.archive.org/web/20240301000000/https://takeuforward.org/binary-tree/binary-tree-representation-in-c/",
+            "article": "https://web.archive.org/web/20231209220343/https://takeuforward.org/binary-tree/binary-tree-representation-in-c/",
             "youtube": "https://www.youtube.com/watch?v=ctCpP0RFDFc",
             "practice": [
               {
@@ -5526,7 +5526,7 @@
           {
             "id": "binrytrrprsnttininjv",
             "title": "Binary Tree Representation in Java",
-            "article": "https://web.archive.org/web/20240301000000/https://takeuforward.org/binary-tree/binary-tree-representation-in-java/",
+            "article": "https://web.archive.org/web/20231002054257/https://takeuforward.org/binary-tree/binary-tree-representation-in-java/",
             "youtube": "https://www.youtube.com/watch?v=hyLyW7rP24I",
             "practice": [
               {
@@ -5543,7 +5543,7 @@
           {
             "id": "binrytrtrvrslsinbinrytr",
             "title": "Binary Tree Traversals in Binary Tree",
-            "article": "https://web.archive.org/web/20240301000000/https://takeuforward.org/binary-tree/binary-tree-traversal-inorder-preorder-postorder/",
+            "article": "https://web.archive.org/web/20231209210509/https://takeuforward.org/binary-tree/binary-tree-traversal-inorder-preorder-postorder/",
             "youtube": "https://www.youtube.com/watch?v=jmy0LaGET1I",
             "practice": [
               {
@@ -5556,7 +5556,7 @@
           {
             "id": "prrdrtrvrslfbinrytr",
             "title": "Preorder Traversal of Binary Tree",
-            "article": "https://web.archive.org/web/20240301000000/https://takeuforward.org/data-structure/preorder-traversal-of-binary-tree/",
+            "article": "https://web.archive.org/web/20231002052242/https://takeuforward.org/data-structure/preorder-traversal-of-binary-tree/",
             "youtube": "https://www.youtube.com/watch?v=RlUu72JrOCQ",
             "practice": [
               {
@@ -5577,7 +5577,7 @@
           {
             "id": "inrdrtrvrslfbinrytr",
             "title": "Inorder Traversal of Binary Tree",
-            "article": "https://web.archive.org/web/20240301000000/https://takeuforward.org/data-structure/inorder-traversal-of-binary-tree/",
+            "article": "https://web.archive.org/web/20231001142327/https://takeuforward.org/data-structure/inorder-traversal-of-binary-tree/",
             "youtube": "https://www.youtube.com/watch?v=Z_NEgBgbRVI",
             "practice": [
               {
@@ -5598,7 +5598,7 @@
           {
             "id": "pstrdrtrvrslfbinrytr",
             "title": "Post-order Traversal of Binary Tree",
-            "article": "https://web.archive.org/web/20240301000000/https://takeuforward.org/data-structure/post-order-traversal-of-binary-tree/",
+            "article": "https://web.archive.org/web/20231209202638/https://takeuforward.org/data-structure/post-order-traversal-of-binary-tree/",
             "youtube": "https://www.youtube.com/watch?v=COQOU6klsBg",
             "practice": [
               {
@@ -5619,7 +5619,7 @@
           {
             "id": "lvlrdrtrvrsllvlrdrtrvrslinspirlfrm",
             "title": "Level order Traversal / Level order traversal in spiral form",
-            "article": "https://web.archive.org/web/20240301000000/https://takeuforward.org/data-structure/level-order-traversal-of-a-binary-tree/",
+            "article": "https://web.archive.org/web/20231205015327/https://takeuforward.org/data-structure/level-order-traversal-of-a-binary-tree/",
             "youtube": "https://www.youtube.com/watch?v=EoAsWbO7sqg",
             "practice": [
               {
@@ -5640,7 +5640,7 @@
           {
             "id": "itrtivprrdrtrvrslfbinrytr",
             "title": "Iterative Preorder Traversal of Binary Tree",
-            "article": "https://web.archive.org/web/20240301000000/https://takeuforward.org/data-structure/iterative-preorder-traversal-of-binary-tree",
+            "article": "https://web.archive.org/web/*/https://takeuforward.org/data-structure/iterative-preorder-traversal-of-binary-tree",
             "youtube": "https://www.youtube.com/watch?v=Bfqd8BsPVuw",
             "practice": [
               {
@@ -5661,7 +5661,7 @@
           {
             "id": "itrtivinrdrtrvrslfbinrytr",
             "title": "Iterative Inorder Traversal of Binary Tree",
-            "article": "https://web.archive.org/web/20240301000000/https://takeuforward.org/data-structure/inorder-traversal-of-binary-tree/",
+            "article": "https://web.archive.org/web/20231001142327/https://takeuforward.org/data-structure/inorder-traversal-of-binary-tree/",
             "youtube": "https://www.youtube.com/watch?v=lxTGsVXjwvM",
             "practice": [
               {
@@ -5682,7 +5682,7 @@
           {
             "id": "pstrdrtrvrslfbinrytrsing2stck",
             "title": "Post-order Traversal of Binary Tree using 2 stack",
-            "article": "https://web.archive.org/web/20240301000000/https://takeuforward.org/data-structure/iterative-postorder-traversal-of-binary-tree-using-2-stack",
+            "article": "https://web.archive.org/web/*/https://takeuforward.org/data-structure/iterative-postorder-traversal-of-binary-tree-using-2-stack",
             "youtube": "https://www.youtube.com/watch?v=2YBhNLodD8Q",
             "practice": [
               {
@@ -5703,7 +5703,7 @@
           {
             "id": "pstrdrtrvrslfbinrytrsing1stck",
             "title": "Post-order Traversal of Binary Tree using 1 stack",
-            "article": "https://web.archive.org/web/20240301000000/https://takeuforward.org/data-structure/post-order-traversal-of-binary-tree/",
+            "article": "https://web.archive.org/web/20231209202638/https://takeuforward.org/data-structure/post-order-traversal-of-binary-tree/",
             "youtube": "https://www.youtube.com/watch?v=NzIGLLwZBS8",
             "practice": [
               {
@@ -5724,7 +5724,7 @@
           {
             "id": "prrdrinrdrndpstrdrtrvrslinntrvrsl",
             "title": "Preorder, Inorder, and Postorder Traversal in one Traversal",
-            "article": "https://web.archive.org/web/20240301000000/https://takeuforward.org/data-structure/preorder-inorder-postorder-traversals-in-one-traversal/",
+            "article": "https://web.archive.org/web/20231203132610/https://takeuforward.org/data-structure/preorder-inorder-postorder-traversals-in-one-traversal/",
             "youtube": "https://www.youtube.com/watch?v=ySp2epYvgTE",
             "practice": [
               {
@@ -5746,7 +5746,7 @@
           {
             "id": "hightfbinrytr",
             "title": "Height of a Binary Tree",
-            "article": "https://web.archive.org/web/20240301000000/https://takeuforward.org/data-structure/maximum-depth-of-a-binary-tree/",
+            "article": "https://web.archive.org/web/20240301232825/https://takeuforward.org/data-structure/maximum-depth-of-a-binary-tree/",
             "youtube": "https://www.youtube.com/watch?v=eD3tmO66aBA",
             "practice": [
               {
@@ -5767,7 +5767,7 @@
           {
             "id": "chckifthbinrytrishightblncdrnt",
             "title": "Check if the Binary tree is height-balanced or not",
-            "article": "https://web.archive.org/web/20240301000000/https://takeuforward.org/data-structure/check-if-the-binary-tree-is-balanced-binary-tree/",
+            "article": "https://web.archive.org/web/20240301233814/https://takeuforward.org/data-structure/check-if-the-binary-tree-is-balanced-binary-tree/",
             "youtube": "https://www.youtube.com/watch?v=Yt50Jfbd8Po",
             "practice": [
               {
@@ -5788,7 +5788,7 @@
           {
             "id": "dimtrfbinrytr",
             "title": "Diameter of Binary Tree",
-            "article": "https://web.archive.org/web/20240301000000/https://takeuforward.org/data-structure/calculate-the-diameter-of-a-binary-tree/",
+            "article": "https://web.archive.org/web/20240227144054/https://takeuforward.org/data-structure/calculate-the-diameter-of-a-binary-tree/",
             "youtube": "https://www.youtube.com/watch?v=Rezetez59Nk",
             "practice": [
               {
@@ -5809,7 +5809,7 @@
           {
             "id": "mximmpthsm",
             "title": "Maximum path sum",
-            "article": "https://web.archive.org/web/20240301000000/https://takeuforward.org/data-structure/maximum-sum-path-in-binary-tree/",
+            "article": "https://web.archive.org/web/20240302004005/https://takeuforward.org/data-structure/maximum-sum-path-in-binary-tree/",
             "youtube": "https://www.youtube.com/watch?v=WszrfSwMz58",
             "practice": [
               {
@@ -5830,7 +5830,7 @@
           {
             "id": "chckiftwtrsridnticlrnt",
             "title": "Check if two trees are identical or not",
-            "article": "https://web.archive.org/web/20240301000000/https://takeuforward.org/data-structure/check-if-two-trees-are-identical/",
+            "article": "https://web.archive.org/web/20231209215027/https://takeuforward.org/data-structure/check-if-two-trees-are-identical/",
             "youtube": "https://www.youtube.com/watch?v=BhuvF_-PWS0",
             "practice": [
               {
@@ -5851,7 +5851,7 @@
           {
             "id": "zigzgtrvrslfbinrytr",
             "title": "Zig Zag Traversal of Binary Tree",
-            "article": "https://web.archive.org/web/20240301000000/https://takeuforward.org/data-structure/zig-zag-traversal-of-binary-tree/",
+            "article": "https://web.archive.org/web/20240302010749/https://takeuforward.org/data-structure/zig-zag-traversal-of-binary-tree/",
             "youtube": "https://www.youtube.com/watch?v=3OXWEdlIGl4",
             "practice": [
               {
@@ -5872,7 +5872,7 @@
           {
             "id": "bndrytrvrslfbinrytr",
             "title": "Boundary Traversal of Binary Tree",
-            "article": "https://web.archive.org/web/20240301000000/https://takeuforward.org/data-structure/boundary-traversal-of-a-binary-tree/",
+            "article": "https://web.archive.org/web/20231218160254/https://takeuforward.org/data-structure/boundary-traversal-of-a-binary-tree/",
             "youtube": "https://www.youtube.com/watch?v=0ca1nvR0be4",
             "practice": [
               {
@@ -5893,7 +5893,7 @@
           {
             "id": "vrticlrdrtrvrslfbinrytr",
             "title": "Vertical Order Traversal of Binary Tree",
-            "article": "https://web.archive.org/web/20240301000000/https://takeuforward.org/data-structure/vertical-order-traversal-of-binary-tree/",
+            "article": "https://web.archive.org/web/20231001160730/https://takeuforward.org/data-structure/vertical-order-traversal-of-binary-tree/",
             "youtube": "https://www.youtube.com/watch?v=q_a6lpbKJdw",
             "practice": [
               {
@@ -5914,7 +5914,7 @@
           {
             "id": "tpviwfbinrytr",
             "title": "Top View of Binary Tree",
-            "article": "https://web.archive.org/web/20240301000000/https://takeuforward.org/data-structure/top-view-of-a-binary-tree/",
+            "article": "https://web.archive.org/web/20231209210218/https://takeuforward.org/data-structure/top-view-of-a-binary-tree/",
             "youtube": "https://www.youtube.com/watch?v=Et9OCDNvJ78",
             "practice": [
               {
@@ -5935,7 +5935,7 @@
           {
             "id": "bttmviwfbinrytr",
             "title": "Bottom View of Binary Tree",
-            "article": "https://web.archive.org/web/20240301000000/https://takeuforward.org/data-structure/bottom-view-of-a-binary-tree/",
+            "article": "https://web.archive.org/web/20231203150907/https://takeuforward.org/data-structure/bottom-view-of-a-binary-tree/",
             "youtube": "https://www.youtube.com/watch?v=0FtVY6I4pB8",
             "practice": [
               {
@@ -5956,7 +5956,7 @@
           {
             "id": "rightlftviwfbinrytr",
             "title": "Right/Left View of Binary Tree",
-            "article": "https://web.archive.org/web/20240301000000/https://takeuforward.org/data-structure/right-left-view-of-binary-tree/",
+            "article": "https://web.archive.org/web/20240303233049/https://takeuforward.org/data-structure/right-left-view-of-binary-tree/",
             "youtube": "https://www.youtube.com/watch?v=KV4mRzTjlAk",
             "practice": [
               {
@@ -5977,7 +5977,7 @@
           {
             "id": "symmtricbinrytr",
             "title": "Symmetric Binary Tree",
-            "article": "https://web.archive.org/web/20240301000000/https://takeuforward.org/data-structure/check-for-symmetrical-binary-tree/",
+            "article": "https://web.archive.org/web/20240303222525/https://takeuforward.org/data-structure/check-for-symmetrical-binary-tree/",
             "youtube": "https://www.youtube.com/watch?v=nKggiEpBE",
             "practice": [
               {
@@ -6003,7 +6003,7 @@
           {
             "id": "rttndpthinbinrytr",
             "title": "Root to Node Path in Binary Tree",
-            "article": "https://web.archive.org/web/20240301000000/https://takeuforward.org/data-structure/print-root-to-node-path-in-a-binary-tree/",
+            "article": "https://web.archive.org/web/20231203145040/https://takeuforward.org/data-structure/print-root-to-node-path-in-a-binary-tree/",
             "youtube": "https://www.youtube.com/watch?v=fmflMqVOC7k",
             "practice": [
               {
@@ -6020,7 +6020,7 @@
           {
             "id": "lcinbinrytr",
             "title": "LCA in Binary Tree",
-            "article": "https://web.archive.org/web/20240301000000/https://takeuforward.org/data-structure/lowest-common-ancestor-for-two-given-nodes/",
+            "article": "https://web.archive.org/web/20231205013335/https://takeuforward.org/data-structure/lowest-common-ancestor-for-two-given-nodes/",
             "youtube": "https://www.youtube.com/watch?v=_-QHfMDde90",
             "practice": [
               {
@@ -6041,7 +6041,7 @@
           {
             "id": "mximmwidthfbinrytr",
             "title": "Maximum width of a Binary Tree",
-            "article": "https://web.archive.org/web/20240301000000/https://takeuforward.org/data-structure/maximum-width-of-a-binary-tree/",
+            "article": "https://web.archive.org/web/20240102151310/https://takeuforward.org/data-structure/maximum-width-of-a-binary-tree/",
             "youtube": "https://www.youtube.com/watch?v=ZbybYvcVLks",
             "practice": [
               {
@@ -6062,7 +6062,7 @@
           {
             "id": "chckfrchildrnsmprprty",
             "title": "Check for Children Sum Property",
-            "article": "https://web.archive.org/web/20240301000000/https://takeuforward.org/data-structure/check-for-children-sum-property-in-a-binary-tree/",
+            "article": "https://web.archive.org/web/20231206220436/https://takeuforward.org/data-structure/check-for-children-sum-property-in-a-binary-tree/",
             "youtube": "https://www.youtube.com/watch?v=fnmisPM6cVo",
             "practice": [
               {
@@ -6117,7 +6117,7 @@
           {
             "id": "cntttlndsincmpltbinrytr",
             "title": "Count total Nodes in a COMPLETE Binary Tree",
-            "article": "https://web.archive.org/web/20240301000000/https://takeuforward.org/binary-tree/count-number-of-nodes-in-a-binary-tree/",
+            "article": "https://web.archive.org/web/20240302001138/https://takeuforward.org/binary-tree/count-number-of-nodes-in-a-binary-tree/",
             "youtube": "https://www.youtube.com/watch?v=u-yWemKGWO0",
             "practice": [
               {
@@ -6155,7 +6155,7 @@
           {
             "id": "cnstrctbinrytrfrminrdrndprrdr",
             "title": "Construct Binary Tree from inorder and preorder",
-            "article": "https://web.archive.org/web/20240301000000/https://takeuforward.org/data-structure/construct-a-binary-tree-from-inorder-and-preorder-traversal/",
+            "article": "https://web.archive.org/web/20240303224153/https://takeuforward.org/data-structure/construct-a-binary-tree-from-inorder-and-preorder-traversal/",
             "youtube": "https://www.youtube.com/watch?v=aZNaLrVebKQ",
             "practice": [
               {
@@ -6176,7 +6176,7 @@
           {
             "id": "cnstrctthbinrytrfrmpstrdrndinrdrtrvrsl",
             "title": "Construct the Binary Tree from Postorder and Inorder Traversal",
-            "article": "https://web.archive.org/web/20240301000000/https://takeuforward.org/data-structure/construct-binary-tree-from-inorder-and-postorder-traversal/",
+            "article": "https://web.archive.org/web/20231002041722/https://takeuforward.org/data-structure/construct-binary-tree-from-inorder-and-postorder-traversal/",
             "youtube": "https://www.youtube.com/watch?v=LgLRTaEMRVc",
             "practice": [
               {
@@ -6197,7 +6197,7 @@
           {
             "id": "sriliznddsrilizbinrytr",
             "title": "Serialize and deserialize Binary Tree",
-            "article": "https://web.archive.org/web/20240301000000/https://takeuforward.org/data-structure/serialize-and-deserialize-a-binary-tree/",
+            "article": "https://web.archive.org/web/20240302011640/https://takeuforward.org/data-structure/serialize-and-deserialize-a-binary-tree/",
             "youtube": "https://www.youtube.com/watch?v=-YbXySKJsX8",
             "practice": [
               {
@@ -6218,7 +6218,7 @@
           {
             "id": "mrrisprrdrtrvrslfbinrytr",
             "title": "Morris Preorder Traversal of a Binary Tree",
-            "article": "https://web.archive.org/web/20240301000000/https://takeuforward.org/data-structure/morris-preorder-traversal-of-a-binary-tree/",
+            "article": "https://web.archive.org/web/20231205010852/https://takeuforward.org/data-structure/morris-preorder-traversal-of-a-binary-tree/",
             "youtube": "https://www.youtube.com/watch?v=80Zug6D1_r4",
             "practice": [
               {
@@ -6239,7 +6239,7 @@
           {
             "id": "mrrisinrdrtrvrslfbinrytr",
             "title": "Morris Inorder Traversal of a Binary Tree",
-            "article": "https://web.archive.org/web/20240301000000/https://takeuforward.org/data-structure/morris-inorder-traversal-of-a-binary-tree/",
+            "article": "https://web.archive.org/web/20231209215054/https://takeuforward.org/data-structure/morris-inorder-traversal-of-a-binary-tree/",
             "youtube": "https://www.youtube.com/watch?v=80Zug6D1_r4",
             "practice": [
               {
@@ -6260,7 +6260,7 @@
           {
             "id": "flttnbinrytrtlinkdlist",
             "title": "Flatten Binary Tree to LinkedList",
-            "article": "https://web.archive.org/web/20240301000000/https://takeuforward.org/data-structure/flatten-binary-tree-to-linked-list/",
+            "article": "https://web.archive.org/web/20240303213432/https://takeuforward.org/data-structure/flatten-binary-tree-to-linked-list/",
             "youtube": "https://www.youtube.com/watch?v=sWf7k1x9XR4",
             "practice": [
               {
@@ -6292,7 +6292,7 @@
           {
             "id": "intrdctintbinrysrchtr",
             "title": "Introduction to Binary Search Tree",
-            "article": "https://web.archive.org/web/20240301000000/https://takeuforward.org/binary-search-tree/introduction-to-binary-search-trees/",
+            "article": "https://web.archive.org/web/20240303232937/https://takeuforward.org/binary-search-tree/introduction-to-binary-search-trees/",
             "youtube": "https://www.youtube.com/watch?v=p7-9UvDQZ3w",
             "practice": [
               {
@@ -6309,7 +6309,7 @@
           {
             "id": "srchinbinrysrchtr",
             "title": "Search in a Binary Search Tree",
-            "article": "https://web.archive.org/web/20240301000000/https://takeuforward.org/data-structure/search-in-a-binary-search-tree-2/",
+            "article": "https://web.archive.org/web/20231209211717/https://takeuforward.org/data-structure/search-in-a-binary-search-tree-2/",
             "youtube": "https://www.youtube.com/watch?v=KcNt6v_56cc",
             "practice": [
               {
@@ -6352,7 +6352,7 @@
           {
             "id": "cilinbinrysrchtr",
             "title": "Ceil in a Binary Search Tree",
-            "article": "https://web.archive.org/web/20240301000000/https://takeuforward.org/binary-search-tree/ceil-in-a-binary-search-tree/",
+            "article": "https://web.archive.org/web/20240303212322/https://takeuforward.org/binary-search-tree/ceil-in-a-binary-search-tree/",
             "youtube": "https://www.youtube.com/watch?v=KSsk8AhdOZA",
             "practice": [
               {
@@ -6369,7 +6369,7 @@
           {
             "id": "flrinbinrysrchtr",
             "title": "Floor in a Binary Search Tree",
-            "article": "https://web.archive.org/web/20240301000000/https://takeuforward.org/binary-search-tree/floor-in-a-binary-search-tree/",
+            "article": "https://web.archive.org/web/20240303211827/https://takeuforward.org/binary-search-tree/floor-in-a-binary-search-tree/",
             "youtube": "https://www.youtube.com/watch?v=xm_W1ub-K-w",
             "practice": [
               {
@@ -6428,7 +6428,7 @@
           {
             "id": "findkthsmllstlrgstlmntinbst",
             "title": "Find K-th smallest/largest element in BST",
-            "article": "https://web.archive.org/web/20240301000000/https://takeuforward.org/data-structure/kth-largest-smallest-element-in-binary-search-tree/",
+            "article": "https://web.archive.org/web/20231002052511/https://takeuforward.org/data-structure/kth-largest-smallest-element-in-binary-search-tree/",
             "youtube": "https://www.youtube.com/watch?v=9TJYWh0adfk",
             "practice": [
               {
@@ -6620,7 +6620,7 @@
           {
             "id": "grphndtyps",
             "title": "Graph and Types",
-            "article": "https://web.archive.org/web/20240301000000/https://takeuforward.org/graph/introduction-to-graph/",
+            "article": "https://web.archive.org/web/20240302012138/https://takeuforward.org/graph/introduction-to-graph/",
             "youtube": "https://www.youtube.com/watch?v=M3_pLsDdeuU",
             "practice": [
               {
@@ -6637,7 +6637,7 @@
           {
             "id": "grphrprsnttinc",
             "title": "Graph Representation | C++",
-            "article": "https://web.archive.org/web/20240301000000/https://takeuforward.org/graph/graph-representation-in-c/",
+            "article": "https://web.archive.org/web/20231203133239/https://takeuforward.org/graph/graph-representation-in-c/",
             "youtube": "https://www.youtube.com/watch?v=3oI-34aPMWM",
             "practice": [
               {
@@ -6671,7 +6671,7 @@
           {
             "id": "cnnctdcmpnntslgicxplntin",
             "title": "Connected Components | Logic Explanation",
-            "article": "https://web.archive.org/web/20240301000000/https://takeuforward.org/graph/connected-components-in-graphs/",
+            "article": "https://web.archive.org/web/20231203140958/https://takeuforward.org/graph/connected-components-in-graphs/",
             "youtube": "https://www.youtube.com/watch?v=lea-Wl_uWXY",
             "practice": [
               {
@@ -6692,7 +6692,7 @@
           {
             "id": "bfs",
             "title": "BFS",
-            "article": "https://web.archive.org/web/20240301000000/https://takeuforward.org/graph/breadth-first-search-bfs-level-order-traversal/",
+            "article": "https://web.archive.org/web/20231209212822/https://takeuforward.org/graph/breadth-first-search-bfs-level-order-traversal/",
             "youtube": "https://www.youtube.com/watch?v=-tgVpUgsQ5k",
             "practice": [
               {
@@ -6713,7 +6713,7 @@
           {
             "id": "dfs",
             "title": "DFS",
-            "article": "https://web.archive.org/web/20240301000000/https://takeuforward.org/data-structure/depth-first-search-dfs/",
+            "article": "https://web.archive.org/web/20231203140705/https://takeuforward.org/data-structure/depth-first-search-dfs/",
             "youtube": "https://www.youtube.com/watch?v=Qzf1a--rhp8",
             "practice": [
               {
@@ -6739,7 +6739,7 @@
           {
             "id": "nmbrfprvincsltcd",
             "title": "Number of provinces (leetcode)",
-            "article": "https://web.archive.org/web/20240301000000/https://takeuforward.org/data-structure/number-of-provinces/",
+            "article": "https://web.archive.org/web/20240303230218/https://takeuforward.org/data-structure/number-of-provinces/",
             "youtube": "https://www.youtube.com/watch?v=ACzkVtewUYA",
             "practice": [
               {
@@ -6777,7 +6777,7 @@
           {
             "id": "rttnrngs",
             "title": "Rotten Oranges",
-            "article": "https://web.archive.org/web/20240301000000/https://takeuforward.org/data-structure/rotten-oranges-min-time-to-rot-all-oranges-bfs/",
+            "article": "https://web.archive.org/web/20231002035615/https://takeuforward.org/data-structure/rotten-oranges-min-time-to-rot-all-oranges-bfs/",
             "youtube": "https://www.youtube.com/watch?v=yf3oUhkvqA0",
             "practice": [
               {
@@ -6798,7 +6798,7 @@
           {
             "id": "fldfill",
             "title": "Flood fill",
-            "article": "https://web.archive.org/web/20240301000000/https://takeuforward.org/graph/flood-fill-algorithm-graphs/",
+            "article": "https://web.archive.org/web/20231002055103/https://takeuforward.org/graph/flood-fill-algorithm-graphs/",
             "youtube": "https://www.youtube.com/watch?v=C-2_uSRli8o",
             "practice": [
               {
@@ -6819,7 +6819,7 @@
           {
             "id": "cycldtctininnirctdgrphbfs",
             "title": "Cycle Detection in unirected Graph (bfs)",
-            "article": "https://web.archive.org/web/20240301000000/https://takeuforward.org/data-structure/detect-cycle-in-an-undirected-graph-using-bfs/",
+            "article": "https://web.archive.org/web/20231001162148/https://takeuforward.org/data-structure/detect-cycle-in-an-undirected-graph-using-bfs/",
             "youtube": "https://www.youtube.com/watch?v=BPlrALf1LDU",
             "practice": [
               {
@@ -6836,7 +6836,7 @@
           {
             "id": "cycldtctininndirctdgrphdfs",
             "title": "Cycle Detection in undirected Graph (dfs)",
-            "article": "https://web.archive.org/web/20240301000000/https://takeuforward.org/data-structure/detect-cycle-in-an-undirected-graph-using-dfs/",
+            "article": "https://web.archive.org/web/20231203131906/https://takeuforward.org/data-structure/detect-cycle-in-an-undirected-graph-using-dfs/",
             "youtube": "https://www.youtube.com/watch?v=zQ3zgFypzX4",
             "practice": [
               {
@@ -6853,7 +6853,7 @@
           {
             "id": "01mtrixbfsprblm",
             "title": "0/1 Matrix (Bfs Problem)",
-            "article": "https://web.archive.org/web/20240301000000/https://takeuforward.org/graph/distance-of-nearest-cell-having-1/",
+            "article": "https://web.archive.org/web/20231206213315/https://takeuforward.org/graph/distance-of-nearest-cell-having-1/",
             "youtube": "https://www.youtube.com/watch?v=edXdVwkYHF8",
             "practice": [
               {
@@ -6874,7 +6874,7 @@
           {
             "id": "srrnddrginsdfs",
             "title": "Surrounded Regions (dfs)",
-            "article": "https://web.archive.org/web/20240301000000/https://takeuforward.org/graph/surrounded-regions-replace-os-with-xs/",
+            "article": "https://web.archive.org/web/20231209125324/https://takeuforward.org/graph/surrounded-regions-replace-os-with-xs/",
             "youtube": "https://www.youtube.com/watch?v=BtdgAys4yMk",
             "practice": [
               {
@@ -6895,7 +6895,7 @@
           {
             "id": "nmbrfnclvsfldfillimplmnttinmltisrc",
             "title": "Number of Enclaves [flood fill implementation - multisource]",
-            "article": "https://web.archive.org/web/20240301000000/https://takeuforward.org/graph/number-of-enclaves/",
+            "article": "https://web.archive.org/web/20240104220804/https://takeuforward.org/graph/number-of-enclaves/",
             "youtube": "https://www.youtube.com/watch?v=rxKcepXQgU4",
             "practice": [
               {
@@ -6916,7 +6916,7 @@
           {
             "id": "wrdlddr1",
             "title": "Word ladder - 1",
-            "article": "https://web.archive.org/web/20240301000000/https://takeuforward.org/graph/word-ladder-i-g-29/",
+            "article": "https://web.archive.org/web/20231001163311/https://takeuforward.org/graph/word-ladder-i-g-29/",
             "youtube": "https://www.youtube.com/watch?v=tRPda0rcf8E",
             "practice": [
               {
@@ -6937,7 +6937,7 @@
           {
             "id": "wrdlddr2",
             "title": "Word ladder - 2",
-            "article": "https://web.archive.org/web/20240301000000/https://takeuforward.org/graph/g-30-word-ladder-ii/",
+            "article": "https://web.archive.org/web/20231206202832/https://takeuforward.org/graph/g-30-word-ladder-ii/",
             "youtube": "https://www.youtube.com/watch?v=tRPda0rcf8E",
             "practice": [
               {
@@ -6958,7 +6958,7 @@
           {
             "id": "nmbrfdistinctislndsdfsmltisrc",
             "title": "Number of Distinct Islands [dfs multisource]",
-            "article": "https://web.archive.org/web/20240301000000/https://takeuforward.org/data-structure/number-of-islands/",
+            "article": "https://web.archive.org/web/20231216073359/https://takeuforward.org/data-structure/number-of-islands/",
             "youtube": "https://www.youtube.com/watch?v=muncqlKJrH0",
             "practice": [
               {
@@ -6979,7 +6979,7 @@
           {
             "id": "biprtitgrphdfs",
             "title": "Bipartite Graph (DFS)",
-            "article": "https://web.archive.org/web/20240301000000/https://takeuforward.org/graph/bipartite-graph-dfs-implementation/",
+            "article": "https://web.archive.org/web/20231209222716/https://takeuforward.org/graph/bipartite-graph-dfs-implementation/",
             "youtube": "https://www.youtube.com/watch?v=KG5YFfR0j8A",
             "practice": [
               {
@@ -7000,7 +7000,7 @@
           {
             "id": "cycldtctinindirctdgrphdfs",
             "title": "Cycle Detection in Directed Graph (DFS)",
-            "article": "https://web.archive.org/web/20240301000000/https://takeuforward.org/data-structure/detect-cycle-in-a-directed-graph-using-dfs-g-19/",
+            "article": "https://web.archive.org/web/20231203142309/https://takeuforward.org/data-structure/detect-cycle-in-a-directed-graph-using-dfs-g-19/",
             "youtube": "https://www.youtube.com/watch?v=9twcmtQj4DU",
             "practice": [
               {
@@ -7026,7 +7026,7 @@
           {
             "id": "tpsrt",
             "title": "Topo Sort",
-            "article": "https://web.archive.org/web/20240301000000/https://takeuforward.org/data-structure/topological-sort-algorithm-dfs-g-21/",
+            "article": "https://web.archive.org/web/20231205013905/https://takeuforward.org/data-structure/topological-sort-algorithm-dfs-g-21/",
             "youtube": "https://www.youtube.com/watch?v=5lZ0iJMrUMk",
             "practice": [
               {
@@ -7043,7 +7043,7 @@
           {
             "id": "khnslgrithm",
             "title": "Kahn's Algorithm",
-            "article": "https://web.archive.org/web/20240301000000/https://takeuforward.org/data-structure/kahns-algorithm-topological-sort-algorithm-bfs-g-22/",
+            "article": "https://web.archive.org/web/*/https://takeuforward.org/data-structure/kahns-algorithm-topological-sort-algorithm-bfs-g-22/",
             "youtube": "https://www.youtube.com/watch?v=73sneFXuTEg",
             "practice": [
               {
@@ -7077,7 +7077,7 @@
           {
             "id": "crsschdli",
             "title": "Course Schedule - I",
-            "article": "https://web.archive.org/web/20240301000000/https://takeuforward.org/data-structure/course-schedule-i-and-ii-pre-requisite-tasks-topological-sort-g-24/",
+            "article": "https://web.archive.org/web/20240205194838/https://takeuforward.org/data-structure/course-schedule-i-and-ii-pre-requisite-tasks-topological-sort-g-24/",
             "youtube": "https://www.youtube.com/watch?v=WAOfKpxYHR8",
             "practice": [
               {
@@ -7098,7 +7098,7 @@
           {
             "id": "crsschdlii",
             "title": "Course Schedule - II",
-            "article": "https://web.archive.org/web/20240301000000/https://takeuforward.org/data-structure/course-schedule-i-and-ii-pre-requisite-tasks-topological-sort-g-24/",
+            "article": "https://web.archive.org/web/20240205194838/https://takeuforward.org/data-structure/course-schedule-i-and-ii-pre-requisite-tasks-topological-sort-g-24/",
             "youtube": "https://www.youtube.com/watch?v=WAOfKpxYHR8",
             "practice": [
               {
