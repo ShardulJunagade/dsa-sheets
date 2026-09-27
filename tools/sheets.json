@@ -1,0 +1,29 @@
+[
+  {
+    "dir": "a2z",
+    "title": "Striver's A2Z DSA Sheet",
+    "blurb": "Learn DSA from the basics to advanced topics, step by step.",
+    "src": "sources/a2z.raw.json",
+    "snapshots": "sources/a2z.snapshots.json",
+    "archived": "Mar 2025"
+  },
+  {
+    "dir": "sde",
+    "title": "Striver's SDE Sheet",
+    "blurb": "The most asked coding interview problems, grouped by day.",
+    "src": "sources/sde.raw.json",
+    "snapshots": "sources/sde.snapshots.json",
+    "archived": "Oct 2024",
+    "step_label": "Day"
+  },
+  {
+    "dir": "system-design",
+    "title": "System Design Sheet",
+    "blurb": "System design roadmap from the basics to practice problems.",
+    "src": "sources/system-design.raw.json",
+    "snapshots": "sources/system-design.snapshots.json",
+    "intro": "sources/system-design.intro.html",
+    "archived": "Jan 2025",
+    "item_label": "topics"
+  }
+]

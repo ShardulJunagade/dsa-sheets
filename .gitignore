@@ -1,0 +1,7 @@
+# Saved takeuforward pages: local reference only, not published
+console/
+# Copied intro text: shown locally via intro.js, not published
+sources/*.intro.html
+sheets/*/intro.js
+__pycache__/
+node_modules/

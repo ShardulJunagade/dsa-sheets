@@ -1,0 +1,705 @@
+[
+  {
+    "step": 1,
+    "name": "Basics",
+    "groups": [
+      {
+        "name": null,
+        "items": [
+          {
+            "id": "What-is-System-Design",
+            "title": "What is System Design?",
+            "article": null,
+            "youtube": "https://www.youtube.com/watch?v=SqcXvc3ZmRU",
+            "practice": [],
+            "difficulty": null
+          },
+          {
+            "id": "Horizontal-vs-Vertical-Scaling",
+            "title": "Horizontal vs. Vertical Scaling",
+            "article": null,
+            "youtube": "https://www.youtube.com/watch?v=xpDnVSmNFX0",
+            "practice": [],
+            "difficulty": null
+          },
+          {
+            "id": "What-is-Capacity-Estimation",
+            "title": "What is Capacity Estimation?",
+            "article": null,
+            "youtube": "https://www.youtube.com/watch?v=0myM0k1mjZw",
+            "practice": [],
+            "difficulty": null
+          },
+          {
+            "id": "What-is-HTTP",
+            "title": "What is HTTP?",
+            "article": "https://web.archive.org/web/20240106123240/https://takeuforward.org/computer-network/what-are-http-and-https-protocols/",
+            "youtube": null,
+            "practice": [],
+            "difficulty": null
+          },
+          {
+            "id": "What-is-the-Internet-TCP/IP-stack",
+            "title": "What is the Internet TCP/IP stack?",
+            "article": "https://web.archive.org/web/20240302000700/https://takeuforward.org/computer-network/explain-tcp-model/",
+            "youtube": null,
+            "practice": [],
+            "difficulty": null
+          },
+          {
+            "id": "What-happens-when-you-enter-Google-com",
+            "title": "What happens when you enter Google.com?",
+            "article": "https://web.archive.org/web/20240303230738/https://takeuforward.org/computer-network/what-happens-when-you-enter-google-com/",
+            "youtube": null,
+            "practice": [],
+            "difficulty": null
+          },
+          {
+            "id": "What-are-Relational-Databases",
+            "title": "What are Relational Databases?",
+            "article": "https://web.archive.org/web/20231002051129/https://takeuforward.org/interviews/must-do-questions-for-dbms-cn-os-interviews-sde-core-sheet/",
+            "youtube": null,
+            "practice": [],
+            "difficulty": null
+          },
+          {
+            "id": "What-are-Database-Indexes",
+            "title": "What are Database Indexes?",
+            "article": null,
+            "youtube": "https://www.youtube.com/watch?v=mTNkqMDCasI",
+            "practice": [],
+            "difficulty": null
+          },
+          {
+            "id": "What-are-NoSQL-databases",
+            "title": "What are NoSQL databases?",
+            "article": null,
+            "youtube": "https://www.youtube.com/watch?v=xQnIN9bW0og",
+            "practice": [],
+            "difficulty": null
+          },
+          {
+            "id": "What-is-a-Cache",
+            "title": "What is a Cache?",
+            "article": "https://web.archive.org/web/20240302000120/https://takeuforward.org/operating-system/what-is-cache/",
+            "youtube": null,
+            "practice": [],
+            "difficulty": null
+          },
+          {
+            "id": "What-is-Thrashing",
+            "title": "What is Thrashing?",
+            "article": "https://web.archive.org/web/20231209205746/https://takeuforward.org/operating-system/why-does-thrashing-occur/",
+            "youtube": null,
+            "practice": [],
+            "difficulty": null
+          },
+          {
+            "id": "What-are-Threads",
+            "title": "What are Threads?",
+            "article": "https://web.archive.org/web/20240302001959/https://takeuforward.org/operating-system/difference-between-process-program-and-thread-different-types/",
+            "youtube": null,
+            "practice": [],
+            "difficulty": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "step": 2,
+    "name": "Load Balancing",
+    "groups": [
+      {
+        "name": null,
+        "items": [
+          {
+            "id": "What-is-Load-Balancing",
+            "title": "What is Load Balancing?",
+            "article": null,
+            "youtube": "https://www.youtube.com/watch?v=K0Ta65OqQkY",
+            "practice": [],
+            "difficulty": null
+          },
+          {
+            "id": "What-is-Consistent-Hashing",
+            "title": "What is Consistent Hashing?",
+            "article": null,
+            "youtube": "https://www.youtube.com/watch?v=zaRkONvyGr8",
+            "practice": [],
+            "difficulty": null
+          },
+          {
+            "id": "What-is-Sharding",
+            "title": "What is Sharding?",
+            "article": null,
+            "youtube": "https://www.youtube.com/watch?v=5faMjKuB9bc",
+            "practice": [],
+            "difficulty": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "step": 3,
+    "name": "DataStores",
+    "groups": [
+      {
+        "name": null,
+        "items": [
+          {
+            "id": "What-are-Bloom-Filters",
+            "title": "What are Bloom Filters?",
+            "article": null,
+            "youtube": "https://www.youtube.com/watch?v=bgzUdBVr5tE",
+            "practice": [],
+            "difficulty": null
+          },
+          {
+            "id": "What-is-Data-Replication",
+            "title": "What is Data Replication?",
+            "article": null,
+            "youtube": "https://www.youtube.com/watch?v=GeGxgmPTe4c",
+            "practice": [],
+            "difficulty": null
+          },
+          {
+            "id": "How-are-NoSQL-databases-optimized",
+            "title": "How are NoSQL databases optimized?",
+            "article": null,
+            "youtube": "https://www.youtube.com/watch?v=_5vrfuwhvlQ",
+            "practice": [],
+            "difficulty": null
+          },
+          {
+            "id": "What-are-Location-based-Databases",
+            "title": "What are Location-based Databases?",
+            "article": null,
+            "youtube": "https://www.youtube.com/watch?v=OcUKFIjhKu0",
+            "practice": [],
+            "difficulty": null
+          },
+          {
+            "id": "Database-Migrations",
+            "title": "Database Migrations",
+            "article": "https://interviewready.io/learn/system-design-course/database-migrations/database-migrations?_aff=TAKEUFORWARD",
+            "youtube": null,
+            "practice": [],
+            "difficulty": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "step": 4,
+    "name": "Consistency vs. Availability",
+    "groups": [
+      {
+        "name": null,
+        "items": [
+          {
+            "id": "What-is-Data-Consistency",
+            "title": "What is Data Consistency?",
+            "article": null,
+            "youtube": "https://www.youtube.com/watch?v=m4q7VkgDWrM",
+            "practice": [],
+            "difficulty": null
+          },
+          {
+            "id": "Data-Consistency-Levels",
+            "title": "Data Consistency Levels",
+            "article": "https://interviewready.io/learn/system-design-course/consistency-in-distributed-systems/what-is-data-consistency?_aff=TAKEUFORWARD",
+            "youtube": null,
+            "practice": [],
+            "difficulty": null
+          },
+          {
+            "id": "Transaction-Isolation-Levels",
+            "title": "Transaction Isolation Levels",
+            "article": "https://interviewready.io/learn/system-design-course/consistency-in-distributed-systems/Transaction-Isolation-Levels-Read-Uncommitted-Data?_aff=TAKEUFORWARD",
+            "youtube": null,
+            "practice": [],
+            "difficulty": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "step": 5,
+    "name": "Message Queues",
+    "groups": [
+      {
+        "name": null,
+        "items": [
+          {
+            "id": "What-is-a-Message-Queue",
+            "title": "What is a Message Queue?",
+            "article": null,
+            "youtube": "https://www.youtube.com/watch?v=oUJbuFMyBDk",
+            "practice": [],
+            "difficulty": null
+          },
+          {
+            "id": "What-is-the-publisher-subscriber-model",
+            "title": "What is the publisher-subscriber model?",
+            "article": null,
+            "youtube": "https://www.youtube.com/watch?v=FMhbR_kQeHw",
+            "practice": [],
+            "difficulty": null
+          },
+          {
+            "id": "What-are-event-driven-systems",
+            "title": "What are event-driven systems?",
+            "article": null,
+            "youtube": "https://www.youtube.com/watch?v=rJHTK2TfZ1I",
+            "practice": [],
+            "difficulty": null
+          },
+          {
+            "id": "Database-as-a-Message-Queue",
+            "title": "Database as a Message Queue",
+            "article": null,
+            "youtube": "https://www.youtube.com/watch?v=9T-gNZ5bGCw",
+            "practice": [],
+            "difficulty": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "step": 6,
+    "name": "DevOps Concepts",
+    "groups": [
+      {
+        "name": null,
+        "items": [
+          {
+            "id": "What-is-a-Single-Point-of-Failure",
+            "title": "What is a Single Point of Failure?",
+            "article": null,
+            "youtube": "https://www.youtube.com/watch?v=-BOysyYErLY",
+            "practice": [],
+            "difficulty": null
+          },
+          {
+            "id": "What-are-Containers",
+            "title": "What are Containers?",
+            "article": null,
+            "youtube": "https://www.youtube.com/watch?v=GOuVeZmMee0",
+            "practice": [],
+            "difficulty": null
+          },
+          {
+            "id": "What-is-Service-Discovery-and-Heartbeats",
+            "title": "What is Service Discovery and Heartbeats?",
+            "article": null,
+            "youtube": "https://www.youtube.com/watch?v=lWE_UIbm8NA",
+            "practice": [],
+            "difficulty": null
+          },
+          {
+            "id": "How-to-avoid-Cascading-Failures",
+            "title": "How to avoid Cascading Failures?",
+            "article": null,
+            "youtube": "https://www.youtube.com/watch?v=xrizarXJgC8",
+            "practice": [],
+            "difficulty": null
+          },
+          {
+            "id": "Anomaly-Detection-in-Distributed-Systems",
+            "title": "Anomaly Detection in Distributed Systems",
+            "article": null,
+            "youtube": "https://www.youtube.com/watch?v=smiu01pLosI",
+            "practice": [],
+            "difficulty": null
+          },
+          {
+            "id": "Distributed-Rate-Limiting",
+            "title": "Distributed Rate Limiting",
+            "article": "https://interviewready.io/learn/system-design-course/distributed-rate-limiting/the_oracle_and_the_timer_wheel?_aff=TAKEUFORWARD",
+            "youtube": null,
+            "practice": [],
+            "difficulty": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "step": 7,
+    "name": "Caching",
+    "groups": [
+      {
+        "name": null,
+        "items": [
+          {
+            "id": "What-is-Distributed-Caching",
+            "title": "What is Distributed Caching?",
+            "article": null,
+            "youtube": "https://www.youtube.com/watch?v=U3RkDLtS7uY",
+            "practice": [],
+            "difficulty": null
+          },
+          {
+            "id": "What-are-Content-Delivery-Networks",
+            "title": "What are Content Delivery Networks?",
+            "article": null,
+            "youtube": "https://www.youtube.com/watch?v=8zX0rue2Hic",
+            "practice": [],
+            "difficulty": null
+          },
+          {
+            "id": "Write-Policies",
+            "title": "Write Policies",
+            "article": "https://interviewready.io/learn/system-design-course/caches-deep-dive/write-back-policy?_aff=TAKEUFORWARD",
+            "youtube": null,
+            "practice": [],
+            "difficulty": null
+          },
+          {
+            "id": "Replacement-Policies",
+            "title": "Replacement Policies",
+            "article": "https://interviewready.io/learn/system-design-course/caches-deep-dive/replacement-policies-segmented-lru?_aff=TAKEUFORWARD",
+            "youtube": null,
+            "practice": [],
+            "difficulty": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "step": 8,
+    "name": "Microservices",
+    "groups": [
+      {
+        "name": null,
+        "items": [
+          {
+            "id": "Microservices-vs-Monoliths",
+            "title": "Microservices vs. Monoliths",
+            "article": null,
+            "youtube": "https://www.youtube.com/watch?v=qYhRvH9tJKw",
+            "practice": [],
+            "difficulty": null
+          },
+          {
+            "id": "How-monoliths-are-migrated",
+            "title": "How monoliths are migrated",
+            "article": null,
+            "youtube": "https://www.youtube.com/watch?v=rckfN7xFig0",
+            "practice": [],
+            "difficulty": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "step": 9,
+    "name": "API Gateways",
+    "groups": [
+      {
+        "name": null,
+        "items": [
+          {
+            "id": "How-are-APIs-designed",
+            "title": "How are APIs designed?",
+            "article": null,
+            "youtube": "https://www.youtube.com/watch?v=_YlYuNMTCc8",
+            "practice": [],
+            "difficulty": null
+          },
+          {
+            "id": "What-are-asynchronous-APIs",
+            "title": "What are asynchronous APIs?",
+            "article": null,
+            "youtube": "https://www.youtube.com/watch?v=I8FeITQvLAk",
+            "practice": [],
+            "difficulty": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "step": 10,
+    "name": "Authentication Mechanisms",
+    "groups": [
+      {
+        "name": null,
+        "items": [
+          {
+            "id": "OAuth",
+            "title": "OAuth",
+            "article": null,
+            "youtube": "https://www.youtube.com/watch?v=65-6asTjuB8",
+            "practice": [],
+            "difficulty": null
+          },
+          {
+            "id": "Token-Based-Auth",
+            "title": "Token Based Auth",
+            "article": "https://interviewready.io/learn/system-design-course/security-in-distributed-systems/token-based-auth?_aff=TAKEUFORWARD",
+            "youtube": null,
+            "practice": [],
+            "difficulty": null
+          },
+          {
+            "id": "Access-Control-Lists-and-Rule-Engines",
+            "title": "Access Control Lists and Rule Engines",
+            "article": "https://interviewready.io/learn/system-design-course/security-in-distributed-systems/access-control-lists-and-rule-engines?_aff=TAKEUFORWARD",
+            "youtube": null,
+            "practice": [],
+            "difficulty": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "step": 11,
+    "name": "System Design Tradeoffs",
+    "groups": [
+      {
+        "name": null,
+        "items": [
+          {
+            "id": "Pull-vs-Push",
+            "title": "Pull vs. Push",
+            "article": "https://interviewready.io/learn/system-design-course/system-design-tradeoffs/pull-vs-push-architectures?_aff=TAKEUFORWARD",
+            "youtube": null,
+            "practice": [],
+            "difficulty": null
+          },
+          {
+            "id": "Memory-vs-Latency",
+            "title": "Memory vs. Latency",
+            "article": "https://interviewready.io/learn/system-design-course/system-design-tradeoffs/memory-vs-latency?_aff=TAKEUFORWARD",
+            "youtube": null,
+            "practice": [],
+            "difficulty": null
+          },
+          {
+            "id": "Throughput-vs-Latency",
+            "title": "Throughput vs. Latency",
+            "article": "https://interviewready.io/learn/system-design-course/system-design-tradeoffs/throughput-vs-latency?_aff=TAKEUFORWARD",
+            "youtube": null,
+            "practice": [],
+            "difficulty": null
+          },
+          {
+            "id": "Consistency-vs-Availability",
+            "title": "Consistency vs. Availability",
+            "article": "https://interviewready.io/learn/system-design-course/system-design-tradeoffs/consistency-vs-availability?_aff=TAKEUFORWARD",
+            "youtube": null,
+            "practice": [],
+            "difficulty": null
+          },
+          {
+            "id": "Latency-vs-Accuracy",
+            "title": "Latency vs. Accuracy",
+            "article": "https://interviewready.io/learn/system-design-course/system-design-tradeoffs/latency-vs-accuracy?_aff=TAKEUFORWARD",
+            "youtube": null,
+            "practice": [],
+            "difficulty": null
+          },
+          {
+            "id": "SQL-vs-NoSQL-databases",
+            "title": "SQL vs. NoSQL databases",
+            "article": "https://interviewready.io/learn/system-design-course/system-design-tradeoffs/sql-vs-nosql-databases?_aff=TAKEUFORWARD",
+            "youtube": null,
+            "practice": [],
+            "difficulty": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "step": 12,
+    "name": "Practice Problems",
+    "groups": [
+      {
+        "name": null,
+        "items": [
+          {
+            "id": "System-Design-of-a-Live-Streaming-App",
+            "title": "System Design of a Live-Streaming App",
+            "article": null,
+            "youtube": "https://www.youtube.com/watch?v=m8Icp_Cid5o",
+            "practice": [],
+            "difficulty": null
+          },
+          {
+            "id": "System-Design-of-Instagram",
+            "title": "System Design of Instagram",
+            "article": null,
+            "youtube": "https://www.youtube.com/watch?v=QmX2NPkJTKg",
+            "practice": [],
+            "difficulty": null
+          },
+          {
+            "id": "System-Design-of-Tinder",
+            "title": "System Design of Tinder",
+            "article": null,
+            "youtube": "https://www.youtube.com/watch?v=tndzLznxq40",
+            "practice": [],
+            "difficulty": null
+          },
+          {
+            "id": "System-Design-of-WhatsApp",
+            "title": "System Design of WhatsApp",
+            "article": null,
+            "youtube": "https://www.youtube.com/watch?v=vvhC64hQZMk",
+            "practice": [],
+            "difficulty": null
+          },
+          {
+            "id": "System-Design-of-TikTok",
+            "title": "System Design of TikTok",
+            "article": null,
+            "youtube": "https://www.youtube.com/watch?v=07BVxmVFDGY",
+            "practice": [],
+            "difficulty": null
+          },
+          {
+            "id": "System-Design-of-an-Online-Coding-Judge-Part-1",
+            "title": "System Design of an Online Coding Judge - Part 1",
+            "article": null,
+            "youtube": "https://www.youtube.com/watch?v=eg0nlYcbLpo&t=9s",
+            "practice": [],
+            "difficulty": null
+          },
+          {
+            "id": "System-Design-of-an-Online-Coding-Judge-Part-2",
+            "title": "System Design of an Online Coding Judge - Part 2",
+            "article": null,
+            "youtube": "https://www.youtube.com/watch?v=07jkn4jUtso&t=61s",
+            "practice": [],
+            "difficulty": null
+          },
+          {
+            "id": "System-Design-of-UPI-Payments",
+            "title": "System Design of UPI Payments",
+            "article": null,
+            "youtube": "https://www.youtube.com/watch?v=QpLy0_c_RXk&t=8s",
+            "practice": [],
+            "difficulty": null
+          },
+          {
+            "id": "System-Design-of-IRCTC",
+            "title": "System Design of IRCTC",
+            "article": null,
+            "youtube": "https://www.youtube.com/watch?v=j3etJx7M0Sc",
+            "practice": [],
+            "difficulty": null
+          },
+          {
+            "id": "System-Design-of-Netflix-Video-Onboarding-Pipeline",
+            "title": "System Design of Netflix Video Onboarding Pipeline",
+            "article": null,
+            "youtube": "https://www.youtube.com/watch?v=x9Hrn0oNmJM",
+            "practice": [],
+            "difficulty": null
+          },
+          {
+            "id": "System-Design-of-Doordash",
+            "title": "System Design of Doordash",
+            "article": null,
+            "youtube": "https://www.youtube.com/watch?v=DH2-vDPFiE4",
+            "practice": [],
+            "difficulty": null
+          },
+          {
+            "id": "System-Design-of-Amazon-Online-Shops",
+            "title": "System Design of Amazon Online Shops",
+            "article": null,
+            "youtube": "https://www.youtube.com/watch?v=2BWr0fsDSs0",
+            "practice": [],
+            "difficulty": null
+          },
+          {
+            "id": "System-Design-of-Google-Maps",
+            "title": "System Design of Google Maps",
+            "article": "https://interviewready.io/learn/system-design-course/design-a-location-based-service-like-google-maps/requirements-of-a-map-application?_aff=TAKEUFORWARD",
+            "youtube": null,
+            "practice": [],
+            "difficulty": null
+          },
+          {
+            "id": "System-Design-of-Gmail",
+            "title": "System Design of Gmail",
+            "article": "https://interviewready.io/learn/system-design-course/design-an-emailing-service-like-gmail/scope_and_requirement_setting?_aff=TAKEUFORWARD",
+            "youtube": null,
+            "practice": [],
+            "difficulty": null
+          },
+          {
+            "id": "System-Design-of-a-Chess-Website",
+            "title": "System Design of a Chess Website",
+            "article": "https://interviewready.io/learn/system-design-course/chess-design-building-a-highly-scalable-turn-based-gaming-website/requirements_of_a_chess_website?_aff=TAKEUFORWARD",
+            "youtube": null,
+            "practice": [],
+            "difficulty": null
+          },
+          {
+            "id": "System-Design-of-Uber",
+            "title": "System Design of Uber",
+            "article": "https://interviewready.io/learn/system-design-course/design-a-cab-aggregator-app-like-uber/requirements-of-a-cab-aggregator?_aff=TAKEUFORWARD",
+            "youtube": null,
+            "practice": [],
+            "difficulty": null
+          },
+          {
+            "id": "System-Design-of-Google-Docs",
+            "title": "System Design of Google Docs",
+            "article": "https://interviewready.io/learn/system-design-course/google-docs-collaborative-editor-design/Google-Docs-Requirements?_aff=TAKEUFORWARD",
+            "youtube": null,
+            "practice": [],
+            "difficulty": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "step": 13,
+    "name": "Additional Resources",
+    "groups": [
+      {
+        "name": null,
+        "items": [
+          {
+            "id": "Interview-Ready-Course",
+            "title": "InterviewReady Course",
+            "article": "https://interviewready.io/?_aff=TAKEUFORWARD&source_id=striver_blog",
+            "youtube": null,
+            "practice": [],
+            "difficulty": null
+          },
+          {
+            "id": "GitHub-Page",
+            "title": "GitHub Page",
+            "article": "https://github.com/InterviewReady/system-design-resources",
+            "youtube": null,
+            "practice": [],
+            "difficulty": null
+          },
+          {
+            "id": "Designing-Data-Intensive-Applications",
+            "title": "Designing Data-Intensive Applications",
+            "article": "https://amzn.to/3SyNAOy",
+            "youtube": null,
+            "practice": [],
+            "difficulty": null
+          }
+        ]
+      }
+    ]
+  }
+]

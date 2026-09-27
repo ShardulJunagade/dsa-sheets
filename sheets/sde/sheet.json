@@ -1,0 +1,3774 @@
+[
+  {
+    "step": 1,
+    "name": "Arrays",
+    "groups": [
+      {
+        "name": null,
+        "items": [
+          {
+            "id": "stmtrixzrs",
+            "title": "Set Matrix Zeros",
+            "article": "https://web.archive.org/web/20240301000000/https://takeuforward.org/data-structure/set-matrix-zero/",
+            "youtube": "https://www.youtube.com/watch?v=N0MgLvceX7M",
+            "practice": [
+              {
+                "label": "LC",
+                "url": "https://leetcode.com/problems/set-matrix-zeroes/"
+              },
+              {
+                "label": "GFG",
+                "url": "https://bit.ly/3SVaSig"
+              },
+              {
+                "label": "CN",
+                "url": "https://www.codingninjas.com/codestudio/problems/zero-matrix_1171153?utm_source=striver&utm_medium=website&utm_campaign=a_zcoursetuf"
+              }
+            ],
+            "difficulty": "Medium"
+          },
+          {
+            "id": "psclstringl",
+            "title": "Pascal's Triangle",
+            "article": "https://web.archive.org/web/20240301000000/https://takeuforward.org/data-structure/program-to-generate-pascals-triangle/",
+            "youtube": "https://www.youtube.com/watch?v=bR7mQgwQ_o8",
+            "practice": [
+              {
+                "label": "LC",
+                "url": "https://leetcode.com/problems/pascals-triangle/"
+              },
+              {
+                "label": "GFG",
+                "url": "https://bit.ly/3C95qlR"
+              },
+              {
+                "label": "CN",
+                "url": "https://www.codingninjas.com/codestudio/problems/print-pascal-s-triangle_6917910?utm_source=striver&utm_medium=website&utm_campaign=a_zcoursetuf"
+              }
+            ],
+            "difficulty": "Medium"
+          },
+          {
+            "id": "nxtprmttin",
+            "title": "Next Permutation",
+            "article": "https://web.archive.org/web/20240301000000/https://takeuforward.org/data-structure/next_permutation-find-next-lexicographically-greater-permutation/",
+            "youtube": "https://www.youtube.com/watch?v=JDOXKqF60RQ",
+            "practice": [
+              {
+                "label": "LC",
+                "url": "https://leetcode.com/problems/next-permutation/"
+              },
+              {
+                "label": "GFG",
+                "url": "https://bit.ly/3dug78u"
+              },
+              {
+                "label": "CN",
+                "url": "https://www.codingninjas.com/codestudio/problems/next-greater-permutation_6929564?utm_source=striver&utm_medium=website&utm_campaign=a_zcoursetuf"
+              }
+            ],
+            "difficulty": "Medium"
+          },
+          {
+            "id": "kdnslgrithm",
+            "title": "Kadane's Algorithm",
+            "article": "https://web.archive.org/web/20240301000000/https://takeuforward.org/data-structure/kadanes-algorithm-maximum-subarray-sum-in-an-array/",
+            "youtube": "https://www.youtube.com/watch?v=AHZpyENo7k4",
+            "practice": [
+              {
+                "label": "LC",
+                "url": "https://leetcode.com/problems/maximum-subarray/"
+              },
+              {
+                "label": "CN",
+                "url": "https://bit.ly/3HZltTa"
+              }
+            ],
+            "difficulty": "Easy"
+          },
+          {
+            "id": "srtnrryf0s1s2s",
+            "title": "Sort an array of 0's, 1's and 2's",
+            "article": "https://web.archive.org/web/20240301000000/https://takeuforward.org/data-structure/sort-an-array-of-0s-1s-and-2s/",
+            "youtube": "https://www.youtube.com/watch?v=tp8JIuCXBaU",
+            "practice": [
+              {
+                "label": "LC",
+                "url": "https://leetcode.com/problems/sort-colors/"
+              },
+              {
+                "label": "CN",
+                "url": "https://bit.ly/3tlM60B"
+              }
+            ],
+            "difficulty": "Medium"
+          },
+          {
+            "id": "stckbyndsll",
+            "title": "Stock Buy and Sell",
+            "article": "https://web.archive.org/web/20240301000000/https://takeuforward.org/data-structure/stock-buy-and-sell/",
+            "youtube": "https://www.youtube.com/watch?v=excAOvwF_Wk",
+            "practice": [
+              {
+                "label": "LC",
+                "url": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock/"
+              },
+              {
+                "label": "GFG",
+                "url": "https://bit.ly/3Qrx6H9"
+              },
+              {
+                "label": "CN",
+                "url": "https://www.codingninjas.com/codestudio/problems/best-time-to-buy-and-sell-stock_6194560?utm_source=striver&utm_medium=website&utm_campaign=a_zcoursetuf"
+              }
+            ],
+            "difficulty": "Easy"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "step": 2,
+    "name": "Arrays Part-II",
+    "groups": [
+      {
+        "name": null,
+        "items": [
+          {
+            "id": "rttmtrix",
+            "title": "Rotate Matrix",
+            "article": "https://web.archive.org/web/20240301000000/https://takeuforward.org/data-structure/rotate-image-by-90-degree/",
+            "youtube": "https://www.youtube.com/watch?v=Z0R2u6gd3GU",
+            "practice": [
+              {
+                "label": "LC",
+                "url": "https://leetcode.com/problems/rotate-image/"
+              },
+              {
+                "label": "CN",
+                "url": "https://bit.ly/3rhVUWx"
+              }
+            ],
+            "difficulty": "Medium"
+          },
+          {
+            "id": "mrgvrlppingsbintrvls",
+            "title": "Merge Overlapping Subintervals",
+            "article": "https://web.archive.org/web/20240301000000/https://takeuforward.org/data-structure/merge-overlapping-sub-intervals/",
+            "youtube": "https://www.youtube.com/watch?v=IexN60k62jo",
+            "practice": [
+              {
+                "label": "LC",
+                "url": "https://leetcode.com/problems/merge-intervals/"
+              },
+              {
+                "label": "GFG",
+                "url": "https://bit.ly/3zRz904"
+              },
+              {
+                "label": "CN",
+                "url": "https://www.codingninjas.com/codestudio/problems/merge-all-overlapping-intervals_6783452?utm_source=striver&utm_medium=website&utm_campaign=a_zcoursetuf"
+              }
+            ],
+            "difficulty": "Medium"
+          },
+          {
+            "id": "mrgtwsrtdrryswithtxtrspc",
+            "title": "Merge two sorted arrays without extra space",
+            "article": "https://web.archive.org/web/20240301000000/https://takeuforward.org/data-structure/merge-two-sorted-arrays-without-extra-space/",
+            "youtube": "https://www.youtube.com/watch?v=n7uwj04E0I4",
+            "practice": [
+              {
+                "label": "LC",
+                "url": "https://leetcode.com/problems/merge-sorted-array/"
+              },
+              {
+                "label": "GFG",
+                "url": "https://bit.ly/3zRzmAo"
+              },
+              {
+                "label": "CN",
+                "url": "https://www.codingninjas.com/codestudio/problems/merge-two-sorted-arrays-without-extra-space_6898839?utm_source=striver&utm_medium=website&utm_campaign=a_zcoursetuf"
+              }
+            ],
+            "difficulty": "Medium"
+          },
+          {
+            "id": "findthdplictinnrryfn1intgrs",
+            "title": "Find the duplicate in an array of N+1 integers",
+            "article": "https://web.archive.org/web/20240301000000/https://takeuforward.org/data-structure/find-the-duplicate-in-an-array-of-n1-integers/",
+            "youtube": "https://www.youtube.com/watch?v=32Ll35mhWg0",
+            "practice": [
+              {
+                "label": "LC",
+                "url": "https://leetcode.com/problems/find-the-duplicate-number/"
+              },
+              {
+                "label": "CN",
+                "url": "https://bit.ly/3GtKDJb"
+              }
+            ],
+            "difficulty": "Medium"
+          },
+          {
+            "id": "rptndmissingnmbr",
+            "title": "Repeat and Missing Number",
+            "article": "https://web.archive.org/web/20240301000000/https://takeuforward.org/data-structure/find-the-repeating-and-missing-numbers/",
+            "youtube": "https://www.youtube.com/watch?v=2D0D8HE6uak",
+            "practice": [
+              {
+                "label": "IB",
+                "url": "https://www.interviewbit.com/problems/repeat-and-missing-number-array/"
+              },
+              {
+                "label": "CN",
+                "url": "https://bit.ly/3Gs6wZu"
+              }
+            ],
+            "difficulty": "Hard"
+          },
+          {
+            "id": "invrsinfrryprrqmrgsrt",
+            "title": "Inversion of Array (Pre-req: Merge Sort)",
+            "article": "https://web.archive.org/web/20240301000000/https://takeuforward.org/data-structure/count-inversions-in-an-array/",
+            "youtube": "https://www.youtube.com/watch?v=AseUmwVNaoY",
+            "practice": [
+              {
+                "label": "CN",
+                "url": "https://www.codingninjas.com/codestudio/problems/count-inversions_615"
+              }
+            ],
+            "difficulty": "Hard"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "step": 3,
+    "name": "Arrays Part-III",
+    "groups": [
+      {
+        "name": null,
+        "items": [
+          {
+            "id": "srchin2dmtrix",
+            "title": "Search in a 2 D matrix",
+            "article": "https://web.archive.org/web/20240301000000/https://takeuforward.org/data-structure/search-in-a-sorted-2d-matrix/",
+            "youtube": "https://www.youtube.com/watch?v=JXU4Akft7yk",
+            "practice": [
+              {
+                "label": "LC",
+                "url": "https://leetcode.com/problems/search-a-2d-matrix/"
+              },
+              {
+                "label": "GFG",
+                "url": "https://bit.ly/3dAwi3Z"
+              },
+              {
+                "label": "CN",
+                "url": "https://www.codingninjas.com/codestudio/problems/search-in-a-2d-matrix_980531?utm_source=striver&utm_medium=website&utm_campaign=a_zcoursetuf"
+              }
+            ],
+            "difficulty": "Medium"
+          },
+          {
+            "id": "pwxn",
+            "title": "Pow(x, n)",
+            "article": "https://web.archive.org/web/20240301000000/https://takeuforward.org/data-structure/implement-powxn-x-raised-to-the-power-n/",
+            "youtube": "https://www.youtube.com/watch?v=l0YC3876qxg",
+            "practice": [
+              {
+                "label": "LC",
+                "url": "https://leetcode.com/problems/powx-n/"
+              },
+              {
+                "label": "GFG",
+                "url": "https://bit.ly/3QLc6uD"
+              },
+              {
+                "label": "CN",
+                "url": "https://www.codingninjas.com/studio/problems/find-x-raised-to-power-n-_626560?utm_source=striver&utm_medium=website&utm_campaign=a_zcoursetuf"
+              }
+            ],
+            "difficulty": "Medium"
+          },
+          {
+            "id": "mjritylmntn2tims",
+            "title": "Majority Element (>n/2 times)",
+            "article": "https://web.archive.org/web/20240301000000/https://takeuforward.org/data-structure/find-the-majority-element-that-occurs-more-than-n-2-times/",
+            "youtube": "https://www.youtube.com/watch?v=nP_ns3uSh80",
+            "practice": [
+              {
+                "label": "LC",
+                "url": "https://leetcode.com/problems/majority-element/"
+              },
+              {
+                "label": "GFG",
+                "url": "https://bit.ly/3SSpeA3"
+              },
+              {
+                "label": "CN",
+                "url": "https://www.codingninjas.com/codestudio/problems/majority-element_6783241?utm_source=striver&utm_medium=website&utm_campaign=a_zcoursetuf"
+              }
+            ],
+            "difficulty": "Easy"
+          },
+          {
+            "id": "mjritylmntn3tims",
+            "title": "Majority Element (n/3 times)",
+            "article": "https://web.archive.org/web/20240301000000/https://takeuforward.org/data-structure/majority-elementsn-3-times-find-the-elements-that-appears-more-than-n-3-times-in-the-array/",
+            "youtube": "https://www.youtube.com/watch?v=vwZj1K0e9U8",
+            "practice": [
+              {
+                "label": "LC",
+                "url": "https://leetcode.com/problems/majority-element-ii/"
+              },
+              {
+                "label": "CN",
+                "url": "https://www.codingninjas.com/codestudio/problems/majority-element_6915220?utm_source=striver&utm_medium=website&utm_campaign=a_zcoursetuf"
+              }
+            ],
+            "difficulty": "Medium"
+          },
+          {
+            "id": "gridniqpths",
+            "title": "Grid Unique Paths",
+            "article": "https://web.archive.org/web/20240301000000/https://takeuforward.org/data-structure/grid-unique-paths-count-paths-from-left-top-to-the-right-bottom-of-a-matrix/",
+            "youtube": "https://www.youtube.com/watch?v=t_f0nwwdg5o",
+            "practice": [
+              {
+                "label": "LC",
+                "url": "https://leetcode.com/problems/unique-paths/"
+              },
+              {
+                "label": "CN",
+                "url": "https://bit.ly/3fm1dyN"
+              }
+            ],
+            "difficulty": "Medium"
+          },
+          {
+            "id": "rvrspirsltcd",
+            "title": "Reverse Pairs (Leetcode)",
+            "article": "https://web.archive.org/web/20240301000000/https://takeuforward.org/data-structure/count-reverse-pairs/",
+            "youtube": "https://www.youtube.com/watch?v=0e4bZaP3MDI",
+            "practice": [
+              {
+                "label": "LC",
+                "url": "https://leetcode.com/problems/reverse-pairs/"
+              },
+              {
+                "label": "CN",
+                "url": "https://bit.ly/3tm5PgF"
+              }
+            ],
+            "difficulty": "Hard"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "step": 4,
+    "name": "Arrays Part-IV",
+    "groups": [
+      {
+        "name": null,
+        "items": [
+          {
+            "id": "2smprblm",
+            "title": "2Sum Problem",
+            "article": "https://web.archive.org/web/20240301000000/https://takeuforward.org/data-structure/two-sum-check-if-a-pair-with-given-sum-exists-in-array/",
+            "youtube": "https://www.youtube.com/watch?v=UXDSeD9mN-k",
+            "practice": [
+              {
+                "label": "LC",
+                "url": "https://leetcode.com/problems/two-sum/"
+              },
+              {
+                "label": "GFG",
+                "url": "https://bit.ly/3SVYU8f"
+              },
+              {
+                "label": "CN",
+                "url": "https://www.codingninjas.com/codestudio/problems/reading_6845742?utm_source=striver&utm_medium=website&utm_campaign=a_zcoursetuf"
+              }
+            ],
+            "difficulty": "Medium"
+          },
+          {
+            "id": "4smprblm",
+            "title": "4-Sum Problem",
+            "article": "https://web.archive.org/web/20240301000000/https://takeuforward.org/data-structure/4-sum-find-quads-that-add-up-to-a-target-value/",
+            "youtube": "https://www.youtube.com/watch?v=eD95WRfh81c",
+            "practice": [
+              {
+                "label": "LC",
+                "url": "https://leetcode.com/problems/4sum/"
+              },
+              {
+                "label": "GFG",
+                "url": "https://bit.ly/3psQR53"
+              },
+              {
+                "label": "CN",
+                "url": "https://www.codingninjas.com/codestudio/problems/4sum_5713771?utm_source=striver&utm_medium=website&utm_campaign=a_zcoursetuf"
+              }
+            ],
+            "difficulty": "Hard"
+          },
+          {
+            "id": "lngstcnsctivsqnc",
+            "title": "Longest Consecutive Sequence",
+            "article": "https://web.archive.org/web/20240301000000/https://takeuforward.org/data-structure/longest-consecutive-sequence-in-an-array/",
+            "youtube": "https://www.youtube.com/watch?v=oO5uLE7EUlM",
+            "practice": [
+              {
+                "label": "LC",
+                "url": "https://leetcode.com/problems/longest-consecutive-sequence/"
+              },
+              {
+                "label": "CN",
+                "url": "https://bit.ly/34EoAS0"
+              }
+            ],
+            "difficulty": "Medium"
+          },
+          {
+            "id": "lrgstsbrrywithksm",
+            "title": "Largest Subarray with K sum",
+            "article": "https://web.archive.org/web/20240301000000/https://takeuforward.org/data-structure/length-of-the-longest-subarray-with-zero-sum/",
+            "youtube": "https://www.youtube.com/watch?v=frf7qxiN2qU",
+            "practice": [
+              {
+                "label": "GFG",
+                "url": "https://practice.geeksforgeeks.org/problems/largest-subarray-with-0-sum/1"
+              },
+              {
+                "label": "CN",
+                "url": "https://bit.ly/31UHoeM"
+              }
+            ],
+            "difficulty": "Medium"
+          },
+          {
+            "id": "cntnmbrfsbrryswithgivnxrk",
+            "title": "Count number of subarrays with given xor K",
+            "article": "https://web.archive.org/web/20240301000000/https://takeuforward.org/data-structure/count-the-number-of-subarrays-with-given-xor-k/",
+            "youtube": "https://www.youtube.com/watch?v=eZr-6p0B7ME",
+            "practice": [
+              {
+                "label": "IB",
+                "url": "https://www.interviewbit.com/problems/subarray-with-given-xor/"
+              },
+              {
+                "label": "GFG",
+                "url": "https://bit.ly/3PrvhZs"
+              },
+              {
+                "label": "CN",
+                "url": "https://www.codingninjas.com/codestudio/problems/subarrays-with-xor-k_6826258?utm_source=striver&utm_medium=website&utm_campaign=a_zcoursetuf"
+              }
+            ],
+            "difficulty": "Hard"
+          },
+          {
+            "id": "lngstsbstringwithtrpt",
+            "title": "Longest Substring without repeat",
+            "article": "https://web.archive.org/web/20240301000000/https://takeuforward.org/data-structure/length-of-longest-substring-without-any-repeating-character/",
+            "youtube": "https://www.youtube.com/watch?v=qtVh-XEpsJo",
+            "practice": [
+              {
+                "label": "LC",
+                "url": "https://leetcode.com/problems/longest-substring-without-repeating-characters/"
+              },
+              {
+                "label": "CN",
+                "url": "https://bit.ly/3no44fb"
+              }
+            ],
+            "difficulty": "Medium"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "step": 5,
+    "name": "Linked List",
+    "groups": [
+      {
+        "name": null,
+        "items": [
+          {
+            "id": "rvrslinkdlist",
+            "title": "Reverse a LinkedList",
+            "article": "https://web.archive.org/web/20240301000000/https://takeuforward.org/data-structure/reverse-a-linked-list/",
+            "youtube": "https://www.youtube.com/watch?v=iRtLEoL-r-g",
+            "practice": [
+              {
+                "label": "LC",
+                "url": "https://leetcode.com/problems/reverse-linked-list/"
+              },
+              {
+                "label": "CN",
+                "url": "https://bit.ly/3qoE6K6"
+              }
+            ],
+            "difficulty": "Easy"
+          },
+          {
+            "id": "findthmiddlflinkdlist",
+            "title": "Find the middle of LinkedList",
+            "article": "https://web.archive.org/web/20240301000000/https://takeuforward.org/data-structure/find-middle-element-in-a-linked-list/",
+            "youtube": "https://www.youtube.com/watch?v=sGdwSH8RK-o",
+            "practice": [
+              {
+                "label": "LC",
+                "url": "https://leetcode.com/problems/middle-of-the-linked-list/"
+              },
+              {
+                "label": "CN",
+                "url": "https://bit.ly/3KcRxoG"
+              }
+            ],
+            "difficulty": "Easy"
+          },
+          {
+            "id": "mrgtwsrtdlinkdlistsmthdsdinmrgsrt",
+            "title": "Merge two sorted Linked List (use method used in mergeSort)",
+            "article": "https://web.archive.org/web/20240301000000/https://takeuforward.org/data-structure/merge-two-sorted-linked-lists/",
+            "youtube": "https://www.youtube.com/watch?v=Xb4slcp1U38",
+            "practice": [
+              {
+                "label": "LC",
+                "url": "https://leetcode.com/problems/merge-two-sorted-lists/"
+              },
+              {
+                "label": "CN",
+                "url": "https://bit.ly/3qnbSj8"
+              }
+            ],
+            "difficulty": null
+          },
+          {
+            "id": "rmvnthndfrmbckflinkdlist",
+            "title": "Remove N-th node from back of LinkedList",
+            "article": "https://web.archive.org/web/20240301000000/https://takeuforward.org/data-structure/remove-n-th-node-from-the-end-of-a-linked-list/",
+            "youtube": "https://www.youtube.com/watch?v=Lhu3MsXZy-Q",
+            "practice": [
+              {
+                "label": "LC",
+                "url": "https://leetcode.com/problems/remove-nth-node-from-end-of-list/"
+              },
+              {
+                "label": "CN",
+                "url": "https://bit.ly/3riZ4JB"
+              }
+            ],
+            "difficulty": "Medium"
+          },
+          {
+            "id": "ddtwnmbrsslinkdlist",
+            "title": "Add two numbers as LinkedList",
+            "article": "https://web.archive.org/web/20240301000000/https://takeuforward.org/data-structure/add-two-numbers-represented-as-linked-lists/",
+            "youtube": "https://www.youtube.com/watch?v=LBVsXSMOIk4",
+            "practice": [
+              {
+                "label": "LC",
+                "url": "https://leetcode.com/problems/add-two-numbers/"
+              },
+              {
+                "label": "CN",
+                "url": "https://bit.ly/3qqbgcq"
+              }
+            ],
+            "difficulty": "Medium"
+          },
+          {
+            "id": "dltgivnndwhnndisgivn01sltin",
+            "title": "Delete a given Node when a node is given.(0(1) solution)",
+            "article": "https://web.archive.org/web/20240301000000/https://takeuforward.org/data-structure/delete-given-node-in-a-linked-list-o1-approach/",
+            "youtube": "https://www.youtube.com/watch?v=icnp4FJdZ_c",
+            "practice": [
+              {
+                "label": "LC",
+                "url": "https://leetcode.com/problems/delete-node-in-a-linked-list/"
+              },
+              {
+                "label": "CN",
+                "url": "https://bit.ly/3GqW4kN"
+              }
+            ],
+            "difficulty": "Medium"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "step": 6,
+    "name": "Linked List Part-II",
+    "groups": [
+      {
+        "name": null,
+        "items": [
+          {
+            "id": "findintrsctinpintfylinkdlist",
+            "title": "Find intersection point of Y LinkedList",
+            "article": "https://web.archive.org/web/20240301000000/https://takeuforward.org/data-structure/find-intersection-of-two-linked-lists/",
+            "youtube": "https://www.youtube.com/watch?v=u4FWXfgS8jw",
+            "practice": [
+              {
+                "label": "LC",
+                "url": "https://leetcode.com/problems/intersection-of-two-linked-lists/"
+              },
+              {
+                "label": "CN",
+                "url": "https://bit.ly/3fiMQeG"
+              }
+            ],
+            "difficulty": "Medium"
+          },
+          {
+            "id": "dtctcyclinlinkdlist",
+            "title": "Detect a cycle in Linked List",
+            "article": "https://web.archive.org/web/20240301000000/https://takeuforward.org/data-structure/detect-a-cycle-in-a-linked-list/",
+            "youtube": "https://www.youtube.com/watch?v=354J83hX7RI",
+            "practice": [
+              {
+                "label": "LC",
+                "url": "https://leetcode.com/problems/linked-list-cycle/"
+              },
+              {
+                "label": "CN",
+                "url": "https://bit.ly/3I2fmxh"
+              }
+            ],
+            "difficulty": "Medium"
+          },
+          {
+            "id": "rvrslinkdlistingrpsfsizk",
+            "title": "Reverse a LinkedList in groups of size k.",
+            "article": "https://web.archive.org/web/20240301000000/https://takeuforward.org/data-structure/reverse-linked-list-in-groups-of-size-k/",
+            "youtube": "https://www.youtube.com/watch?v=Of0HPkk3JgI",
+            "practice": [
+              {
+                "label": "LC",
+                "url": "https://leetcode.com/problems/reverse-nodes-in-k-group/"
+              },
+              {
+                "label": "CN",
+                "url": "https://bit.ly/3Gsfk1u"
+              }
+            ],
+            "difficulty": "Hard"
+          },
+          {
+            "id": "chckiflinkdlistisplindrmrnt",
+            "title": "Check if a LinkedList is palindrome or not.",
+            "article": "https://web.archive.org/web/20240301000000/https://takeuforward.org/data-structure/check-if-given-linked-list-is-plaindrome/",
+            "youtube": "https://www.youtube.com/watch?v=-DtNInqFUXs",
+            "practice": [
+              {
+                "label": "LC",
+                "url": "https://leetcode.com/problems/palindrome-linked-list/"
+              },
+              {
+                "label": "CN",
+                "url": "https://bit.ly/3GqRMKv"
+              }
+            ],
+            "difficulty": "Medium"
+          },
+          {
+            "id": "findthstrtingpintfthlpflinkdlist",
+            "title": "Find the starting point of the Loop of LinkedList",
+            "article": "https://web.archive.org/web/20240301000000/https://takeuforward.org/data-structure/starting-point-of-loop-in-a-linked-list/",
+            "youtube": "https://www.youtube.com/watch?v=QfbOhn0WZ88",
+            "practice": [
+              {
+                "label": "LC",
+                "url": "https://leetcode.com/problems/linked-list-cycle-ii/"
+              },
+              {
+                "label": "CN",
+                "url": "https://bit.ly/3K32lpf"
+              }
+            ],
+            "difficulty": "Medium"
+          },
+          {
+            "id": "flttningflinkdlist",
+            "title": "Flattening of a LinkedList",
+            "article": "https://web.archive.org/web/20240301000000/https://takeuforward.org/data-structure/flattening-a-linked-list/",
+            "youtube": "https://www.youtube.com/watch?v=ysytSSXpAI0",
+            "practice": [
+              {
+                "label": "GFG",
+                "url": "https://practice.geeksforgeeks.org/problems/flattening-a-linked-list/1"
+              },
+              {
+                "label": "CN",
+                "url": "https://bit.ly/3nqtEA1"
+              }
+            ],
+            "difficulty": "Hard"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "step": 7,
+    "name": "Linked List and Arrays",
+    "groups": [
+      {
+        "name": null,
+        "items": [
+          {
+            "id": "rttlinkdlist",
+            "title": "Rotate a LinkedList",
+            "article": "https://web.archive.org/web/20240301000000/https://takeuforward.org/data-structure/rotate-a-linked-list/",
+            "youtube": "https://www.youtube.com/watch?v=9VPm6nEbVPA",
+            "practice": [
+              {
+                "label": "LC",
+                "url": "https://leetcode.com/problems/rotate-list/description/"
+              },
+              {
+                "label": "CN",
+                "url": "https://bit.ly/33bNQPo"
+              }
+            ],
+            "difficulty": "Medium"
+          },
+          {
+            "id": "clnlinkdlistwithrndmndnxtpintr",
+            "title": "Clone a Linked List with random and next pointer",
+            "article": "https://web.archive.org/web/20240301000000/https://takeuforward.org/data-structure/clone-linked-list-with-random-and-next-pointer/",
+            "youtube": "https://www.youtube.com/watch?v=q570bKdrnlw",
+            "practice": [
+              {
+                "label": "LC",
+                "url": "https://leetcode.com/problems/copy-list-with-random-pointer/"
+              },
+              {
+                "label": "GFG",
+                "url": "https://bit.ly/3PpM6np"
+              },
+              {
+                "label": "CN",
+                "url": "https://www.codingninjas.com/studio/problems/clone-a-linked-list-with-random-pointers_983604?utm_source=striver&utm_medium=website&utm_campaign=a_zcoursetuf"
+              }
+            ],
+            "difficulty": "Hard"
+          },
+          {
+            "id": "3sm",
+            "title": "3 sum",
+            "article": "https://web.archive.org/web/20240301000000/https://takeuforward.org/data-structure/3-sum-find-triplets-that-add-up-to-a-zero/",
+            "youtube": "https://www.youtube.com/watch?v=DhFh8Kw7ymk",
+            "practice": [
+              {
+                "label": "LC",
+                "url": "https://leetcode.com/problems/3sum/"
+              },
+              {
+                "label": "CN",
+                "url": "https://bit.ly/33wlWxk"
+              }
+            ],
+            "difficulty": "Medium"
+          },
+          {
+            "id": "trppingrinwtr",
+            "title": "Trapping Rainwater",
+            "article": "https://web.archive.org/web/20240301000000/https://takeuforward.org/data-structure/trapping-rainwater/",
+            "youtube": "https://www.youtube.com/watch?v=1_5VuquLbXg",
+            "practice": [
+              {
+                "label": "LC",
+                "url": "https://leetcode.com/problems/trapping-rain-water/"
+              },
+              {
+                "label": "GFG",
+                "url": "https://bit.ly/3AqMa1W"
+              },
+              {
+                "label": "CN",
+                "url": "https://www.codingninjas.com/studio/problems/trapping-rain-water_630519?utm_source=striver&utm_medium=website&utm_campaign=a_zcoursetuf"
+              }
+            ],
+            "difficulty": "Hard"
+          },
+          {
+            "id": "rmvdplictfrmsrtdrry",
+            "title": "Remove Duplicate from Sorted array",
+            "article": "https://web.archive.org/web/20240301000000/https://takeuforward.org/data-structure/remove-duplicates-in-place-from-sorted-array/",
+            "youtube": "https://www.youtube.com/watch?v=37E9ckMDdTk&t=1888",
+            "practice": [
+              {
+                "label": "LC",
+                "url": "https://leetcode.com/problems/remove-duplicates-from-sorted-array/"
+              },
+              {
+                "label": "CN",
+                "url": "https://bit.ly/31Usllh"
+              }
+            ],
+            "difficulty": "Easy"
+          },
+          {
+            "id": "mxcnsctivns",
+            "title": "Max consecutive ones",
+            "article": "https://web.archive.org/web/20240301000000/https://takeuforward.org/data-structure/count-maximum-consecutive-ones-in-the-array/",
+            "youtube": "https://www.youtube.com/watch?v=bYWLJb3vCWY&t=1124",
+            "practice": [
+              {
+                "label": "LC",
+                "url": "https://leetcode.com/problems/max-consecutive-ones/"
+              },
+              {
+                "label": "CN",
+                "url": "https://www.codingninjas.com/codestudio/problems/892994?topList=striver-sde-sheet-problems&utm_source=striver&utm_medium=website"
+              }
+            ],
+            "difficulty": "Easy"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "step": 8,
+    "name": "Greedy Algorithm",
+    "groups": [
+      {
+        "name": null,
+        "items": [
+          {
+            "id": "nmtingsinnrm",
+            "title": "N meetings in one room",
+            "article": "https://web.archive.org/web/20240301000000/https://takeuforward.org/data-structure/n-meetings-in-one-room/",
+            "youtube": "https://www.youtube.com/watch?v=mKfhTotEguk",
+            "practice": [
+              {
+                "label": "GFG",
+                "url": "https://practice.geeksforgeeks.org/problems/n-meetings-in-one-room-1587115620/1"
+              },
+              {
+                "label": "GFG",
+                "url": "https://bit.ly/3A6Ob1Y"
+              },
+              {
+                "label": "CN",
+                "url": "https://www.codingninjas.com/studio/problems/maximum-meetings_1062658?utm_source=striver&utm_medium=website&utm_campaign=a_zcoursetuf"
+              }
+            ],
+            "difficulty": "Medium"
+          },
+          {
+            "id": "minimmnmbrfpltfrmsrqirdfrrilwy",
+            "title": "Minimum number of platforms required for a railway",
+            "article": "https://web.archive.org/web/20240301000000/https://takeuforward.org/data-structure/minimum-number-of-platforms-required-for-a-railway/",
+            "youtube": "https://www.youtube.com/watch?v=AsGzwR_FWok",
+            "practice": [
+              {
+                "label": "GFG",
+                "url": "https://practice.geeksforgeeks.org/problems/minimum-platforms-1587115620/1#"
+              },
+              {
+                "label": "GFG",
+                "url": "https://bit.ly/3bXX5Hm"
+              },
+              {
+                "label": "CN",
+                "url": "https://www.codingninjas.com/studio/problems/minimum-number-of-platforms_799400?utm_source=striver&utm_medium=website&utm_campaign=a_zcoursetuf"
+              }
+            ],
+            "difficulty": "Medium"
+          },
+          {
+            "id": "jbsqncingprblm",
+            "title": "Job sequencing Problem",
+            "article": "https://web.archive.org/web/20240301000000/https://takeuforward.org/data-structure/job-sequencing-problem/",
+            "youtube": "https://www.youtube.com/watch?v=QbwltemZbRg",
+            "practice": [
+              {
+                "label": "GFG",
+                "url": "https://practice.geeksforgeeks.org/problems/job-sequencing-problem-1587115620/1#"
+              },
+              {
+                "label": "GFG",
+                "url": "https://bit.ly/3Pttpzj"
+              },
+              {
+                "label": "CN",
+                "url": "https://www.codingninjas.com/studio/problems/job-sequencing-problem_1169460?utm_source=striver&utm_medium=website&utm_campaign=a_zcoursetuf"
+              }
+            ],
+            "difficulty": "Medium"
+          },
+          {
+            "id": "frctinlknpsckprblm",
+            "title": "Fractional Knapsack Problem",
+            "article": "https://web.archive.org/web/20240301000000/https://takeuforward.org/data-structure/fractional-knapsack-problem-greedy-approach/",
+            "youtube": "https://www.youtube.com/watch?v=1ibsQrnuEEg",
+            "practice": [
+              {
+                "label": "GFG",
+                "url": "https://practice.geeksforgeeks.org/problems/fractional-knapsack-1587115620/1"
+              },
+              {
+                "label": "GFG",
+                "url": "https://bit.ly/3PsqOFL"
+              },
+              {
+                "label": "CN",
+                "url": "https://www.codingninjas.com/studio/problems/fractional-knapsack_975286?utm_source=striver&utm_medium=website&utm_campaign=a_zcoursetuf"
+              }
+            ],
+            "difficulty": "Medium"
+          },
+          {
+            "id": "grdylgrithmtfindminimmnmbrfcins",
+            "title": "Greedy algorithm to find minimum number of coins",
+            "article": "https://web.archive.org/web/20240301000000/https://takeuforward.org/data-structure/find-minimum-number-of-coins/",
+            "youtube": "https://www.youtube.com/watch?v=mVg9CfJvayM",
+            "practice": [
+              {
+                "label": "GFG",
+                "url": "https://www.geeksforgeeks.org/find-minimum-number-of-coins-that-make-a-change/"
+              },
+              {
+                "label": "GFG",
+                "url": "https://bit.ly/3Ka7xYU"
+              },
+              {
+                "label": "CN",
+                "url": "https://www.codingninjas.com/studio/problems/find-minimum-number-of-coins_975277?utm_source=striver&utm_medium=website&utm_campaign=a_zcoursetuf"
+              }
+            ],
+            "difficulty": "Medium"
+          },
+          {
+            "id": "ctivityslctinitisthsmsnmtinginnrm",
+            "title": "Assign Cookies",
+            "article": null,
+            "youtube": "https://www.youtube.com/watch?v=DIX2p7vb9co",
+            "practice": [
+              {
+                "label": "LC",
+                "url": "https://leetcode.com/problems/assign-cookies/"
+              },
+              {
+                "label": "GFG",
+                "url": "https://practice.geeksforgeeks.org/problems/n-meetings-in-one-room-1587115620/1"
+              },
+              {
+                "label": "CN",
+                "url": "https://www.codingninjas.com/codestudio/problems/assign-cookies_8390826?utm_source=striver&utm_medium=website&utm_campaign=a_zcoursetuf"
+              }
+            ],
+            "difficulty": "Medium"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "step": 9,
+    "name": "Recursion",
+    "groups": [
+      {
+        "name": null,
+        "items": [
+          {
+            "id": "sbstsms",
+            "title": "Subset Sums",
+            "article": "https://web.archive.org/web/20240301000000/https://takeuforward.org/data-structure/subset-sum-sum-of-all-subsets/",
+            "youtube": "https://www.youtube.com/watch?v=rYkfBRtMJr8",
+            "practice": [
+              {
+                "label": "GFG",
+                "url": "https://practice.geeksforgeeks.org/problems/subset-sums2234/1"
+              },
+              {
+                "label": "CN",
+                "url": "https://www.codingninjas.com/codestudio/problems/subset-sum_3843086?topList=striver-sde-sheet-problems&utm_source=striver&utm_medium=website"
+              }
+            ],
+            "difficulty": "Medium"
+          },
+          {
+            "id": "sbstii",
+            "title": "Subset-II",
+            "article": "https://web.archive.org/web/20240301000000/https://takeuforward.org/data-structure/subset-ii-print-all-the-unique-subsets/",
+            "youtube": "https://www.youtube.com/watch?v=RIn3gOkbhQE",
+            "practice": [
+              {
+                "label": "LC",
+                "url": "https://leetcode.com/problems/subsets-ii/"
+              },
+              {
+                "label": "CN",
+                "url": "https://bit.ly/3qnaLjq"
+              }
+            ],
+            "difficulty": "Medium"
+          },
+          {
+            "id": "cmbintinsm1",
+            "title": "Combination sum-1",
+            "article": "https://web.archive.org/web/20240301000000/https://takeuforward.org/data-structure/combination-sum-1/",
+            "youtube": "https://www.youtube.com/watch?v=OyZFFqQtu98",
+            "practice": [
+              {
+                "label": "LC",
+                "url": "https://leetcode.com/problems/combination-sum/"
+              },
+              {
+                "label": "CN",
+                "url": "https://bit.ly/3qpmDS1"
+              }
+            ],
+            "difficulty": "Medium"
+          },
+          {
+            "id": "cmbintinsm2",
+            "title": "Combination sum-2",
+            "article": "https://web.archive.org/web/20240301000000/https://takeuforward.org/data-structure/combination-sum-ii-find-all-unique-combinations/",
+            "youtube": "https://www.youtube.com/watch?v=G1fRTGRxXU8",
+            "practice": [
+              {
+                "label": "LC",
+                "url": "https://leetcode.com/problems/combination-sum-ii/"
+              },
+              {
+                "label": "CN",
+                "url": "https://bit.ly/3tkbtjk"
+              }
+            ],
+            "difficulty": "Medium"
+          },
+          {
+            "id": "plindrmprtitining",
+            "title": "Palindrome Partitioning",
+            "article": "https://web.archive.org/web/20240301000000/https://takeuforward.org/data-structure/palindrome-partitioning/",
+            "youtube": "https://www.youtube.com/watch?v=WBgsABoClE0",
+            "practice": [
+              {
+                "label": "LC",
+                "url": "https://leetcode.com/problems/palindrome-partitioning/"
+              },
+              {
+                "label": "GFG",
+                "url": "https://bit.ly/3T63roP"
+              },
+              {
+                "label": "CN",
+                "url": "https://www.codingninjas.com/studio/problems/palindrome-partitioning_626181?utm_source=striver&utm_medium=website&utm_campaign=a_zcoursetuf"
+              }
+            ],
+            "difficulty": "Medium"
+          },
+          {
+            "id": "kthprmttinsqnc",
+            "title": "K-th permutation Sequence",
+            "article": "https://web.archive.org/web/20240301000000/https://takeuforward.org/data-structure/find-k-th-permutation-sequence/",
+            "youtube": "https://www.youtube.com/watch?v=wT7gcXLYoao",
+            "practice": [
+              {
+                "label": "LC",
+                "url": "https://leetcode.com/problems/permutation-sequence/"
+              },
+              {
+                "label": "CN",
+                "url": "https://bit.ly/3KcCP0D"
+              }
+            ],
+            "difficulty": "Hard"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "step": 10,
+    "name": "Recursion and Backtracking",
+    "groups": [
+      {
+        "name": null,
+        "items": [
+          {
+            "id": "printllprmttinsfstringrry",
+            "title": "Print all permutations of a string/array",
+            "article": "https://web.archive.org/web/20240301000000/https://takeuforward.org/data-structure/print-all-permutations-of-a-string-array/",
+            "youtube": "https://www.youtube.com/watch?v=f2ic2Rsc9pU",
+            "practice": [
+              {
+                "label": "LC",
+                "url": "https://leetcode.com/problems/permutations/"
+              },
+              {
+                "label": "CN",
+                "url": "https://bit.ly/3fmwxNV"
+              }
+            ],
+            "difficulty": "Medium"
+          },
+          {
+            "id": "nqnsprblm",
+            "title": "N queens Problem",
+            "article": "https://web.archive.org/web/20240301000000/https://takeuforward.org/data-structure/n-queen-problem-return-all-distinct-solutions-to-the-n-queens-puzzle/",
+            "youtube": "https://www.youtube.com/watch?v=i05Ju7AftcM",
+            "practice": [
+              {
+                "label": "LC",
+                "url": "https://leetcode.com/problems/n-queens/"
+              },
+              {
+                "label": "CN",
+                "url": "https://bit.ly/3zSZavC"
+              }
+            ],
+            "difficulty": "Hard"
+          },
+          {
+            "id": "sdkslvr",
+            "title": "Sudoko Solver",
+            "article": "https://web.archive.org/web/20240301000000/https://takeuforward.org/data-structure/sudoku-solver/",
+            "youtube": "https://www.youtube.com/watch?v=FWAIf_EVUKE",
+            "practice": [
+              {
+                "label": "LC",
+                "url": "https://leetcode.com/problems/sudoku-solver/"
+              },
+              {
+                "label": "GFG",
+                "url": "https://bit.ly/3PrA5hs"
+              },
+              {
+                "label": "CN",
+                "url": "https://www.codingninjas.com/studio/problems/sudoku-solver_8416969?utm_source=striver&utm_medium=website&utm_campaign=a_zcoursetuf"
+              }
+            ],
+            "difficulty": "Hard"
+          },
+          {
+            "id": "mclringprblm",
+            "title": "M Coloring Problem",
+            "article": "https://web.archive.org/web/20240301000000/https://takeuforward.org/data-structure/m-coloring-problem/",
+            "youtube": "https://www.youtube.com/watch?v=wuVwUK25Rfc",
+            "practice": [
+              {
+                "label": "GFG",
+                "url": "https://practice.geeksforgeeks.org/problems/m-coloring-problem-1587115620/1#"
+              },
+              {
+                "label": "GFG",
+                "url": "https://bit.ly/3Cepqnv"
+              },
+              {
+                "label": "CN",
+                "url": "https://www.codingninjas.com/studio/problems/m-coloring-problem_981273?utm_source=striver&utm_medium=website&utm_campaign=a_zcoursetuf"
+              }
+            ],
+            "difficulty": "Hard"
+          },
+          {
+            "id": "rtinmz",
+            "title": "Rat in a Maze",
+            "article": "https://web.archive.org/web/20240301000000/https://takeuforward.org/data-structure/rat-in-a-maze/",
+            "youtube": "https://www.youtube.com/watch?v=bLGZhJlt4y0",
+            "practice": [
+              {
+                "label": "GFG",
+                "url": "https://practice.geeksforgeeks.org/problems/rat-in-a-maze-problem/1"
+              },
+              {
+                "label": "GFG",
+                "url": "https://bit.ly/3pkqK0g"
+              },
+              {
+                "label": "CN",
+                "url": "https://www.codingninjas.com/studio/problems/rat-in-a-maze-_8842357?utm_source=striver&utm_medium=website&utm_campaign=a_zcoursetuf"
+              }
+            ],
+            "difficulty": "Hard"
+          },
+          {
+            "id": "wrdbrkprintllwys",
+            "title": "Word Break (print all ways)",
+            "article": null,
+            "youtube": null,
+            "practice": [
+              {
+                "label": "CN",
+                "url": "https://bit.ly/3FxgW92"
+              }
+            ],
+            "difficulty": "Medium"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "step": 11,
+    "name": "Binary Search",
+    "groups": [
+      {
+        "name": null,
+        "items": [
+          {
+            "id": "thnthrtfnintgr",
+            "title": "The N-th root of an integer",
+            "article": "https://web.archive.org/web/20240301000000/https://takeuforward.org/data-structure/nth-root-of-a-number-using-binary-search/",
+            "youtube": "https://www.youtube.com/watch?v=WjpswYrS2nY",
+            "practice": [
+              {
+                "label": "CN",
+                "url": "https://bit.ly/3rj7Ib1"
+              }
+            ],
+            "difficulty": "Easy"
+          },
+          {
+            "id": "mtrixmdin",
+            "title": "Matrix Median",
+            "article": "https://web.archive.org/web/20240301000000/https://takeuforward.org/data-structure/median-of-row-wise-sorted-matrix/",
+            "youtube": "https://www.youtube.com/watch?v=Q9wXgdxJq48",
+            "practice": [
+              {
+                "label": "GFG",
+                "url": "https://bit.ly/3PvwuPk"
+              },
+              {
+                "label": "CN",
+                "url": "https://www.codingninjas.com/codestudio/problems/median-of-a-row-wise-sorted-matrix_1115473?utm_source=striver&utm_medium=website&utm_campaign=a_zcoursetuf"
+              }
+            ],
+            "difficulty": "Hard"
+          },
+          {
+            "id": "findthlmntthtpprsncinsrtdrryndthrstlmntpprstwicbinrysrch",
+            "title": "Find the element that appears once in a sorted array, and the rest element appears twice (Binary search)",
+            "article": "https://web.archive.org/web/20240301000000/https://takeuforward.org/data-structure/search-single-element-in-a-sorted-array/",
+            "youtube": "https://www.youtube.com/watch?v=PzszoiY5XMQ",
+            "practice": [
+              {
+                "label": "LC",
+                "url": "https://leetcode.com/problems/single-element-in-a-sorted-array/"
+              },
+              {
+                "label": "CN",
+                "url": "https://bit.ly/3rng2qC"
+              }
+            ],
+            "difficulty": "Medium"
+          },
+          {
+            "id": "srchlmntinsrtdndrttdrryfindpivtwhritisrttd",
+            "title": "Search element in a sorted and rotated array/ find pivot where it is rotated",
+            "article": "https://web.archive.org/web/20240301000000/https://takeuforward.org/data-structure/search-element-in-a-rotated-sorted-array/",
+            "youtube": "https://www.youtube.com/watch?v=r3pMQ8-Ad5s",
+            "practice": [
+              {
+                "label": "LC",
+                "url": "https://leetcode.com/problems/search-in-rotated-sorted-array/"
+              },
+              {
+                "label": "CN",
+                "url": "https://bit.ly/3nnxGcm"
+              }
+            ],
+            "difficulty": "Medium"
+          },
+          {
+            "id": "mdinf2srtdrrys",
+            "title": "Median of 2 sorted arrays",
+            "article": "https://web.archive.org/web/20240301000000/https://takeuforward.org/data-structure/median-of-two-sorted-arrays-of-different-sizes/",
+            "youtube": "https://www.youtube.com/watch?v=C2rRzz-JDk8",
+            "practice": [
+              {
+                "label": "LC",
+                "url": "https://leetcode.com/problems/median-of-two-sorted-arrays/"
+              },
+              {
+                "label": "GFG",
+                "url": "https://bit.ly/3QPi7Xp"
+              },
+              {
+                "label": "CN",
+                "url": "https://www.codingninjas.com/codestudio/problems/median-of-two-sorted-arrays_985294?utm_source=striver&utm_medium=website&utm_campaign=a_zcoursetuf"
+              }
+            ],
+            "difficulty": "Hard"
+          },
+          {
+            "id": "kthlmntftwsrtdrrys",
+            "title": "K-th element of two sorted arrays",
+            "article": "https://web.archive.org/web/20240301000000/https://takeuforward.org/data-structure/k-th-element-of-two-sorted-arrays/",
+            "youtube": "https://www.youtube.com/watch?v=nv7F4PiLUzo",
+            "practice": [
+              {
+                "label": "GFG",
+                "url": "https://practice.geeksforgeeks.org/problems/k-th-element-of-two-sorted-array1317/1"
+              },
+              {
+                "label": "CN",
+                "url": "https://bit.ly/3qm0cgu"
+              }
+            ],
+            "difficulty": "Medium"
+          },
+          {
+            "id": "llctminimmnmbrfpgs",
+            "title": "Allocate Minimum Number of Pages",
+            "article": "https://web.archive.org/web/20240301000000/https://takeuforward.org/data-structure/allocate-minimum-number-of-pages/",
+            "youtube": "https://www.youtube.com/watch?v=gYmWHvRHu-s",
+            "practice": [
+              {
+                "label": "IB",
+                "url": "https://www.interviewbit.com/problems/allocate-books/"
+              },
+              {
+                "label": "CN",
+                "url": "https://bit.ly/3FrKxk7"
+              }
+            ],
+            "difficulty": "Hard"
+          },
+          {
+            "id": "ggrssivcws",
+            "title": "Aggressive Cows",
+            "article": "https://web.archive.org/web/20240301000000/https://takeuforward.org/data-structure/aggressive-cows-detailed-solution/",
+            "youtube": "https://www.youtube.com/watch?v=R_Mfw4ew-Vo",
+            "practice": [
+              {
+                "label": "SPOJ",
+                "url": "https://www.spoj.com/problems/AGGRCOW/"
+              },
+              {
+                "label": "GFG",
+                "url": "https://bit.ly/3rBuE5Z"
+              },
+              {
+                "label": "CN",
+                "url": "https://www.codingninjas.com/codestudio/problems/aggressive-cows_1082559?utm_source=striver&utm_medium=website&utm_campaign=a_zcoursetuf"
+              }
+            ],
+            "difficulty": "Hard"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "step": 12,
+    "name": "Heaps",
+    "groups": [
+      {
+        "name": null,
+        "items": [
+          {
+            "id": "mxhpminhpimplmnttinnlyfrintrviws",
+            "title": "Max heap, Min Heap Implementation (Only for interviews)",
+            "article": null,
+            "youtube": null,
+            "practice": [
+              {
+                "label": "CN",
+                "url": "https://www.codingninjas.com/codestudio/problems/min-heap_4691801?topList=striver-sde-sheet-problems&utm_source=striver&utm_medium=website"
+              }
+            ],
+            "difficulty": "Medium"
+          },
+          {
+            "id": "kthlrgstlmnt",
+            "title": "Kth Largest Element",
+            "article": "https://web.archive.org/web/20240301000000/https://takeuforward.org/data-structure/kth-largest-smallest-element-in-an-array/",
+            "youtube": null,
+            "practice": [
+              {
+                "label": "LC",
+                "url": "https://leetcode.com/problems/kth-largest-element-in-an-array/"
+              },
+              {
+                "label": "CN",
+                "url": "https://www.codingninjas.com/codestudio/problems/kth-smallest-and-largest-element-of-array_1115488?topList=striver-sde-sheet-problems&utm_source=striver&utm_medium=website"
+              }
+            ],
+            "difficulty": "Easy"
+          },
+          {
+            "id": "mximmsmcmbintin",
+            "title": "Maximum Sum Combination",
+            "article": null,
+            "youtube": null,
+            "practice": [
+              {
+                "label": "IB",
+                "url": "https://www.interviewbit.com/problems/maximum-sum-combinations/"
+              },
+              {
+                "label": "GFG",
+                "url": "https://bit.ly/3sSXvTT"
+              },
+              {
+                "label": "CN",
+                "url": "https://www.codingninjas.com/studio/problems/median-in-a-stream_975268?utm_source=striver&utm_medium=website&utm_campaign=a_zcoursetuf"
+              }
+            ],
+            "difficulty": "Medium"
+          },
+          {
+            "id": "findmdinfrmdtstrm",
+            "title": "Find Median from Data Stream",
+            "article": null,
+            "youtube": null,
+            "practice": [
+              {
+                "label": "LC",
+                "url": "https://leetcode.com/problems/find-median-from-data-stream/"
+              },
+              {
+                "label": "GFG",
+                "url": "https://bit.ly/3QIknj4"
+              },
+              {
+                "label": "CN",
+                "url": "https://www.codingninjas.com/studio/problems/median-in-a-stream_975268?utm_source=striver&utm_medium=website&utm_campaign=a_zcoursetuf"
+              }
+            ],
+            "difficulty": "Hard"
+          },
+          {
+            "id": "mrgksrtdrrys",
+            "title": "Merge K sorted arrays",
+            "article": null,
+            "youtube": null,
+            "practice": [
+              {
+                "label": "CN",
+                "url": "https://www.codingninjas.com/codestudio/problems/merge-k-sorted-arrays_975379"
+              }
+            ],
+            "difficulty": "Medium"
+          },
+          {
+            "id": "kmstfrqntlmnts",
+            "title": "K most frequent elements",
+            "article": null,
+            "youtube": null,
+            "practice": [
+              {
+                "label": "LC",
+                "url": "https://leetcode.com/problems/top-k-frequent-elements/"
+              },
+              {
+                "label": "GFG",
+                "url": "https://bit.ly/3wcIHla"
+              },
+              {
+                "label": "CN",
+                "url": "https://www.codingninjas.com/studio/problems/k-most-frequent-elements_3167808?utm_source=striver&utm_medium=website&utm_campaign=a_zcoursetuf"
+              }
+            ],
+            "difficulty": "Medium"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "step": 13,
+    "name": "Stack and Queue",
+    "groups": [
+      {
+        "name": null,
+        "items": [
+          {
+            "id": "implmntstcksingrrys",
+            "title": "Implement Stack using Arrays",
+            "article": "https://web.archive.org/web/20240301000000/https://takeuforward.org/data-structure/implement-stack-using-array/",
+            "youtube": "https://www.youtube.com/watch?v=tqQ5fTamIN4",
+            "practice": [
+              {
+                "label": "GFG",
+                "url": "https://bit.ly/3QPJ39w"
+              },
+              {
+                "label": "CN",
+                "url": "https://www.codingninjas.com/studio/problems/stack-implementation-using-array_3210209?utm_source=striver&utm_medium=website&utm_campaign=a_zcoursetuf"
+              }
+            ],
+            "difficulty": "Easy"
+          },
+          {
+            "id": "implmntqsingrrys",
+            "title": "Implement Queue using Arrays",
+            "article": "https://web.archive.org/web/20240301000000/https://takeuforward.org/data-structure/implement-queue-using-array/",
+            "youtube": "https://www.youtube.com/watch?v=tqQ5fTamIN4",
+            "practice": [
+              {
+                "label": "GFG",
+                "url": "https://bit.ly/3C9HLli"
+              },
+              {
+                "label": "CN",
+                "url": "https://www.codingninjas.com/codestudio/problems/implement-queue-using-arrays_8390825?utm_source=striver&utm_medium=website&utm_campaign=a_zcoursetuf"
+              }
+            ],
+            "difficulty": "Easy"
+          },
+          {
+            "id": "implmntstcksingqsingsinglq",
+            "title": "Implement Stack using Queue (using single queue)",
+            "article": "https://web.archive.org/web/20240301000000/https://takeuforward.org/data-structure/implement-stack-using-single-queue/",
+            "youtube": "https://www.youtube.com/watch?v=tqQ5fTamIN4",
+            "practice": [
+              {
+                "label": "LC",
+                "url": "https://leetcode.com/problems/implement-stack-using-queues/"
+              },
+              {
+                "label": "CN",
+                "url": "https://bit.ly/3reLgQs"
+              }
+            ],
+            "difficulty": "Medium"
+          },
+          {
+            "id": "implmntqsingstck01mrtizdmthd",
+            "title": "Implement Queue using Stack (0(1) amortized method)",
+            "article": "https://web.archive.org/web/20240301000000/https://takeuforward.org/data-structure/implement-queue-using-stack/",
+            "youtube": "https://www.youtube.com/watch?v=tqQ5fTamIN4",
+            "practice": [
+              {
+                "label": "LC",
+                "url": "https://leetcode.com/problems/implement-queue-using-stacks/"
+              },
+              {
+                "label": "CN",
+                "url": "https://bit.ly/3reLeIk"
+              }
+            ],
+            "difficulty": "Medium"
+          },
+          {
+            "id": "chckfrblncdprnthss",
+            "title": "Check for balanced parentheses",
+            "article": "https://web.archive.org/web/20240301000000/https://takeuforward.org/data-structure/check-for-balanced-parentheses/",
+            "youtube": "https://www.youtube.com/watch?v=xwjS0iZhw4I",
+            "practice": [
+              {
+                "label": "LC",
+                "url": "https://leetcode.com/problems/valid-parentheses/"
+              },
+              {
+                "label": "CN",
+                "url": "https://bit.ly/3nr1RiO"
+              }
+            ],
+            "difficulty": "Medium"
+          },
+          {
+            "id": "nxtgrtrlmnt",
+            "title": "Next Greater Element",
+            "article": "https://web.archive.org/web/20240301000000/https://takeuforward.org/data-structure/next-greater-element-using-stack/",
+            "youtube": "https://www.youtube.com/watch?v=e7XQLtOQM3I",
+            "practice": [
+              {
+                "label": "LC",
+                "url": "https://leetcode.com/problems/next-greater-element-i/"
+              },
+              {
+                "label": "GFG",
+                "url": "https://bit.ly/3QNPQAs"
+              },
+              {
+                "label": "CN",
+                "url": "https://www.codingninjas.com/studio/problems/next-greater-element_670312?utm_source=striver&utm_medium=website&utm_campaign=a_zcoursetuf"
+              }
+            ],
+            "difficulty": "Easy"
+          },
+          {
+            "id": "srtstck",
+            "title": "Sort a Stack",
+            "article": null,
+            "youtube": null,
+            "practice": [
+              {
+                "label": "CN",
+                "url": "https://bit.ly/3nptF7k"
+              }
+            ],
+            "difficulty": "Easy"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "step": 14,
+    "name": "Stack and Queue Part-II",
+    "groups": [
+      {
+        "name": null,
+        "items": [
+          {
+            "id": "nxtsmllrlmnt",
+            "title": "Next Smaller Element",
+            "article": null,
+            "youtube": null,
+            "practice": [
+              {
+                "label": "IB",
+                "url": "https://www.interviewbit.com/problems/nearest-smaller-element/"
+              },
+              {
+                "label": "GFG",
+                "url": "https://bit.ly/3wbhcIL"
+              },
+              {
+                "label": "CN",
+                "url": "https://www.codingninjas.com/studio/problems/immediate-smaller-element-_1062597?utm_source=striver&utm_medium=website&utm_campaign=a_zcoursetuf"
+              }
+            ],
+            "difficulty": "Easy"
+          },
+          {
+            "id": "lrcchimprtnt",
+            "title": "LRU cache (IMPORTANT)",
+            "article": "https://web.archive.org/web/20240301000000/https://takeuforward.org/data-structure/implement-lru-cache/",
+            "youtube": "https://www.youtube.com/watch?v=z9bJUPxzFOw",
+            "practice": [
+              {
+                "label": "LC",
+                "url": "https://leetcode.com/problems/lru-cache/"
+              },
+              {
+                "label": "GFG",
+                "url": "https://bit.ly/3zZneNN"
+              },
+              {
+                "label": "CN",
+                "url": "https://www.codingninjas.com/studio/problems/lru-cache-implementation_670276?utm_source=striver&utm_medium=website&utm_campaign=a_zcoursetuf"
+              }
+            ],
+            "difficulty": "Hard"
+          },
+          {
+            "id": "lfcch",
+            "title": "LFU cache",
+            "article": null,
+            "youtube": "https://www.youtube.com/watch?v=0PSB9y8ehbk",
+            "practice": [
+              {
+                "label": "LC",
+                "url": "https://leetcode.com/problems/lfu-cache/"
+              },
+              {
+                "label": "GFG",
+                "url": "https://bit.ly/3fpYDLQ"
+              },
+              {
+                "label": "CN",
+                "url": "https://www.codingninjas.com/codestudio/problems/lfu-cache_8381892?utm_source=striver&utm_medium=website&utm_campaign=a_zcoursetuf"
+              }
+            ],
+            "difficulty": "Hard"
+          },
+          {
+            "id": "lrgstrctnglinhistgrm",
+            "title": "Largest rectangle in a histogram",
+            "article": "https://web.archive.org/web/20240301000000/https://takeuforward.org/data-structure/area-of-largest-rectangle-in-histogram/",
+            "youtube": "https://www.youtube.com/watch?v=Bzat9vgD0fs",
+            "practice": [
+              {
+                "label": "LC",
+                "url": "https://leetcode.com/problems/largest-rectangle-in-histogram/"
+              },
+              {
+                "label": "GFG",
+                "url": "https://bit.ly/3AnVYd5"
+              },
+              {
+                "label": "CN",
+                "url": "https://www.codingninjas.com/studio/problems/largest-rectangle-in-a-histogram_1058184?utm_source=striver&utm_medium=website&utm_campaign=a_zcoursetuf"
+              }
+            ],
+            "difficulty": "Medium"
+          },
+          {
+            "id": "slidingwindwmximm",
+            "title": "Sliding Window maximum",
+            "article": "https://web.archive.org/web/20240301000000/https://takeuforward.org/data-structure/sliding-window-maximum/",
+            "youtube": "https://www.youtube.com/watch?v=NwBvene4Imo",
+            "practice": [
+              {
+                "label": "LC",
+                "url": "https://leetcode.com/problems/sliding-window-maximum/"
+              },
+              {
+                "label": "GFG",
+                "url": "https://bit.ly/3w7SSri"
+              },
+              {
+                "label": "CN",
+                "url": "https://www.codingninjas.com/studio/problems/sliding-maximum-_701652?utm_source=striver&utm_medium=website&utm_campaign=a_zcoursetuf"
+              }
+            ],
+            "difficulty": "Hard"
+          },
+          {
+            "id": "implmntminstck",
+            "title": "Implement Min Stack",
+            "article": "https://web.archive.org/web/20240301000000/https://takeuforward.org/data-structure/implement-min-stack-o2n-and-on-space-complexity/",
+            "youtube": "https://www.youtube.com/watch?v=NdDIaH91P0g",
+            "practice": [
+              {
+                "label": "LC",
+                "url": "https://leetcode.com/problems/min-stack/"
+              },
+              {
+                "label": "GFG",
+                "url": "https://bit.ly/3JVhFoe"
+              },
+              {
+                "label": "CN",
+                "url": "https://www.codingninjas.com/studio/problems/min-stack_3843991?utm_source=striver&utm_medium=website&utm_campaign=a_zcoursetuf"
+              }
+            ],
+            "difficulty": "Medium"
+          },
+          {
+            "id": "rttnrngsingbfs",
+            "title": "Rotten Orange (Using BFS)",
+            "article": "https://web.archive.org/web/20240301000000/https://takeuforward.org/data-structure/rotten-oranges-min-time-to-rot-all-oranges-bfs/",
+            "youtube": "https://www.youtube.com/watch?v=yf3oUhkvqA0",
+            "practice": [
+              {
+                "label": "LC",
+                "url": "https://leetcode.com/problems/rotting-oranges/"
+              },
+              {
+                "label": "CN",
+                "url": "https://bit.ly/33zH0TC"
+              }
+            ],
+            "difficulty": "Medium"
+          },
+          {
+            "id": "stckspnprblm",
+            "title": "Stock span problem",
+            "article": null,
+            "youtube": "https://www.youtube.com/watch?v=eay-zoSRkVc",
+            "practice": [
+              {
+                "label": "LC",
+                "url": "https://leetcode.com/problems/online-stock-span/"
+              },
+              {
+                "label": "GFG",
+                "url": "https://bit.ly/3dzHopW"
+              },
+              {
+                "label": "CN",
+                "url": "https://www.codingninjas.com/studio/problems/stock-span_5243295?utm_source=striver&utm_medium=website&utm_campaign=a_zcoursetuf"
+              }
+            ],
+            "difficulty": "Medium"
+          },
+          {
+            "id": "findthmximmfminimmsfvrywindwsiz",
+            "title": "Find the maximum of minimums of every window size",
+            "article": null,
+            "youtube": null,
+            "practice": [
+              {
+                "label": "CN",
+                "url": "https://bit.ly/3zUYLZz"
+              }
+            ],
+            "difficulty": "Medium"
+          },
+          {
+            "id": "thclbrityprblm",
+            "title": "The Celebrity Problem",
+            "article": null,
+            "youtube": "https://www.youtube.com/watch?v=cEadsbTeze4",
+            "practice": [
+              {
+                "label": "LC",
+                "url": "https://leetcode.com/accounts/login/?next=/problems/find-the-celebrity/"
+              },
+              {
+                "label": "GFG",
+                "url": "https://bit.ly/3dC9IIB"
+              },
+              {
+                "label": "CN",
+                "url": "https://www.codingninjas.com/studio/problems/the-celebrity-problem_982769?utm_source=striver&utm_medium=website&utm_campaign=a_zcoursetuf"
+              }
+            ],
+            "difficulty": "Hard"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "step": 15,
+    "name": "String",
+    "groups": [
+      {
+        "name": null,
+        "items": [
+          {
+            "id": "rvrswrdsinstring",
+            "title": "Reverse Words in a String",
+            "article": "https://web.archive.org/web/20240301000000/https://takeuforward.org/data-structure/reverse-words-in-a-string/",
+            "youtube": null,
+            "practice": [
+              {
+                "label": "LC",
+                "url": "https://leetcode.com/problems/reverse-words-in-a-string/"
+              },
+              {
+                "label": "CN",
+                "url": "https://bit.ly/3FmKc1X"
+              }
+            ],
+            "difficulty": "Easy"
+          },
+          {
+            "id": "lngstplindrminstring",
+            "title": "Longest Palindrome in a string",
+            "article": null,
+            "youtube": null,
+            "practice": [
+              {
+                "label": "LC",
+                "url": "https://leetcode.com/problems/longest-palindromic-substring/"
+              },
+              {
+                "label": "CN",
+                "url": "https://www.codingninjas.com/studio/problems/day-12-:-longest-palindromic-substring_758900?utm_source=striver&utm_medium=website&utm_campaign=a_zcoursetuf"
+              }
+            ],
+            "difficulty": "Medium"
+          },
+          {
+            "id": "rmnnmbrtintgrndvicvrs",
+            "title": "Roman Number to Integer and vice versa",
+            "article": null,
+            "youtube": null,
+            "practice": [
+              {
+                "label": "LC",
+                "url": "https://leetcode.com/problems/roman-to-integer/"
+              },
+              {
+                "label": "GFG",
+                "url": "https://bit.ly/3AqBlNv"
+              },
+              {
+                "label": "CN",
+                "url": "https://www.codingninjas.com/studio/problems/roman-numeral-to-integer_981308?utm_source=striver&utm_medium=website&utm_campaign=a_zcoursetuf"
+              }
+            ],
+            "difficulty": "Easy"
+          },
+          {
+            "id": "implmnttistrstr",
+            "title": "Implement ATOI/STRSTR",
+            "article": null,
+            "youtube": null,
+            "practice": [
+              {
+                "label": "LC",
+                "url": "https://leetcode.com/problems/string-to-integer-atoi/"
+              },
+              {
+                "label": "CN",
+                "url": "https://bit.ly/3zXpYeb"
+              }
+            ],
+            "difficulty": "Medium"
+          },
+          {
+            "id": "lngstcmmnprfix",
+            "title": "Longest Common Prefix",
+            "article": null,
+            "youtube": null,
+            "practice": [
+              {
+                "label": "LC",
+                "url": "https://leetcode.com/problems/longest-common-prefix/"
+              },
+              {
+                "label": "GFG",
+                "url": "https://bit.ly/3QKCyVu"
+              },
+              {
+                "label": "CN",
+                "url": "https://www.codingninjas.com/studio/problems/longest-common-prefix_628874?utm_source=striver&utm_medium=website&utm_campaign=a_zcoursetuf"
+              }
+            ],
+            "difficulty": "Easy"
+          },
+          {
+            "id": "rbinkrp",
+            "title": "Rabin Karp",
+            "article": null,
+            "youtube": null,
+            "practice": [
+              {
+                "label": "LC",
+                "url": "https://leetcode.com/problems/repeated-string-match/discuss/416144/Rabin-Karp-algorithm-C%2B%2B-implementation"
+              },
+              {
+                "label": "GFG",
+                "url": "https://practice.geeksforgeeks.org/problems/31272eef104840f7430ad9fd1d43b434a4b9596b/1"
+              },
+              {
+                "label": "CN",
+                "url": "https://www.codingninjas.com/codestudio/problems/stringmatch-rabincarp_1115738?utm_source=striver&utm_medium=website&utm_campaign=a_zcoursetuf"
+              }
+            ],
+            "difficulty": "Hard"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "step": 16,
+    "name": "String Part-II",
+    "groups": [
+      {
+        "name": null,
+        "items": [
+          {
+            "id": "zfnctin",
+            "title": "Z-Function",
+            "article": null,
+            "youtube": null,
+            "practice": [
+              {
+                "label": "LC",
+                "url": "https://leetcode.com/problems/implement-strstr/"
+              },
+              {
+                "label": "GFG",
+                "url": "https://practice.geeksforgeeks.org/problems/8dcd25918295847b4ced54055eae35a8501181c1/1"
+              },
+              {
+                "label": "CN",
+                "url": "https://www.codingninjas.com/codestudio/problems/pattern-searching-using-z-algorithm_8395752?utm_source=striver&utm_medium=website&utm_campaign=a_zcoursetuf"
+              }
+            ],
+            "difficulty": "Easy"
+          },
+          {
+            "id": "kmplglpspirry",
+            "title": "KMP algo / LPS(pi) array",
+            "article": null,
+            "youtube": null,
+            "practice": [
+              {
+                "label": "LC",
+                "url": "https://leetcode.com/problems/implement-strstr/"
+              },
+              {
+                "label": "GFG",
+                "url": "https://practice.geeksforgeeks.org/problems/search-pattern0205/1"
+              },
+              {
+                "label": "CN",
+                "url": "https://www.codingninjas.com/codestudio/problems/search-pattern-kmp-algorithm_8416386?utm_source=striver&utm_medium=website&utm_campaign=a_zcoursetuf"
+              }
+            ],
+            "difficulty": "Hard"
+          },
+          {
+            "id": "minimmchrctrsnddtbinsrtdinthbginningtmkitplindrmic",
+            "title": "Minimum characters needed to be inserted in the beginning to make it palindromic",
+            "article": null,
+            "youtube": null,
+            "practice": [
+              {
+                "label": "IB",
+                "url": "https://www.interviewbit.com/problems/minimum-characters-required-to-make-a-string-palindromic/"
+              },
+              {
+                "label": "CN",
+                "url": "https://bit.ly/34RE855"
+              }
+            ],
+            "difficulty": "Hard"
+          },
+          {
+            "id": "chckfrngrms",
+            "title": "Check for Anagrams",
+            "article": null,
+            "youtube": null,
+            "practice": [
+              {
+                "label": "LC",
+                "url": "https://leetcode.com/problems/valid-anagram/"
+              },
+              {
+                "label": "CN",
+                "url": "https://bit.ly/3K6weoJ"
+              }
+            ],
+            "difficulty": "Easy"
+          },
+          {
+            "id": "cntndsy",
+            "title": "Count and say",
+            "article": null,
+            "youtube": null,
+            "practice": [
+              {
+                "label": "LC",
+                "url": "https://leetcode.com/problems/count-and-say/"
+              },
+              {
+                "label": "GFG",
+                "url": "https://bit.ly/3AFdLwR"
+              },
+              {
+                "label": "CN",
+                "url": "https://www.codingninjas.com/studio/problems/look-and-say-sequence_668478?utm_source=striver&utm_medium=website&utm_campaign=a_zcoursetuf"
+              }
+            ],
+            "difficulty": "Medium"
+          },
+          {
+            "id": "cmprvrsinnmbrs",
+            "title": "Compare version numbers",
+            "article": null,
+            "youtube": null,
+            "practice": [
+              {
+                "label": "LC",
+                "url": "https://leetcode.com/problems/compare-version-numbers/"
+              },
+              {
+                "label": "CN",
+                "url": "https://bit.ly/3GwYuys"
+              }
+            ],
+            "difficulty": "Medium"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "step": 17,
+    "name": "Binary Tree",
+    "groups": [
+      {
+        "name": null,
+        "items": [
+          {
+            "id": "inrdrtrvrsl",
+            "title": "Inorder Traversal",
+            "article": "https://web.archive.org/web/20240301000000/https://takeuforward.org/data-structure/inorder-traversal-of-binary-tree/",
+            "youtube": "https://www.youtube.com/watch?v=Z_NEgBgbRVI",
+            "practice": [
+              {
+                "label": "LC",
+                "url": "https://leetcode.com/problems/binary-tree-inorder-traversal/"
+              },
+              {
+                "label": "CN",
+                "url": "https://www.codingninjas.com/codestudio/problems/inorder-traversal_3839605?topList=striver-sde-sheet-problems&utm_source=striver&utm_medium=website"
+              }
+            ],
+            "difficulty": "Easy"
+          },
+          {
+            "id": "prrdrtrvrsl",
+            "title": "Preorder Traversal",
+            "article": "https://web.archive.org/web/20240301000000/https://takeuforward.org/data-structure/preorder-traversal-of-binary-tree/",
+            "youtube": "https://www.youtube.com/watch?v=RlUu72JrOCQ",
+            "practice": [
+              {
+                "label": "LC",
+                "url": "https://leetcode.com/problems/binary-tree-preorder-traversal/"
+              },
+              {
+                "label": "CN",
+                "url": "https://www.codingninjas.com/codestudio/problems/preorder-traversal_3838888?topList=striver-sde-sheet-problems&utm_source=striver&utm_medium=website"
+              }
+            ],
+            "difficulty": "Easy"
+          },
+          {
+            "id": "pstrdrtrvrsl",
+            "title": "Postorder Traversal",
+            "article": "https://web.archive.org/web/20240301000000/https://takeuforward.org/data-structure/post-order-traversal-of-binary-tree/",
+            "youtube": "https://www.youtube.com/watch?v=COQOU6klsBg",
+            "practice": [
+              {
+                "label": "LC",
+                "url": "https://leetcode.com/problems/binary-tree-postorder-traversal/"
+              },
+              {
+                "label": "CN",
+                "url": "https://www.codingninjas.com/codestudio/problems/postorder-traversal_3839614?topList=striver-sde-sheet-problems&utm_source=striver&utm_medium=website"
+              }
+            ],
+            "difficulty": "Easy"
+          },
+          {
+            "id": "mrrisinrdrtrvrsl",
+            "title": "Morris Inorder Traversal",
+            "article": "https://web.archive.org/web/20240301000000/https://takeuforward.org/data-structure/morris-inorder-traversal-of-a-binary-tree/",
+            "youtube": "https://www.youtube.com/watch?v=80Zug6D1_r4",
+            "practice": [
+              {
+                "label": "LC",
+                "url": "https://leetcode.com/problems/binary-tree-inorder-traversal/"
+              },
+              {
+                "label": "CN",
+                "url": "https://www.codingninjas.com/codestudio/problems/inorder-traversal_3839605?topList=striver-sde-sheet-problems&utm_source=striver&utm_medium=website"
+              }
+            ],
+            "difficulty": "Medium"
+          },
+          {
+            "id": "mrrisprrdrtrvrsl",
+            "title": "Morris Preorder Traversal",
+            "article": "https://web.archive.org/web/20240301000000/https://takeuforward.org/data-structure/morris-preorder-traversal-of-a-binary-tree/",
+            "youtube": "https://www.youtube.com/watch?v=80Zug6D1_r4",
+            "practice": [
+              {
+                "label": "CN",
+                "url": "https://www.codingninjas.com/codestudio/problems/preorder-traversal_3838888?topList=striver-sde-sheet-problems&utm_source=striver&utm_medium=website"
+              }
+            ],
+            "difficulty": "Medium"
+          },
+          {
+            "id": "lftviwfbinrytr",
+            "title": "LeftView Of Binary Tree",
+            "article": "https://web.archive.org/web/20240301000000/https://takeuforward.org/data-structure/right-left-view-of-binary-tree/",
+            "youtube": "https://www.youtube.com/watch?v=KV4mRzTjlAk",
+            "practice": [
+              {
+                "label": "GFG",
+                "url": "https://practice.geeksforgeeks.org/problems/left-view-of-binary-tree/1"
+              },
+              {
+                "label": "CN",
+                "url": "https://bit.ly/3GtxyQa"
+              }
+            ],
+            "difficulty": "Easy"
+          },
+          {
+            "id": "bttmviwfbinrytr",
+            "title": "Bottom View of Binary Tree",
+            "article": "https://web.archive.org/web/20240301000000/https://takeuforward.org/data-structure/bottom-view-of-a-binary-tree/",
+            "youtube": "https://www.youtube.com/watch?v=0FtVY6I4pB8",
+            "practice": [
+              {
+                "label": "GFG",
+                "url": "https://practice.geeksforgeeks.org/problems/bottom-view-of-binary-tree/1"
+              },
+              {
+                "label": "GFG",
+                "url": "https://bit.ly/3Asftl0"
+              },
+              {
+                "label": "CN",
+                "url": "https://www.codingninjas.com/studio/problems/bottom-view-of-binary-tree_893110?utm_source=striver&utm_medium=website&utm_campaign=a_zcoursetuf"
+              }
+            ],
+            "difficulty": "Medium"
+          },
+          {
+            "id": "tpviwfbinrytr",
+            "title": "Top View of Binary Tree",
+            "article": "https://web.archive.org/web/20240301000000/https://takeuforward.org/data-structure/top-view-of-a-binary-tree/",
+            "youtube": "https://www.youtube.com/watch?v=Et9OCDNvJ78",
+            "practice": [
+              {
+                "label": "GFG",
+                "url": "https://practice.geeksforgeeks.org/problems/top-view-of-binary-tree/1"
+              },
+              {
+                "label": "GFG",
+                "url": "https://bit.ly/3PsvE5T"
+              },
+              {
+                "label": "CN",
+                "url": "https://www.codingninjas.com/studio/problems/top-view-of-binary-tree_799401?utm_source=striver&utm_medium=website&utm_campaign=a_zcoursetuf"
+              }
+            ],
+            "difficulty": "Easy"
+          },
+          {
+            "id": "prrdrinrdrpstrdrinsingltrvrsl",
+            "title": "Preorder inorder postorder in a single traversal",
+            "article": "https://web.archive.org/web/20240301000000/https://takeuforward.org/data-structure/preorder-inorder-postorder-traversals-in-one-traversal/",
+            "youtube": "https://www.youtube.com/watch?v=ySp2epYvgTE",
+            "practice": [
+              {
+                "label": "CN",
+                "url": "https://bit.ly/3rlXpTX"
+              }
+            ],
+            "difficulty": "Medium"
+          },
+          {
+            "id": "vrticlrdrtrvrsl",
+            "title": "Vertical order traversal",
+            "article": "https://web.archive.org/web/20240301000000/https://takeuforward.org/data-structure/vertical-order-traversal-of-binary-tree/",
+            "youtube": "https://www.youtube.com/watch?v=q_a6lpbKJdw",
+            "practice": [
+              {
+                "label": "LC",
+                "url": "https://leetcode.com/problems/vertical-order-traversal-of-a-binary-tree/"
+              },
+              {
+                "label": "CN",
+                "url": "https://bit.ly/3KaM41v"
+              }
+            ],
+            "difficulty": "Easy"
+          },
+          {
+            "id": "rttndpthinbinrytr",
+            "title": "Root to Node Path in Binary Tree",
+            "article": "https://web.archive.org/web/20240301000000/https://takeuforward.org/data-structure/print-root-to-node-path-in-a-binary-tree/",
+            "youtube": "https://www.youtube.com/watch?v=fmflMqVOC7k",
+            "practice": [
+              {
+                "label": "GFG",
+                "url": "https://bit.ly/3QA600D"
+              },
+              {
+                "label": "CN",
+                "url": "https://www.codingninjas.com/studio/problems/all-root-to-leaf-paths-in-binary-tree._983599?utm_source=striver&utm_medium=website&utm_campaign=a_zcoursetuf"
+              }
+            ],
+            "difficulty": "Medium"
+          },
+          {
+            "id": "mxwidthfbinrytr",
+            "title": "Max width of a Binary Tree",
+            "article": "https://web.archive.org/web/20240301000000/https://takeuforward.org/data-structure/maximum-width-of-a-binary-tree/",
+            "youtube": "https://www.youtube.com/watch?v=ZbybYvcVLks",
+            "practice": [
+              {
+                "label": "LC",
+                "url": "https://leetcode.com/problems/maximum-width-of-binary-tree/"
+              },
+              {
+                "label": "CN",
+                "url": "https://bit.ly/3rm014d"
+              }
+            ],
+            "difficulty": "Medium"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "step": 18,
+    "name": "Binary Tree part-II",
+    "groups": [
+      {
+        "name": null,
+        "items": [
+          {
+            "id": "lvlrdrtrvrsllvlrdrtrvrslinspirlfrm",
+            "title": "Level order Traversal / Level order traversal in spiral form",
+            "article": "https://web.archive.org/web/20240301000000/https://takeuforward.org/data-structure/level-order-traversal-of-a-binary-tree/",
+            "youtube": "https://www.youtube.com/watch?v=EoAsWbO7sqg",
+            "practice": [
+              {
+                "label": "LC",
+                "url": "https://leetcode.com/problems/binary-tree-level-order-traversal/"
+              },
+              {
+                "label": "GFG",
+                "url": "https://bit.ly/3K6t9VR"
+              },
+              {
+                "label": "CN",
+                "url": "https://www.codingninjas.com/studio/problems/zigzag-binary-tree-traversal_920532?utm_source=striver&utm_medium=website&utm_campaign=a_zcoursetuf"
+              }
+            ],
+            "difficulty": "Easy"
+          },
+          {
+            "id": "hightfbinrytr",
+            "title": "Height of a Binary Tree",
+            "article": "https://web.archive.org/web/20240301000000/https://takeuforward.org/data-structure/maximum-depth-of-a-binary-tree/",
+            "youtube": "https://www.youtube.com/watch?v=eD3tmO66aBA",
+            "practice": [
+              {
+                "label": "LC",
+                "url": "https://leetcode.com/problems/maximum-depth-of-binary-tree/"
+              },
+              {
+                "label": "GFG",
+                "url": "https://bit.ly/3CitiDM"
+              },
+              {
+                "label": "CN",
+                "url": "https://www.codingninjas.com/studio/problems/height-of-binary-tree_4609628?utm_source=striver&utm_medium=website&utm_campaign=a_zcoursetuf"
+              }
+            ],
+            "difficulty": "Medium"
+          },
+          {
+            "id": "dimtrfbinrytr",
+            "title": "Diameter of Binary Tree",
+            "article": "https://web.archive.org/web/20240301000000/https://takeuforward.org/data-structure/calculate-the-diameter-of-a-binary-tree/",
+            "youtube": "https://www.youtube.com/watch?v=Rezetez59Nk",
+            "practice": [
+              {
+                "label": "LC",
+                "url": "https://leetcode.com/problems/diameter-of-binary-tree/"
+              },
+              {
+                "label": "GFG",
+                "url": "https://bit.ly/3wcfG9l"
+              },
+              {
+                "label": "CN",
+                "url": "https://www.codingninjas.com/studio/problems/diameter-of-binary-tree_920552?utm_source=striver&utm_medium=website&utm_campaign=a_zcoursetuf"
+              }
+            ],
+            "difficulty": "Medium"
+          },
+          {
+            "id": "chckifthbinrytrishightblncdrnt",
+            "title": "Check if the Binary tree is height-balanced or not",
+            "article": "https://web.archive.org/web/20240301000000/https://takeuforward.org/data-structure/check-if-the-binary-tree-is-balanced-binary-tree/",
+            "youtube": "https://www.youtube.com/watch?v=Yt50Jfbd8Po",
+            "practice": [
+              {
+                "label": "LC",
+                "url": "https://leetcode.com/problems/balanced-binary-tree/"
+              },
+              {
+                "label": "GFG",
+                "url": "https://bit.ly/3K9YbfB"
+              },
+              {
+                "label": "CN",
+                "url": "https://www.codingninjas.com/studio/problems/is-height-balanced-binary-tree_975497?utm_source=striver&utm_medium=website&utm_campaign=a_zcoursetuf"
+              }
+            ],
+            "difficulty": "Medium"
+          },
+          {
+            "id": "lcinbinrytr",
+            "title": "LCA in Binary Tree",
+            "article": "https://web.archive.org/web/20240301000000/https://takeuforward.org/data-structure/lowest-common-ancestor-for-two-given-nodes/",
+            "youtube": "https://www.youtube.com/watch?v=_-QHfMDde90",
+            "practice": [
+              {
+                "label": "LC",
+                "url": "https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/"
+              },
+              {
+                "label": "GFG",
+                "url": "https://bit.ly/3popvgG"
+              },
+              {
+                "label": "CN",
+                "url": "https://www.codingninjas.com/studio/problems/lca-of-binary-tree_920541?utm_source=striver&utm_medium=website&utm_campaign=a_zcoursetuf"
+              }
+            ],
+            "difficulty": "Medium"
+          },
+          {
+            "id": "chckiftwtrsridnticlrnt",
+            "title": "Check if two trees are identical or not",
+            "article": "https://web.archive.org/web/20240301000000/https://takeuforward.org/data-structure/check-if-two-trees-are-identical/",
+            "youtube": "https://www.youtube.com/watch?v=BhuvF_-PWS0",
+            "practice": [
+              {
+                "label": "LC",
+                "url": "https://leetcode.com/problems/same-tree/"
+              },
+              {
+                "label": "GFG",
+                "url": "https://bit.ly/3c2K52Z"
+              },
+              {
+                "label": "CN",
+                "url": "https://www.codingninjas.com/studio/problems/check-identical-trees_799364?utm_source=striver&utm_medium=website&utm_campaign=a_zcoursetuf"
+              }
+            ],
+            "difficulty": "Medium"
+          },
+          {
+            "id": "zigzgtrvrslfbinrytr",
+            "title": "Zig Zag Traversal of Binary Tree",
+            "article": "https://web.archive.org/web/20240301000000/https://takeuforward.org/data-structure/zig-zag-traversal-of-binary-tree/",
+            "youtube": "https://www.youtube.com/watch?v=3OXWEdlIGl4",
+            "practice": [
+              {
+                "label": "LC",
+                "url": "https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/"
+              },
+              {
+                "label": "GFG",
+                "url": "https://bit.ly/3K4mwn5"
+              },
+              {
+                "label": "CN",
+                "url": "https://www.codingninjas.com/studio/problems/zigzag-binary-tree-traversal_920532?utm_source=striver&utm_medium=website&utm_campaign=a_zcoursetuf"
+              }
+            ],
+            "difficulty": "Easy"
+          },
+          {
+            "id": "bndrytrvrslfbinrytr",
+            "title": "Boundary Traversal of Binary Tree",
+            "article": "https://web.archive.org/web/20240301000000/https://takeuforward.org/data-structure/boundary-traversal-of-a-binary-tree/",
+            "youtube": "https://www.youtube.com/watch?v=0ca1nvR0be4",
+            "practice": [
+              {
+                "label": "LC",
+                "url": "https://leetcode.com/problems/boundary-of-binary-tree/"
+              },
+              {
+                "label": "GFG",
+                "url": "https://bit.ly/3AsfgOK"
+              },
+              {
+                "label": "CN",
+                "url": "https://www.codingninjas.com/studio/problems/boundary-traversal-of-binary-tree_790725?utm_source=striver&utm_medium=website&utm_campaign=a_zcoursetuf"
+              }
+            ],
+            "difficulty": "Medium"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "step": 19,
+    "name": "Binary Tree part-III",
+    "groups": [
+      {
+        "name": null,
+        "items": [
+          {
+            "id": "mximmpthsm",
+            "title": "Maximum path sum",
+            "article": "https://web.archive.org/web/20240301000000/https://takeuforward.org/data-structure/maximum-sum-path-in-binary-tree/",
+            "youtube": "https://www.youtube.com/watch?v=WszrfSwMz58",
+            "practice": [
+              {
+                "label": "LC",
+                "url": "https://leetcode.com/problems/binary-tree-maximum-path-sum/"
+              },
+              {
+                "label": "GFG",
+                "url": "https://bit.ly/3QAFjbW"
+              },
+              {
+                "label": "CN",
+                "url": "https://www.codingninjas.com/studio/problems/maximum-sum-path-of-a-binary-tree._1214968?utm_source=striver&utm_medium=website&utm_campaign=a_zcoursetuf"
+              }
+            ],
+            "difficulty": "Hard"
+          },
+          {
+            "id": "cnstrctbinrytrfrminrdrndprrdr",
+            "title": "Construct Binary Tree from inorder and preorder",
+            "article": "https://web.archive.org/web/20240301000000/https://takeuforward.org/data-structure/construct-a-binary-tree-from-inorder-and-preorder-traversal/",
+            "youtube": "https://www.youtube.com/watch?v=aZNaLrVebKQ",
+            "practice": [
+              {
+                "label": "LC",
+                "url": "https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/"
+              },
+              {
+                "label": "GFG",
+                "url": "https://bit.ly/3AoZ4N5"
+              },
+              {
+                "label": "CN",
+                "url": "https://www.codingninjas.com/studio/problems/construct-binary-tree-from-inorder-and-preorder-traversal_920539?utm_source=striver&utm_medium=website&utm_campaign=a_zcoursetuf"
+              }
+            ],
+            "difficulty": "Hard"
+          },
+          {
+            "id": "cnstrctbinrytrfrminrdrndpstrdr",
+            "title": "Construct Binary Tree from Inorder and Postorder",
+            "article": null,
+            "youtube": "https://www.youtube.com/watch?v=LgLRTaEMRVc",
+            "practice": [
+              {
+                "label": "LC",
+                "url": "https://leetcode.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal/"
+              },
+              {
+                "label": "CN",
+                "url": "https://bit.ly/3qrzumM"
+              }
+            ],
+            "difficulty": "Hard"
+          },
+          {
+            "id": "symmtricbinrytr",
+            "title": "Symmetric Binary Tree",
+            "article": "https://web.archive.org/web/20240301000000/https://takeuforward.org/data-structure/check-for-symmetrical-binary-tree/",
+            "youtube": "https://www.youtube.com/watch?v=nKggiEpBE",
+            "practice": [
+              {
+                "label": "LC",
+                "url": "https://leetcode.com/problems/symmetric-tree/"
+              },
+              {
+                "label": "GFG",
+                "url": "https://bit.ly/3PCqBzP"
+              },
+              {
+                "label": "CN",
+                "url": "https://www.codingninjas.com/studio/problems/symmetric-tree_981177?utm_source=striver&utm_medium=website&utm_campaign=a_zcoursetuf"
+              }
+            ],
+            "difficulty": "Medium"
+          },
+          {
+            "id": "flttnbinrytrtlinkdlist",
+            "title": "Flatten Binary Tree to LinkedList",
+            "article": "https://web.archive.org/web/20240301000000/https://takeuforward.org/data-structure/flatten-binary-tree-to-linked-list/",
+            "youtube": "https://www.youtube.com/watch?v=sWf7k1x9XR4",
+            "practice": [
+              {
+                "label": "LC",
+                "url": "https://leetcode.com/problems/flatten-binary-tree-to-linked-list/"
+              },
+              {
+                "label": "GFG",
+                "url": "https://bit.ly/3PFzwko"
+              },
+              {
+                "label": "CN",
+                "url": "https://www.codingninjas.com/studio/problems/flatten-binary-tree-to-linked-list_1112615?utm_source=striver&utm_medium=website&utm_campaign=a_zcoursetuf"
+              }
+            ],
+            "difficulty": "Hard"
+          },
+          {
+            "id": "chckifbinrytristhmirrrfitslfrnt",
+            "title": "Check if Binary Tree is the mirror of itself or not",
+            "article": null,
+            "youtube": null,
+            "practice": [
+              {
+                "label": "GFG",
+                "url": "https://practice.geeksforgeeks.org/problems/mirror-tree/1"
+              },
+              {
+                "label": "CN",
+                "url": "https://bit.ly/3nqSnnQ"
+              }
+            ],
+            "difficulty": "Medium"
+          },
+          {
+            "id": "chckfrchildrnsmprprty",
+            "title": "Check for Children Sum Property",
+            "article": "https://web.archive.org/web/20240301000000/https://takeuforward.org/data-structure/check-for-children-sum-property-in-a-binary-tree/",
+            "youtube": "https://www.youtube.com/watch?v=fnmisPM6cVo",
+            "practice": [
+              {
+                "label": "GFG",
+                "url": "https://bit.ly/3dEr73g"
+              },
+              {
+                "label": "CN",
+                "url": "https://www.codingninjas.com/studio/problems/children-sum-property_8357239?utm_source=striver&utm_medium=website&utm_campaign=a_zcoursetuf"
+              }
+            ],
+            "difficulty": "Hard"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "step": 20,
+    "name": "Binary Search Tree",
+    "groups": [
+      {
+        "name": null,
+        "items": [
+          {
+            "id": "ppltnxtrightpintrsftr",
+            "title": "Populate Next Right pointers of Tree",
+            "article": null,
+            "youtube": null,
+            "practice": [
+              {
+                "label": "LC",
+                "url": "https://leetcode.com/problems/populating-next-right-pointers-in-each-node/"
+              },
+              {
+                "label": "CN",
+                "url": "https://bit.ly/33Bm8uX"
+              }
+            ],
+            "difficulty": "Medium"
+          },
+          {
+            "id": "srchgivnkyinbst",
+            "title": "Search given Key in BST",
+            "article": null,
+            "youtube": "https://www.youtube.com/watch?v=KcNt6v_56cc",
+            "practice": [
+              {
+                "label": "LC",
+                "url": "https://leetcode.com/problems/search-in-a-binary-search-tree/"
+              },
+              {
+                "label": "CN",
+                "url": "https://bit.ly/3Ft26jR"
+              }
+            ],
+            "difficulty": "Easy"
+          },
+          {
+            "id": "cnstrctbstfrmgivnkys",
+            "title": "Construct BST from given keys",
+            "article": null,
+            "youtube": null,
+            "practice": [
+              {
+                "label": "LC",
+                "url": "https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/"
+              },
+              {
+                "label": "CN",
+                "url": "https://bit.ly/3qr5I1t"
+              }
+            ],
+            "difficulty": "Hard"
+          },
+          {
+            "id": "cnstrctbstfrmprrdrtrvrsl",
+            "title": "Construct a BST from a preorder traversal",
+            "article": null,
+            "youtube": "https://www.youtube.com/watch?v=UmJT3j26t1I",
+            "practice": [
+              {
+                "label": "LC",
+                "url": "https://leetcode.com/problems/construct-binary-search-tree-from-preorder-traversal/"
+              },
+              {
+                "label": "GFG",
+                "url": "https://practice.geeksforgeeks.org/problems/preorder-to-postorder4423/1"
+              },
+              {
+                "label": "CN",
+                "url": "https://www.codingninjas.com/studio/problems/construct-bst-from-preorder-traversal_2689307?utm_source=striver&utm_medium=website&utm_campaign=a_zcoursetuf"
+              }
+            ],
+            "difficulty": "Medium"
+          },
+          {
+            "id": "chckisbtisbstrnt",
+            "title": "Check is a BT is BST or not",
+            "article": null,
+            "youtube": "https://www.youtube.com/watch?v=f-sj7I5oXEI",
+            "practice": [
+              {
+                "label": "LC",
+                "url": "https://leetcode.com/problems/validate-binary-search-tree/"
+              },
+              {
+                "label": "CN",
+                "url": "https://bit.ly/3nmKek7"
+              }
+            ],
+            "difficulty": "Medium"
+          },
+          {
+            "id": "findlcftwndsinbst",
+            "title": "Find LCA of two nodes in BST",
+            "article": null,
+            "youtube": "https://www.youtube.com/watch?v=cX_kPV_foZc",
+            "practice": [
+              {
+                "label": "LC",
+                "url": "https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/"
+              },
+              {
+                "label": "CN",
+                "url": "https://bit.ly/3qqoaXM"
+              }
+            ],
+            "difficulty": "Medium"
+          },
+          {
+            "id": "findthinrdrprdcssrsccssrfgivnkyinbst",
+            "title": "Find the inorder predecessor/successor of a given Key in BST.",
+            "article": null,
+            "youtube": "https://www.youtube.com/watch?v=SXKAD2svfmI",
+            "practice": [
+              {
+                "label": "GFG",
+                "url": "https://practice.geeksforgeeks.org/problems/predecessor-and-successor/1"
+              },
+              {
+                "label": "CN",
+                "url": "https://bit.ly/3A0hm6l"
+              }
+            ],
+            "difficulty": "Medium"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "step": 21,
+    "name": "Binary Search Tree Part-II",
+    "groups": [
+      {
+        "name": null,
+        "items": [
+          {
+            "id": "flrinbst",
+            "title": "Floor in a BST",
+            "article": null,
+            "youtube": "https://www.youtube.com/watch?v=xm_W1ub-K-w",
+            "practice": [
+              {
+                "label": "CN",
+                "url": "https://www.codingninjas.com/codestudio/problems/floor-from-bst_920457?source=youtube&campaign=Striver_Tree_Videos&utm_source=youtube&utm_medium=affiliate&utm_campaign=Striver_Tree_Videos"
+              }
+            ],
+            "difficulty": "Easy"
+          },
+          {
+            "id": "cilinbst",
+            "title": "Ceil in a BST",
+            "article": null,
+            "youtube": "https://www.youtube.com/watch?v=KSsk8AhdOZA",
+            "practice": [
+              {
+                "label": "CN",
+                "url": "https://www.codingninjas.com/codestudio/problems/ceil-from-bst_920464?source=youtube&campaign=Striver_Tree_Videos&utm_source=youtube&utm_medium=affiliate&utm_campaign=Striver_Tree_Videos"
+              }
+            ],
+            "difficulty": "Easy"
+          },
+          {
+            "id": "findkthsmllstlmntinbst",
+            "title": "Find K-th smallest element in BST",
+            "article": "https://web.archive.org/web/20240301000000/https://takeuforward.org/data-structure/kth-largest-smallest-element-in-binary-search-tree/",
+            "youtube": "https://www.youtube.com/watch?v=9TJYWh0adfk",
+            "practice": [
+              {
+                "label": "LC",
+                "url": "https://leetcode.com/problems/kth-smallest-element-in-a-bst/"
+              },
+              {
+                "label": "CN",
+                "url": "https://bit.ly/3rf0HrP"
+              }
+            ],
+            "difficulty": "Medium"
+          },
+          {
+            "id": "findkthlrgstlmntinbst",
+            "title": "Find K-th largest element in BST",
+            "article": "https://web.archive.org/web/20240301000000/https://takeuforward.org/data-structure/kth-largest-smallest-element-in-binary-search-tree/",
+            "youtube": "https://www.youtube.com/watch?v=9TJYWh0adfk",
+            "practice": [
+              {
+                "label": "GFG",
+                "url": "https://practice.geeksforgeeks.org/problems/kth-largest-element-in-bst/1"
+              },
+              {
+                "label": "CN",
+                "url": "https://bit.ly/31Yjtet"
+              }
+            ],
+            "difficulty": "Medium"
+          },
+          {
+            "id": "findpirwithgivnsminbst",
+            "title": "Find a pair with a given sum in BST",
+            "article": null,
+            "youtube": "https://www.youtube.com/watch?v=ssL3sHwPeb4",
+            "practice": [
+              {
+                "label": "LC",
+                "url": "https://leetcode.com/problems/two-sum-iv-input-is-a-bst/"
+              },
+              {
+                "label": "CN",
+                "url": "https://bit.ly/3FvDAOO"
+              }
+            ],
+            "difficulty": "Medium"
+          },
+          {
+            "id": "bstitrtr",
+            "title": "BST iterator",
+            "article": null,
+            "youtube": "https://www.youtube.com/watch?v=D2jMcmxU4bs",
+            "practice": [
+              {
+                "label": "LC",
+                "url": "https://leetcode.com/problems/binary-search-tree-iterator/"
+              },
+              {
+                "label": "CN",
+                "url": "https://bit.ly/3FsH5FC"
+              }
+            ],
+            "difficulty": "Medium"
+          },
+          {
+            "id": "sizfthlrgstbstinbinrytr",
+            "title": "Size of the largest BST in a Binary Tree",
+            "article": null,
+            "youtube": "https://www.youtube.com/watch?v=X0oXMdtUDwo",
+            "practice": [
+              {
+                "label": "LC",
+                "url": "https://leetcode.com/problems/maximum-sum-bst-in-binary-tree/"
+              },
+              {
+                "label": "CN",
+                "url": "https://bit.ly/3fn6h5V"
+              }
+            ],
+            "difficulty": "Medium"
+          },
+          {
+            "id": "sriliznddsrilizbinrytr",
+            "title": "Serialize and deserialize Binary Tree",
+            "article": "https://web.archive.org/web/20240301000000/https://takeuforward.org/data-structure/serialize-and-deserialize-a-binary-tree/",
+            "youtube": "https://www.youtube.com/watch?v=-YbXySKJsX8",
+            "practice": [
+              {
+                "label": "LC",
+                "url": "https://leetcode.com/problems/serialize-and-deserialize-binary-tree/"
+              },
+              {
+                "label": "GFG",
+                "url": "https://bit.ly/3PqPDSE"
+              },
+              {
+                "label": "CN",
+                "url": "https://www.codingninjas.com/studio/problems/serialize-and-deserialize-binary-tree_920328?utm_source=striver&utm_medium=website&utm_campaign=a_zcoursetuf"
+              }
+            ],
+            "difficulty": "Hard"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "step": 22,
+    "name": "Binary Trees[Miscellaneous]",
+    "groups": [
+      {
+        "name": null,
+        "items": [
+          {
+            "id": "binrytrtdbllinkdlist",
+            "title": "Binary Tree to Double Linked List",
+            "article": null,
+            "youtube": "https://www.youtube.com/watch?v=sWf7k1x9XR4",
+            "practice": [
+              {
+                "label": "LC",
+                "url": "https://leetcode.com/problems/flatten-binary-tree-to-linked-list/"
+              },
+              {
+                "label": "CN",
+                "url": "https://bit.ly/3HVnGz0"
+              }
+            ],
+            "difficulty": "Medium"
+          },
+          {
+            "id": "findmdininstrmfrnningintgrs",
+            "title": "Find median in a stream of running integers.",
+            "article": null,
+            "youtube": null,
+            "practice": [
+              {
+                "label": "LC",
+                "url": "https://leetcode.com/problems/find-median-from-data-stream/"
+              },
+              {
+                "label": "CN",
+                "url": "https://bit.ly/3rkTB58"
+              }
+            ],
+            "difficulty": "Hard"
+          },
+          {
+            "id": "kthlrgstlmntinstrm",
+            "title": "K-th largest element in a stream.",
+            "article": null,
+            "youtube": null,
+            "practice": [
+              {
+                "label": "LC",
+                "url": "https://leetcode.com/problems/kth-largest-element-in-a-stream/"
+              },
+              {
+                "label": "CN",
+                "url": "https://bit.ly/3KdiUPp"
+              }
+            ],
+            "difficulty": "Easy"
+          },
+          {
+            "id": "distinctnmbrsinwindw",
+            "title": "Distinct numbers in Window.",
+            "article": null,
+            "youtube": null,
+            "practice": [
+              {
+                "label": "IB",
+                "url": "https://www.interviewbit.com/problems/distinct-numbers-in-window/"
+              },
+              {
+                "label": "CN",
+                "url": "https://bit.ly/3zYWpcb"
+              }
+            ],
+            "difficulty": "Medium"
+          },
+          {
+            "id": "kthlrgstlmntinnnsrtdrry",
+            "title": "K-th largest element in an unsorted array.",
+            "article": null,
+            "youtube": null,
+            "practice": [
+              {
+                "label": "LC",
+                "url": "https://leetcode.com/problems/kth-largest-element-in-an-array/"
+              },
+              {
+                "label": "CN",
+                "url": "https://bit.ly/3GvQttz"
+              }
+            ],
+            "difficulty": "Easy"
+          },
+          {
+            "id": "fldfilllgrithm",
+            "title": "Flood-fill Algorithm",
+            "article": null,
+            "youtube": null,
+            "practice": [
+              {
+                "label": "LC",
+                "url": "https://leetcode.com/problems/flood-fill/"
+              },
+              {
+                "label": "CN",
+                "url": "https://bit.ly/3Gv1Th5"
+              }
+            ],
+            "difficulty": "Hard"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "step": 23,
+    "name": "Graph",
+    "groups": [
+      {
+        "name": null,
+        "items": [
+          {
+            "id": "clngrphntthtsysitlks",
+            "title": "Clone a graph (Not that easy as it looks)",
+            "article": null,
+            "youtube": null,
+            "practice": [
+              {
+                "label": "LC",
+                "url": "https://leetcode.com/problems/clone-graph/"
+              },
+              {
+                "label": "CN",
+                "url": "https://bit.ly/33BcVmE"
+              }
+            ],
+            "difficulty": "Hard"
+          },
+          {
+            "id": "dfs",
+            "title": "DFS",
+            "article": "https://web.archive.org/web/20240301000000/https://takeuforward.org/data-structure/depth-first-search-dfs/",
+            "youtube": "https://www.youtube.com/watch?v=Qzf1a--rhp8",
+            "practice": [
+              {
+                "label": "GFG",
+                "url": "https://practice.geeksforgeeks.org/problems/depth-first-traversal-for-a-graph/1"
+              },
+              {
+                "label": "GFG",
+                "url": "https://practice.geeksforgeeks.org/problems/depth-first-traversal-for-a-graph/1?utm_source=youtube&utm_medium=collab_striver_ytdescription&utm_campaign=dfs_of_graph"
+              },
+              {
+                "label": "CN",
+                "url": "https://www.codingninjas.com/studio/problems/dfs-traversal_630462?utm_source=striver&utm_medium=website&utm_campaign=a_zcoursetuf"
+              }
+            ],
+            "difficulty": "Hard"
+          },
+          {
+            "id": "bfs",
+            "title": "BFS",
+            "article": "https://web.archive.org/web/20240301000000/https://takeuforward.org/graph/breadth-first-search-bfs-level-order-traversal/",
+            "youtube": "https://www.youtube.com/watch?v=-tgVpUgsQ5k",
+            "practice": [
+              {
+                "label": "GFG",
+                "url": "https://practice.geeksforgeeks.org/problems/bfs-traversal-of-graph/1"
+              },
+              {
+                "label": "GFG",
+                "url": "https://practice.geeksforgeeks.org/problems/bfs-traversal-of-graph/1?utm_source=youtube&utm_medium=collab_striver_ytdescription&utm_campaign=bfs_of_graph"
+              },
+              {
+                "label": "CN",
+                "url": "https://www.codingninjas.com/studio/problems/bfs-in-graph_973002?utm_source=striver&utm_medium=website&utm_campaign=a_zcoursetuf"
+              }
+            ],
+            "difficulty": "Medium"
+          },
+          {
+            "id": "dtctcyclinndirctdgrphsingbfs",
+            "title": "Detect A cycle in Undirected Graph using BFS",
+            "article": "https://web.archive.org/web/20240301000000/https://takeuforward.org/data-structure/detect-cycle-in-an-undirected-graph-using-bfs/",
+            "youtube": "https://www.youtube.com/watch?v=BPlrALf1LDU",
+            "practice": [
+              {
+                "label": "LC",
+                "url": "https://leetcode.com/problems/course-schedule/"
+              },
+              {
+                "label": "CN",
+                "url": "https://bit.ly/3npFdrn"
+              }
+            ],
+            "difficulty": "Hard"
+          },
+          {
+            "id": "dtctcyclinndirctdgrphsingdfs",
+            "title": "Detect A cycle in Undirected Graph using DFS",
+            "article": "https://web.archive.org/web/20240301000000/https://takeuforward.org/data-structure/detect-cycle-in-an-undirected-graph-using-dfs/",
+            "youtube": "https://www.youtube.com/watch?v=zQ3zgFypzX4",
+            "practice": [
+              {
+                "label": "LC",
+                "url": "https://leetcode.com/problems/course-schedule/"
+              },
+              {
+                "label": "CN",
+                "url": "https://bit.ly/3npFdrn"
+              }
+            ],
+            "difficulty": "Hard"
+          },
+          {
+            "id": "dtctcyclindirctdgrphsingdfs",
+            "title": "Detect A cycle in a Directed Graph using DFS",
+            "article": "https://web.archive.org/web/20240301000000/https://takeuforward.org/data-structure/detect-a-cycle-in-directed-graph-topological-sort-kahns-algorithm-g-23/",
+            "youtube": "https://www.youtube.com/watch?v=uzVUw90ZFIg",
+            "practice": [
+              {
+                "label": "LC",
+                "url": "https://leetcode.com/problems/course-schedule/"
+              },
+              {
+                "label": "CN",
+                "url": "https://bit.ly/3FrzaZp"
+              }
+            ],
+            "difficulty": "Hard"
+          },
+          {
+            "id": "dtctcyclindirctdgrphsingbfs",
+            "title": "Detect A cycle in a Directed Graph using BFS",
+            "article": null,
+            "youtube": "https://www.youtube.com/watch?v=iTBaI90lpDQ",
+            "practice": [
+              {
+                "label": "LC",
+                "url": "https://leetcode.com/problems/course-schedule/"
+              },
+              {
+                "label": "CN",
+                "url": "https://bit.ly/3FrzaZp"
+              }
+            ],
+            "difficulty": "Hard"
+          },
+          {
+            "id": "tplgiclsrtbfs",
+            "title": "Topological Sort BFS",
+            "article": "https://web.archive.org/web/20240301000000/https://takeuforward.org/data-structure/topological-sort-bfs/",
+            "youtube": "https://www.youtube.com/watch?v=73sneFXuTEg",
+            "practice": [
+              {
+                "label": "GFG",
+                "url": "https://practice.geeksforgeeks.org/problems/topological-sort/1"
+              },
+              {
+                "label": "CN",
+                "url": "https://bit.ly/33bapUo"
+              }
+            ],
+            "difficulty": "Hard"
+          },
+          {
+            "id": "tplgiclsrtdfs",
+            "title": "Topological Sort DFS",
+            "article": "https://web.archive.org/web/20240301000000/https://takeuforward.org/data-structure/topological-sort-using-dfs/",
+            "youtube": "https://www.youtube.com/watch?v=5lZ0iJMrUMk",
+            "practice": [
+              {
+                "label": "GFG",
+                "url": "https://practice.geeksforgeeks.org/problems/topological-sort/1"
+              },
+              {
+                "label": "CN",
+                "url": "https://bit.ly/33bapUo"
+              }
+            ],
+            "difficulty": "Hard"
+          },
+          {
+            "id": "nmbrfislndsdingridndgrphbth",
+            "title": "Number of islands(Do in Grid and Graph Both)",
+            "article": "https://web.archive.org/web/20240301000000/https://takeuforward.org/data-structure/number-of-distinct-islands/",
+            "youtube": "https://www.youtube.com/watch?v=muncqlKJrH0",
+            "practice": [
+              {
+                "label": "LC",
+                "url": "https://leetcode.com/problems/number-of-islands/"
+              },
+              {
+                "label": "CN",
+                "url": "https://bit.ly/3KaSCND"
+              }
+            ],
+            "difficulty": "Hard"
+          },
+          {
+            "id": "biprtitchcksingbfs",
+            "title": "Bipartite Check using BFS",
+            "article": null,
+            "youtube": "https://www.youtube.com/watch?v=-vu34sct1g8",
+            "practice": [
+              {
+                "label": "LC",
+                "url": "https://leetcode.com/problems/is-graph-bipartite/"
+              },
+              {
+                "label": "CN",
+                "url": "https://bit.ly/3tps98W"
+              }
+            ],
+            "difficulty": "Medium"
+          },
+          {
+            "id": "biprtitchcksingdfs",
+            "title": "Bipartite Check using DFS",
+            "article": "https://web.archive.org/web/20240301000000/https://takeuforward.org/graph/bipartite-graph-dfs-implementation/",
+            "youtube": "https://www.youtube.com/watch?v=KG5YFfR0j8A",
+            "practice": [
+              {
+                "label": "LC",
+                "url": "https://leetcode.com/problems/is-graph-bipartite/"
+              },
+              {
+                "label": "CN",
+                "url": "https://bit.ly/3tps98W"
+              }
+            ],
+            "difficulty": "Medium"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "step": 24,
+    "name": "Graph Part-II",
+    "groups": [
+      {
+        "name": null,
+        "items": [
+          {
+            "id": "strnglycnnctdcmpnntsingksrjslg",
+            "title": "Strongly Connected Component(using KosaRajuΓÇÖs algo)",
+            "article": "https://web.archive.org/web/20240301000000/https://takeuforward.org/graph/strongly-connected-components-kosarajus-algorithm-g-54/",
+            "youtube": "https://www.youtube.com/watch?v=V8qIqJxCioo",
+            "practice": [
+              {
+                "label": "LC",
+                "url": "https://leetcode.com/problems/maximum-number-of-non-overlapping-substrings/discuss/766485/kosaraju-algorithm-on"
+              },
+              {
+                "label": "CN",
+                "url": "https://bit.ly/3twUKJP"
+              }
+            ],
+            "difficulty": "Hard"
+          },
+          {
+            "id": "dijkstrslgrithm",
+            "title": "DijkstraΓÇÖs Algorithm",
+            "article": "https://web.archive.org/web/20240301000000/https://takeuforward.org/data-structure/g-35-print-shortest-path-dijkstras-algorithm/",
+            "youtube": "https://www.youtube.com/watch?v=rp1SMw7HSO8",
+            "practice": [
+              {
+                "label": "GFG",
+                "url": "https://practice.geeksforgeeks.org/problems/implementing-dijkstra-set-1-adjacency-matrix/1"
+              },
+              {
+                "label": "CN",
+                "url": "https://bit.ly/3qrEHLm"
+              }
+            ],
+            "difficulty": "Hard"
+          },
+          {
+            "id": "bllmnfrdlg",
+            "title": "Bellman-Ford Algo",
+            "article": "https://web.archive.org/web/20240301000000/https://takeuforward.org/data-structure/bellman-ford-algorithm-g-41/",
+            "youtube": "https://www.youtube.com/watch?v=0vVofAhAYjc",
+            "practice": [
+              {
+                "label": "GFG",
+                "url": "https://practice.geeksforgeeks.org/problems/distance-from-the-source-bellman-ford-algorithm/0/?fbclid=IwAR2_lL0T84DnciLyzMTQuVTMBOi82nTWNLuXjUgahnrtBgkphKiYk6xcyJU"
+              },
+              {
+                "label": "CN",
+                "url": "https://bit.ly/3GwAf3A"
+              }
+            ],
+            "difficulty": "Hard"
+          },
+          {
+            "id": "flydwrshlllgrithm",
+            "title": "Floyd Warshall Algorithm",
+            "article": "https://web.archive.org/web/20240301000000/https://takeuforward.org/data-structure/floyd-warshall-algorithm-g-42/",
+            "youtube": "https://www.youtube.com/watch?v=YbY8cVwWAvw",
+            "practice": [
+              {
+                "label": "GFG",
+                "url": "https://practice.geeksforgeeks.org/problems/implementing-floyd-warshall2042/1"
+              },
+              {
+                "label": "CN",
+                "url": "https://bit.ly/3Kb41Ny"
+              }
+            ],
+            "difficulty": "Hard"
+          },
+          {
+            "id": "mstsingprimslg",
+            "title": "MST using Prim's Algo",
+            "article": "https://web.archive.org/web/20240301000000/https://takeuforward.org/data-structure/prims-algorithm-minimum-spanning-tree-c-and-java-g-45/",
+            "youtube": "https://www.youtube.com/watch?v=mJcZjjKzeqk",
+            "practice": [
+              {
+                "label": "GFG",
+                "url": "https://practice.geeksforgeeks.org/problems/minimum-spanning-tree/1"
+              },
+              {
+                "label": "CN",
+                "url": "https://bit.ly/3I5Ktbi"
+              }
+            ],
+            "difficulty": "Hard"
+          },
+          {
+            "id": "mstsingkrsklslg",
+            "title": "MST using KruskalΓÇÖs Algo",
+            "article": "https://web.archive.org/web/20240301000000/https://takeuforward.org/data-structure/kruskals-algorithm-minimum-spanning-tree-g-47/",
+            "youtube": "https://www.youtube.com/watch?v=1KRmCzBl_mQ",
+            "practice": [
+              {
+                "label": "GFG",
+                "url": "https://practice.geeksforgeeks.org/problems/minimum-spanning-tree/1"
+              },
+              {
+                "label": "CN",
+                "url": "https://bit.ly/3I1VqL9"
+              }
+            ],
+            "difficulty": "Hard"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "step": 25,
+    "name": "Dynamic Programming",
+    "groups": [
+      {
+        "name": null,
+        "items": [
+          {
+            "id": "mxprdctsbrry",
+            "title": "Max Product Subarray",
+            "article": "https://web.archive.org/web/20240301000000/https://takeuforward.org/data-structure/maximum-product-subarray-in-an-array/",
+            "youtube": null,
+            "practice": [
+              {
+                "label": "LC",
+                "url": "https://leetcode.com/problems/maximum-product-subarray/"
+              },
+              {
+                "label": "CN",
+                "url": "https://bit.ly/3fqz6OS"
+              }
+            ],
+            "difficulty": "Medium"
+          },
+          {
+            "id": "lngstincrsingsbsqnc",
+            "title": "Longest Increasing Subsequence",
+            "article": "https://web.archive.org/web/20240301000000/https://takeuforward.org/data-structure/longest-increasing-subsequence-dp-41/",
+            "youtube": "https://www.youtube.com/watch?v=ekcwMsSIzVc",
+            "practice": [
+              {
+                "label": "LC",
+                "url": "https://leetcode.com/problems/longest-increasing-subsequence/"
+              },
+              {
+                "label": "CN",
+                "url": "https://bit.ly/3GuWGpA"
+              }
+            ],
+            "difficulty": "Medium"
+          },
+          {
+            "id": "lngstcmmnsbsqnc",
+            "title": "Longest Common Subsequence",
+            "article": "https://web.archive.org/web/20240301000000/https://takeuforward.org/data-structure/longest-common-subsequence-dp-25/",
+            "youtube": "https://www.youtube.com/watch?v=NPZn9jBrX8U",
+            "practice": [
+              {
+                "label": "LC",
+                "url": "https://leetcode.com/problems/longest-common-subsequence/"
+              },
+              {
+                "label": "CN",
+                "url": "https://bit.ly/3raZbqM"
+              }
+            ],
+            "difficulty": "Medium"
+          },
+          {
+            "id": "01knpsck",
+            "title": "0-1 Knapsack",
+            "article": "https://web.archive.org/web/20240301000000/https://takeuforward.org/data-structure/0-1-knapsack-dp-19/",
+            "youtube": "https://www.youtube.com/watch?v=GqOmJHQZivw",
+            "practice": [
+              {
+                "label": "LC",
+                "url": "https://bit.ly/3FvHbMO"
+              },
+              {
+                "label": "GFG",
+                "url": "https://practice.geeksforgeeks.org/problems/0-1-knapsack-problem0945/1"
+              }
+            ],
+            "difficulty": "Medium"
+          },
+          {
+            "id": "ditdistnc",
+            "title": "Edit Distance",
+            "article": "https://web.archive.org/web/20240301000000/https://takeuforward.org/data-structure/edit-distance-dp-33/",
+            "youtube": "https://www.youtube.com/watch?v=fJaKO8FbDdo",
+            "practice": [
+              {
+                "label": "LC",
+                "url": "https://leetcode.com/problems/edit-distance/"
+              },
+              {
+                "label": "CN",
+                "url": "https://bit.ly/3qpUHgE"
+              }
+            ],
+            "difficulty": "Hard"
+          },
+          {
+            "id": "mximmsmincrsingsbsqnc",
+            "title": "Maximum sum increasing subsequence",
+            "article": null,
+            "youtube": null,
+            "practice": [
+              {
+                "label": "GFG",
+                "url": "https://practice.geeksforgeeks.org/problems/maximum-sum-increasing-subsequence4749/1"
+              },
+              {
+                "label": "CN",
+                "url": "https://bit.ly/3tqiS0s"
+              }
+            ],
+            "difficulty": "Hard"
+          },
+          {
+            "id": "mtrixchinmltiplictin",
+            "title": "Matrix Chain Multiplication",
+            "article": "https://web.archive.org/web/20240301000000/https://takeuforward.org/dynamic-programming/matrix-chain-multiplication-dp-48/",
+            "youtube": "https://www.youtube.com/watch?v=vRVfmbCFW7Y",
+            "practice": [
+              {
+                "label": "GFG",
+                "url": "https://practice.geeksforgeeks.org/problems/matrix-chain-multiplication0303/1"
+              },
+              {
+                "label": "CN",
+                "url": "https://bit.ly/3qqX56T"
+              }
+            ],
+            "difficulty": "Hard"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "step": 26,
+    "name": "Dynamic Programming Part-II",
+    "groups": [
+      {
+        "name": null,
+        "items": [
+          {
+            "id": "minimmsmpthinthmtrixcntpthsndsimilrtypdlsbcktrcktfindthminimmpth",
+            "title": "Minimum sum path in the matrix, (count paths and similar type do, also backtrack to find the Minimum path)",
+            "article": "https://web.archive.org/web/20240301000000/https://takeuforward.org/data-structure/minimum-path-sum-in-a-grid-dp-10/",
+            "youtube": "https://www.youtube.com/watch?v=_rgTlyky1uQ",
+            "practice": [
+              {
+                "label": "LC",
+                "url": "https://leetcode.com/problems/minimum-path-sum/"
+              },
+              {
+                "label": "CN",
+                "url": "https://bit.ly/3zWJEin"
+              }
+            ],
+            "difficulty": null
+          },
+          {
+            "id": "cinchng",
+            "title": "Coin change",
+            "article": "https://web.archive.org/web/20240301000000/https://takeuforward.org/data-structure/coin-change-2-dp-22/",
+            "youtube": "https://www.youtube.com/watch?v=HgyouUi11zk",
+            "practice": [
+              {
+                "label": "LC",
+                "url": "https://leetcode.com/problems/coin-change/"
+              },
+              {
+                "label": "CN",
+                "url": "https://bit.ly/3GwBrnA"
+              }
+            ],
+            "difficulty": "Hard"
+          },
+          {
+            "id": "sbstsm",
+            "title": "Subset Sum",
+            "article": "https://web.archive.org/web/20240301000000/https://takeuforward.org/data-structure/subset-sum-equal-to-target-dp-14/",
+            "youtube": "https://www.youtube.com/watch?v=fWX9xDmIzRI",
+            "practice": [
+              {
+                "label": "LC",
+                "url": "https://leetcode.com/problems/partition-equal-subset-sum/"
+              },
+              {
+                "label": "CN",
+                "url": "https://bit.ly/3rjUdb7"
+              }
+            ],
+            "difficulty": "Medium"
+          },
+          {
+            "id": "rdctting",
+            "title": "Rod Cutting",
+            "article": "https://web.archive.org/web/20240301000000/https://takeuforward.org/data-structure/rod-cutting-problem-dp-24/",
+            "youtube": "https://www.youtube.com/watch?v=mO8XpGoJwuo",
+            "practice": [
+              {
+                "label": "LC",
+                "url": "https://leetcode.com/problems/minimum-cost-to-cut-a-stick/"
+              },
+              {
+                "label": "CN",
+                "url": "https://bit.ly/3GuIsoS"
+              }
+            ],
+            "difficulty": "Hard"
+          },
+          {
+            "id": "ggdrpping",
+            "title": "Egg Dropping",
+            "article": null,
+            "youtube": null,
+            "practice": [
+              {
+                "label": "GFG",
+                "url": "https://practice.geeksforgeeks.org/problems/egg-dropping-puzzle-1587115620/1"
+              },
+              {
+                "label": "CN",
+                "url": "https://bit.ly/3A6id5O"
+              }
+            ],
+            "difficulty": "Hard"
+          },
+          {
+            "id": "wrdbrk",
+            "title": "Word Break",
+            "article": null,
+            "youtube": null,
+            "practice": [
+              {
+                "label": "LC",
+                "url": "https://leetcode.com/problems/word-break/"
+              },
+              {
+                "label": "GFG",
+                "url": "https://bit.ly/3bVT5XN"
+              },
+              {
+                "label": "CN",
+                "url": "https://www.codingninjas.com/studio/problems/word-break-1_758963?utm_source=striver&utm_medium=website&utm_campaign=a_zcoursetuf"
+              }
+            ],
+            "difficulty": null
+          },
+          {
+            "id": "plindrmprtitiningmcmvritin",
+            "title": "Palindrome Partitioning (MCM Variation)",
+            "article": null,
+            "youtube": "https://www.youtube.com/watch?v=_H8V5hJUGd0",
+            "practice": [
+              {
+                "label": "GFG",
+                "url": "https://practice.geeksforgeeks.org/problems/palindromic-patitioning4845/1"
+              },
+              {
+                "label": "CN",
+                "url": "https://bit.ly/3tq9MRn"
+              }
+            ],
+            "difficulty": "Hard"
+          },
+          {
+            "id": "mximmprfitinjbschdling",
+            "title": "Maximum profit in Job scheduling",
+            "article": null,
+            "youtube": null,
+            "practice": [
+              {
+                "label": "GFG",
+                "url": "https://practice.geeksforgeeks.org/problems/job-sequencing-problem-1587115620/1"
+              },
+              {
+                "label": "CN",
+                "url": "https://bit.ly/34FoY2C"
+              }
+            ],
+            "difficulty": "Medium"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "step": 27,
+    "name": "Trie",
+    "groups": [
+      {
+        "name": null,
+        "items": [
+          {
+            "id": "implmnttriprfixtr",
+            "title": "Implement Trie (Prefix Tree)",
+            "article": "https://web.archive.org/web/20240301000000/https://takeuforward.org/data-structure/implement-trie-1/",
+            "youtube": "https://www.youtube.com/watch?v=dBGUmUQhjaM",
+            "practice": [
+              {
+                "label": "LC",
+                "url": "https://leetcode.com/problems/implement-trie-prefix-tree/"
+              },
+              {
+                "label": "CN",
+                "url": "https://bit.ly/33wIn5x"
+              }
+            ],
+            "difficulty": "Hard"
+          },
+          {
+            "id": "implmnttri2prfixtr",
+            "title": "Implement Trie - 2 (Prefix Tree)",
+            "article": "https://web.archive.org/web/20240301000000/https://takeuforward.org/data-structure/implement-trie-ii/",
+            "youtube": null,
+            "practice": [
+              {
+                "label": "LC",
+                "url": "https://bit.ly/3qwT4OL"
+              },
+              {
+                "label": "GFG",
+                "url": "https://bit.ly/3SUAiwJ"
+              },
+              {
+                "label": "CN",
+                "url": "https://www.codingninjas.com/studio/problems/trie-delete-operation_1062663?utm_source=striver&utm_medium=website&utm_campaign=a_zcoursetuf"
+              }
+            ],
+            "difficulty": "Hard"
+          },
+          {
+            "id": "lngststringwithllprfixs",
+            "title": "Longest String with All Prefixes",
+            "article": null,
+            "youtube": "https://www.youtube.com/watch?v=AWnBa91lThI",
+            "practice": [
+              {
+                "label": "LC",
+                "url": "https://bit.ly/3n3kedU"
+              },
+              {
+                "label": "GFG",
+                "url": "https://bit.ly/3Qx5AYB"
+              },
+              {
+                "label": "CN",
+                "url": "https://www.codingninjas.com/studio/problems/longest-common-prefix_2090383?utm_source=striver&utm_medium=website&utm_campaign=a_zcoursetuf"
+              }
+            ],
+            "difficulty": "Medium"
+          },
+          {
+            "id": "nmbrfdistinctsbstringsinstring",
+            "title": "Number of Distinct Substrings in a String",
+            "article": "https://web.archive.org/web/20240301000000/https://takeuforward.org/data-structure/number-of-distinct-substrings-in-a-string-using-trie/",
+            "youtube": "https://www.youtube.com/watch?v=RV0QeTyHZxo",
+            "practice": [
+              {
+                "label": "LC",
+                "url": "https://bit.ly/3ocRQW0"
+              },
+              {
+                "label": "GFG",
+                "url": "https://practice.geeksforgeeks.org/problems/count-of-distinct-substrings/1"
+              },
+              {
+                "label": "CN",
+                "url": "https://www.codingninjas.com/studio/problems/count-distinct-substrings_985292?utm_source=striver&utm_medium=website&utm_campaign=a_zcoursetuf"
+              }
+            ],
+            "difficulty": "Hard"
+          },
+          {
+            "id": "pwrstthisisvryimprtnt",
+            "title": "Power Set (this is very important)",
+            "article": "https://web.archive.org/web/20240301000000/https://takeuforward.org/data-structure/power-set-print-all-the-possible-subsequences-of-the-string/",
+            "youtube": "https://www.youtube.com/watch?v=b7AYbpM5YrE",
+            "practice": [
+              {
+                "label": "GFG",
+                "url": "https://practice.geeksforgeeks.org/problems/power-set4302/1#"
+              },
+              {
+                "label": "CN",
+                "url": "https://bit.ly/3fmd28k"
+              }
+            ],
+            "difficulty": "Medium"
+          },
+          {
+            "id": "mximmxrftwnmbrsinnrry",
+            "title": "Maximum XOR of two numbers in an array",
+            "article": "https://web.archive.org/web/20240301000000/https://takeuforward.org/data-structure/maximum-xor-of-two-numbers-in-an-array/",
+            "youtube": "https://www.youtube.com/watch?v=EIhAwfHubE8",
+            "practice": [
+              {
+                "label": "LC",
+                "url": "https://leetcode.com/problems/maximum-xor-of-two-numbers-in-an-array/"
+              },
+              {
+                "label": "GFG",
+                "url": "https://practice.geeksforgeeks.org/problems/maximum-xor-of-two-numbers-in-an-array/0"
+              },
+              {
+                "label": "CN",
+                "url": "https://www.codingninjas.com/codestudio/problems/maximum-xor_3119012?utm_source=striver&utm_medium=website&utm_campaign=a_zcoursetuf"
+              }
+            ],
+            "difficulty": "Medium"
+          },
+          {
+            "id": "mximmxrwithnlmntfrmrry",
+            "title": "Maximum XOR With an Element From Array",
+            "article": "https://web.archive.org/web/20240301000000/https://takeuforward.org/trie/maximum-xor-queries-trie/",
+            "youtube": "https://www.youtube.com/watch?v=Q8LhG9Pi5KM",
+            "practice": [
+              {
+                "label": "LC",
+                "url": "https://leetcode.com/problems/maximum-xor-with-an-element-from-array/"
+              },
+              {
+                "label": "GFG",
+                "url": "https://bit.ly/3tNYB3Y"
+              },
+              {
+                "label": "CN",
+                "url": "https://www.codingninjas.com/studio/problems/maximum-xor-with-an-element-from-array_1382020?utm_source=striver&utm_medium=website&utm_campaign=a_zcoursetuf"
+              }
+            ],
+            "difficulty": "Hard"
+          }
+        ]
+      }
+    ]
+  }
+]

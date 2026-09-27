@@ -1,0 +1,782 @@
+{
+ "sheetData": [
+  {
+   "step_no": 1,
+   "head_step_no": "Basics",
+   "topics": [
+    {
+     "id": "What-is-System-Design",
+     "step_no": 1,
+     "sl_no_in_step": 1,
+     "head_step_no": "Basics",
+     "title": "What is System Design?",
+     "post_link": null,
+     "yt_link": "https://youtu.be/SqcXvc3ZmRU",
+     "company_tags": null
+    },
+    {
+     "id": "Horizontal-vs-Vertical-Scaling",
+     "step_no": 1,
+     "sl_no_in_step": 2,
+     "head_step_no": "Basics",
+     "title": "Horizontal vs. Vertical Scaling",
+     "post_link": null,
+     "yt_link": "https://www.youtube.com/watch?v=xpDnVSmNFX0",
+     "company_tags": null
+    },
+    {
+     "id": "What-is-Capacity-Estimation",
+     "step_no": 1,
+     "sl_no_in_step": 3,
+     "head_step_no": "Basics",
+     "title": "What is Capacity Estimation?",
+     "post_link": null,
+     "yt_link": "https://www.youtube.com/watch?v=0myM0k1mjZw",
+     "company_tags": null
+    },
+    {
+     "id": "What-is-HTTP",
+     "step_no": 1,
+     "sl_no_in_step": 4,
+     "head_step_no": "Basics",
+     "title": "What is HTTP?",
+     "post_link": "https://takeuforward.org/computer-network/what-are-http-and-https-protocols/",
+     "yt_link": null,
+     "company_tags": null
+    },
+    {
+     "id": "What-is-the-Internet-TCP/IP-stack",
+     "step_no": 1,
+     "sl_no_in_step": 5,
+     "head_step_no": "Basics",
+     "title": "What is the Internet TCP/IP stack?",
+     "post_link": "https://takeuforward.org/computer-network/explain-tcp-model/",
+     "yt_link": null,
+     "company_tags": null
+    },
+    {
+     "id": "What-happens-when-you-enter-Google-com",
+     "step_no": 1,
+     "sl_no_in_step": 6,
+     "head_step_no": "Basics",
+     "title": "What happens when you enter Google.com?",
+     "post_link": "https://takeuforward.org/computer-network/what-happens-when-you-enter-google-com/",
+     "yt_link": null,
+     "company_tags": null
+    },
+    {
+     "id": "What-are-Relational-Databases",
+     "step_no": 1,
+     "sl_no_in_step": 7,
+     "head_step_no": "Basics",
+     "title": "What are Relational Databases?",
+     "post_link": "https://takeuforward.org/interviews/must-do-questions-for-dbms-cn-os-interviews-sde-core-sheet/",
+     "yt_link": null,
+     "company_tags": null
+    },
+    {
+     "id": "What-are-Database-Indexes",
+     "step_no": 1,
+     "sl_no_in_step": 8,
+     "head_step_no": "Basics",
+     "title": "What are Database Indexes?",
+     "post_link": null,
+     "yt_link": "https://youtu.be/mTNkqMDCasI",
+     "company_tags": null
+    },
+    {
+     "id": "What-are-NoSQL-databases",
+     "step_no": 1,
+     "sl_no_in_step": 9,
+     "head_step_no": "Basics",
+     "title": "What are NoSQL databases?",
+     "post_link": null,
+     "yt_link": "https://youtu.be/xQnIN9bW0og",
+     "company_tags": null
+    },
+    {
+     "id": "What-is-a-Cache",
+     "step_no": 1,
+     "sl_no_in_step": 10,
+     "head_step_no": "Basics",
+     "title": "What is a Cache?",
+     "post_link": "https://takeuforward.org/operating-system/what-is-cache/",
+     "yt_link": null,
+     "company_tags": null
+    },
+    {
+     "id": "What-is-Thrashing",
+     "step_no": 1,
+     "sl_no_in_step": 11,
+     "head_step_no": "Basics",
+     "title": "What is Thrashing?",
+     "post_link": "https://takeuforward.org/operating-system/why-does-thrashing-occur/",
+     "yt_link": null,
+     "company_tags": null
+    },
+    {
+     "id": "What-are-Threads",
+     "step_no": 1,
+     "sl_no_in_step": 12,
+     "head_step_no": "Basics",
+     "title": "What are Threads?",
+     "post_link": "https://takeuforward.org/operating-system/difference-between-process-program-and-thread-different-types/",
+     "yt_link": null,
+     "company_tags": null
+    }
+   ]
+  },
+  {
+   "step_no": 2,
+   "head_step_no": "Load Balancing",
+   "topics": [
+    {
+     "id": "What-is-Load-Balancing",
+     "step_no": 2,
+     "sl_no_in_step": 1,
+     "head_step_no": "Load Balancing",
+     "title": "What is Load Balancing?",
+     "post_link": null,
+     "yt_link": "https://youtu.be/K0Ta65OqQkY",
+     "company_tags": null
+    },
+    {
+     "id": "What-is-Consistent-Hashing",
+     "step_no": 2,
+     "sl_no_in_step": 2,
+     "head_step_no": "Load Balancing",
+     "title": "What is Consistent Hashing?",
+     "post_link": null,
+     "yt_link": "https://youtu.be/zaRkONvyGr8",
+     "company_tags": null
+    },
+    {
+     "id": "What-is-Sharding",
+     "step_no": 2,
+     "sl_no_in_step": 3,
+     "head_step_no": "Load Balancing",
+     "title": "What is Sharding?",
+     "post_link": null,
+     "yt_link": "https://youtu.be/5faMjKuB9bc",
+     "company_tags": null
+    }
+   ]
+  },
+  {
+   "step_no": 3,
+   "head_step_no": "DataStores",
+   "topics": [
+    {
+     "id": "What-are-Bloom-Filters",
+     "step_no": 3,
+     "sl_no_in_step": 1,
+     "head_step_no": "DataStores",
+     "title": "What are Bloom Filters?",
+     "post_link": null,
+     "yt_link": "https://youtu.be/bgzUdBVr5tE",
+     "company_tags": null
+    },
+    {
+     "id": "What-is-Data-Replication",
+     "step_no": 3,
+     "sl_no_in_step": 2,
+     "head_step_no": "DataStores",
+     "title": "What is Data Replication?",
+     "post_link": null,
+     "yt_link": "https://youtu.be/GeGxgmPTe4c",
+     "company_tags": null
+    },
+    {
+     "id": "How-are-NoSQL-databases-optimized",
+     "step_no": 3,
+     "sl_no_in_step": 3,
+     "head_step_no": "DataStores",
+     "title": "How are NoSQL databases optimized?",
+     "post_link": null,
+     "yt_link": "https://youtu.be/_5vrfuwhvlQ",
+     "company_tags": null
+    },
+    {
+     "id": "What-are-Location-based-Databases",
+     "step_no": 3,
+     "sl_no_in_step": 4,
+     "head_step_no": "DataStores",
+     "title": "What are Location-based Databases?",
+     "post_link": null,
+     "yt_link": "https://youtu.be/OcUKFIjhKu0",
+     "company_tags": null
+    },
+    {
+     "id": "Database-Migrations",
+     "step_no": 3,
+     "sl_no_in_step": 5,
+     "head_step_no": "DataStores",
+     "title": "Database Migrations",
+     "post_link": "https://interviewready.io/learn/system-design-course/database-migrations/database-migrations?_aff=TAKEUFORWARD",
+     "yt_link": null,
+     "company_tags": null
+    }
+   ]
+  },
+  {
+   "step_no": 4,
+   "head_step_no": "Consistency vs. Availability",
+   "topics": [
+    {
+     "id": "What-is-Data-Consistency",
+     "step_no": 4,
+     "sl_no_in_step": 1,
+     "head_step_no": "Consistency vs. Availability",
+     "title": "What is Data Consistency?",
+     "post_link": null,
+     "yt_link": "https://youtu.be/m4q7VkgDWrM",
+     "company_tags": null
+    },
+    {
+     "id": "Data-Consistency-Levels",
+     "step_no": 4,
+     "sl_no_in_step": 2,
+     "head_step_no": "Consistency vs. Availability",
+     "title": "Data Consistency Levels",
+     "post_link": "https://interviewready.io/learn/system-design-course/consistency-in-distributed-systems/what-is-data-consistency?_aff=TAKEUFORWARD",
+     "yt_link": null,
+     "company_tags": null
+    },
+    {
+     "id": "Transaction-Isolation-Levels",
+     "step_no": 4,
+     "sl_no_in_step": 3,
+     "head_step_no": "Consistency vs. Availability",
+     "title": "Transaction Isolation Levels",
+     "post_link": "https://interviewready.io/learn/system-design-course/consistency-in-distributed-systems/Transaction-Isolation-Levels-Read-Uncommitted-Data?_aff=TAKEUFORWARD",
+     "yt_link": null,
+     "company_tags": null
+    }
+   ]
+  },
+  {
+   "step_no": 5,
+   "head_step_no": "Message Queues",
+   "topics": [
+    {
+     "id": "What-is-a-Message-Queue",
+     "step_no": 5,
+     "sl_no_in_step": 1,
+     "head_step_no": "Message Queues",
+     "title": "What is a Message Queue?",
+     "post_link": null,
+     "yt_link": "https://youtu.be/oUJbuFMyBDk",
+     "company_tags": null
+    },
+    {
+     "id": "What-is-the-publisher-subscriber-model",
+     "step_no": 5,
+     "sl_no_in_step": 2,
+     "head_step_no": "Message Queues",
+     "title": "What is the publisher-subscriber model?",
+     "post_link": null,
+     "yt_link": "https://youtu.be/FMhbR_kQeHw",
+     "company_tags": null
+    },
+    {
+     "id": "What-are-event-driven-systems",
+     "step_no": 5,
+     "sl_no_in_step": 3,
+     "head_step_no": "Message Queues",
+     "title": "What are event-driven systems?",
+     "post_link": null,
+     "yt_link": "https://youtu.be/rJHTK2TfZ1I",
+     "company_tags": null
+    },
+    {
+     "id": "Database-as-a-Message-Queue",
+     "step_no": 5,
+     "sl_no_in_step": 4,
+     "head_step_no": "Message Queues",
+     "title": "Database as a Message Queue",
+     "post_link": null,
+     "yt_link": "https://youtu.be/9T-gNZ5bGCw?si=SdDEr8NCFOI7aYm_",
+     "company_tags": null
+    }
+   ]
+  },
+  {
+   "step_no": 6,
+   "head_step_no": "DevOps Concepts",
+   "topics": [
+    {
+     "id": "What-is-a-Single-Point-of-Failure",
+     "step_no": 6,
+     "sl_no_in_step": 1,
+     "head_step_no": "DevOps Concepts",
+     "title": "What is a Single Point of Failure?",
+     "post_link": null,
+     "yt_link": "https://youtu.be/-BOysyYErLY",
+     "company_tags": null
+    },
+    {
+     "id": "What-are-Containers",
+     "step_no": 6,
+     "sl_no_in_step": 2,
+     "head_step_no": "DevOps Concepts",
+     "title": "What are Containers?",
+     "post_link": null,
+     "yt_link": "https://www.youtube.com/watch?v=GOuVeZmMee0",
+     "company_tags": null
+    },
+    {
+     "id": "What-is-Service-Discovery-and-Heartbeats",
+     "step_no": 6,
+     "sl_no_in_step": 3,
+     "head_step_no": "DevOps Concepts",
+     "title": "What is Service Discovery and Heartbeats?",
+     "post_link": null,
+     "yt_link": "https://youtu.be/lWE_UIbm8NA",
+     "company_tags": null
+    },
+    {
+     "id": "How-to-avoid-Cascading-Failures",
+     "step_no": 6,
+     "sl_no_in_step": 4,
+     "head_step_no": "DevOps Concepts",
+     "title": "How to avoid Cascading Failures?",
+     "post_link": null,
+     "yt_link": "https://www.youtube.com/watch?v=xrizarXJgC8",
+     "company_tags": null
+    },
+    {
+     "id": "Anomaly-Detection-in-Distributed-Systems",
+     "step_no": 6,
+     "sl_no_in_step": 5,
+     "head_step_no": "DevOps Concepts",
+     "title": "Anomaly Detection in Distributed Systems",
+     "post_link": null,
+     "yt_link": "https://www.youtube.com/watch?v=smiu01pLosI",
+     "company_tags": null
+    },
+    {
+     "id": "Distributed-Rate-Limiting",
+     "step_no": 6,
+     "sl_no_in_step": 6,
+     "head_step_no": "DevOps Concepts",
+     "title": "Distributed Rate Limiting",
+     "post_link": "https://interviewready.io/learn/system-design-course/distributed-rate-limiting/the_oracle_and_the_timer_wheel?_aff=TAKEUFORWARD",
+     "yt_link": null,
+     "company_tags": null
+    }
+   ]
+  },
+  {
+   "step_no": 7,
+   "head_step_no": "Caching",
+   "topics": [
+    {
+     "id": "What-is-Distributed-Caching",
+     "step_no": 7,
+     "sl_no_in_step": 1,
+     "head_step_no": "Caching",
+     "title": "What is Distributed Caching?",
+     "post_link": null,
+     "yt_link": "https://youtu.be/U3RkDLtS7uY?si=78btauwZMhx0XhCh",
+     "company_tags": null
+    },
+    {
+     "id": "What-are-Content-Delivery-Networks",
+     "step_no": 7,
+     "sl_no_in_step": 2,
+     "head_step_no": "Caching",
+     "title": "What are Content Delivery Networks?",
+     "post_link": null,
+     "yt_link": "https://www.youtube.com/watch?v=8zX0rue2Hic",
+     "company_tags": null
+    },
+    {
+     "id": "Write-Policies",
+     "step_no": 7,
+     "sl_no_in_step": 3,
+     "head_step_no": "Caching",
+     "title": "Write Policies",
+     "post_link": "https://interviewready.io/learn/system-design-course/caches-deep-dive/write-back-policy?_aff=TAKEUFORWARD",
+     "yt_link": null,
+     "company_tags": null
+    },
+    {
+     "id": "Replacement-Policies",
+     "step_no": 7,
+     "sl_no_in_step": 4,
+     "head_step_no": "Caching",
+     "title": "Replacement Policies",
+     "post_link": "https://interviewready.io/learn/system-design-course/caches-deep-dive/replacement-policies-segmented-lru?_aff=TAKEUFORWARD",
+     "yt_link": null,
+     "company_tags": null
+    }
+   ]
+  },
+  {
+   "step_no": 8,
+   "head_step_no": "Microservices",
+   "topics": [
+    {
+     "id": "Microservices-vs-Monoliths",
+     "step_no": 8,
+     "sl_no_in_step": 1,
+     "head_step_no": "Microservices",
+     "title": "Microservices vs. Monoliths",
+     "post_link": null,
+     "yt_link": "https://youtu.be/qYhRvH9tJKw",
+     "company_tags": null
+    },
+    {
+     "id": "How-monoliths-are-migrated",
+     "step_no": 8,
+     "sl_no_in_step": 2,
+     "head_step_no": "Microservices",
+     "title": "How monoliths are migrated",
+     "post_link": null,
+     "yt_link": "https://youtu.be/rckfN7xFig0",
+     "company_tags": null
+    }
+   ]
+  },
+  {
+   "step_no": 9,
+   "head_step_no": "API Gateways",
+   "topics": [
+    {
+     "id": "How-are-APIs-designed",
+     "step_no": 9,
+     "sl_no_in_step": 1,
+     "head_step_no": "API Gateways",
+     "title": "How are APIs designed?",
+     "post_link": null,
+     "yt_link": "https://youtu.be/_YlYuNMTCc8",
+     "company_tags": null
+    },
+    {
+     "id": "What-are-asynchronous-APIs",
+     "step_no": 9,
+     "sl_no_in_step": 3,
+     "head_step_no": "API Gateways",
+     "title": "What are asynchronous APIs?",
+     "post_link": null,
+     "yt_link": "https://www.youtube.com/watch?v=I8FeITQvLAk",
+     "company_tags": null
+    }
+   ]
+  },
+  {
+   "step_no": 10,
+   "head_step_no": "Authentication Mechanisms",
+   "topics": [
+    {
+     "id": "OAuth",
+     "step_no": 10,
+     "sl_no_in_step": 1,
+     "head_step_no": "Authentication Mechanisms",
+     "title": "OAuth",
+     "post_link": null,
+     "yt_link": "https://www.youtube.com/watch?v=65-6asTjuB8",
+     "company_tags": null
+    },
+    {
+     "id": "Token-Based-Auth",
+     "step_no": 10,
+     "sl_no_in_step": 2,
+     "head_step_no": "Authentication Mechanisms",
+     "title": "Token Based Auth",
+     "post_link": "https://interviewready.io/learn/system-design-course/security-in-distributed-systems/token-based-auth?_aff=TAKEUFORWARD",
+     "yt_link": null,
+     "company_tags": null
+    },
+    {
+     "id": "Access-Control-Lists-and-Rule-Engines",
+     "step_no": 10,
+     "sl_no_in_step": 3,
+     "head_step_no": "Authentication Mechanisms",
+     "title": "Access Control Lists and Rule Engines",
+     "post_link": "https://interviewready.io/learn/system-design-course/security-in-distributed-systems/access-control-lists-and-rule-engines?_aff=TAKEUFORWARD",
+     "yt_link": null,
+     "company_tags": null
+    }
+   ]
+  },
+  {
+   "step_no": 11,
+   "head_step_no": "System Design Tradeoffs",
+   "topics": [
+    {
+     "id": "Pull-vs-Push",
+     "step_no": 11,
+     "sl_no_in_step": 1,
+     "head_step_no": "System Design Tradeoffs",
+     "title": "Pull vs. Push",
+     "post_link": "https://interviewready.io/learn/system-design-course/system-design-tradeoffs/pull-vs-push-architectures?_aff=TAKEUFORWARD",
+     "yt_link": null,
+     "company_tags": null
+    },
+    {
+     "id": "Memory-vs-Latency",
+     "step_no": 11,
+     "sl_no_in_step": 2,
+     "head_step_no": "System Design Tradeoffs",
+     "title": "Memory vs. Latency",
+     "post_link": "https://interviewreadyio/learn/system-design-course/system-design-tradeoffs/memory-vs-latency?_aff=TAKEUFORWARD",
+     "yt_link": null,
+     "company_tags": null
+    },
+    {
+     "id": "Throughput-vs-Latency",
+     "step_no": 11,
+     "sl_no_in_step": 3,
+     "head_step_no": "System Design Tradeoffs",
+     "title": "Throughput vs. Latency",
+     "post_link": "https://interviewready.io/learn/system-design-course/system-design-tradeoffs/throughput-vs-latency?_aff=TAKEUFORWARD",
+     "yt_link": null,
+     "company_tags": null
+    },
+    {
+     "id": "Consistency-vs-Availability",
+     "step_no": 11,
+     "sl_no_in_step": 4,
+     "head_step_no": "System Design Tradeoffs",
+     "title": "Consistency vs. Availability",
+     "post_link": "https://interviewready.io/learn/system-design-course/system-design-tradeoffs/consistency-vs-availability?_aff=TAKEUFORWARD",
+     "yt_link": null,
+     "company_tags": null
+    },
+    {
+     "id": "Latency-vs-Accuracy",
+     "step_no": 11,
+     "sl_no_in_step": 5,
+     "head_step_no": "System Design Tradeoffs",
+     "title": "Latency vs. Accuracy",
+     "post_link": "https://interviewready.io/learn/system-design-course/system-design-tradeoffs/latency-vs-accuracy?_aff=TAKEUFORWARD",
+     "yt_link": null,
+     "company_tags": null
+    },
+    {
+     "id": "SQL-vs-NoSQL-databases",
+     "step_no": 11,
+     "sl_no_in_step": 6,
+     "head_step_no": "System Design Tradeoffs",
+     "title": "SQL vs. NoSQL databases",
+     "post_link": "https://interviewready.io/learn/system-design-course/system-design-tradeoffs/sql-vs-nosql-databases?_aff=TAKEUFORWARD",
+     "yt_link": null,
+     "company_tags": null
+    }
+   ]
+  },
+  {
+   "step_no": 12,
+   "head_step_no": "Practice Problems",
+   "topics": [
+    {
+     "id": "System-Design-of-a-Live-Streaming-App",
+     "step_no": 12,
+     "sl_no_in_step": 1,
+     "head_step_no": "Practice Problems",
+     "title": "System Design of a Live-Streaming App",
+     "post_link": null,
+     "yt_link": "https://youtu.be/m8Icp_Cid5o",
+     "company_tags": null
+    },
+    {
+     "id": "System-Design-of-Instagram",
+     "step_no": 12,
+     "sl_no_in_step": 2,
+     "head_step_no": "Practice Problems",
+     "title": "System Design of Instagram",
+     "post_link": null,
+     "yt_link": "https://youtu.be/QmX2NPkJTKg",
+     "company_tags": null
+    },
+    {
+     "id": "System-Design-of-Tinder",
+     "step_no": 12,
+     "sl_no_in_step": 3,
+     "head_step_no": "Practice Problems",
+     "title": "System Design of Tinder",
+     "post_link": null,
+     "yt_link": "https://youtu.be/tndzLznxq40",
+     "company_tags": null
+    },
+    {
+     "id": "System-Design-of-WhatsApp",
+     "step_no": 12,
+     "sl_no_in_step": 4,
+     "head_step_no": "Practice Problems",
+     "title": "System Design of WhatsApp",
+     "post_link": null,
+     "yt_link": "https://youtu.be/vvhC64hQZMk",
+     "company_tags": null
+    },
+    {
+     "id": "System-Design-of-TikTok",
+     "step_no": 12,
+     "sl_no_in_step": 5,
+     "head_step_no": "Practice Problems",
+     "title": "System Design of TikTok",
+     "post_link": null,
+     "yt_link": "https://youtu.be/07BVxmVFDGY",
+     "company_tags": null
+    },
+    {
+     "id": "System-Design-of-an-Online-Coding-Judge-Part-1",
+     "step_no": 12,
+     "sl_no_in_step": 6,
+     "head_step_no": "Practice Problems",
+     "title": "System Design of an Online Coding Judge - Part 1",
+     "post_link": null,
+     "yt_link": "https://www.youtube.com/watch?v=eg0nlYcbLpo&t=9s",
+     "company_tags": null
+    },
+    {
+     "id": "System-Design-of-an-Online-Coding-Judge-Part-2",
+     "step_no": 12,
+     "sl_no_in_step": 7,
+     "head_step_no": "Practice Problems",
+     "title": "System Design of an Online Coding Judge - Part 2",
+     "post_link": null,
+     "yt_link": "https://www.youtube.com/watch?v=07jkn4jUtso&t=61s",
+     "company_tags": null
+    },
+    {
+     "id": "System-Design-of-UPI-Payments",
+     "step_no": 12,
+     "sl_no_in_step": 8,
+     "head_step_no": "Practice Problems",
+     "title": "System Design of UPI Payments",
+     "post_link": null,
+     "yt_link": "https://www.youtube.com/watch?v=QpLy0_c_RXk&t=8s",
+     "company_tags": null
+    },
+    {
+     "id": "System-Design-of-IRCTC",
+     "step_no": 12,
+     "sl_no_in_step": 9,
+     "head_step_no": "Practice Problems",
+     "title": "System Design of IRCTC",
+     "post_link": null,
+     "yt_link": "https://www.youtube.com/watch?v=j3etJx7M0Sc",
+     "company_tags": null
+    },
+    {
+     "id": "System-Design-of-Netflix-Video-Onboarding-Pipeline",
+     "step_no": 12,
+     "sl_no_in_step": 10,
+     "head_step_no": "Practice Problems",
+     "title": "System Design of Netflix Video Onboarding Pipeline",
+     "post_link": null,
+     "yt_link": "https://youtu.be/x9Hrn0oNmJM",
+     "company_tags": null
+    },
+    {
+     "id": "System-Design-of-Doordash",
+     "step_no": 12,
+     "sl_no_in_step": 11,
+     "head_step_no": "Practice Problems",
+     "title": "System Design of Doordash",
+     "post_link": null,
+     "yt_link": "https://www.youtube.com/watch?v=DH2-vDPFiE4",
+     "company_tags": null
+    },
+    {
+     "id": "System-Design-of-Amazon-Online-Shops",
+     "step_no": 12,
+     "sl_no_in_step": 12,
+     "head_step_no": "Practice Problems",
+     "title": "System Design of Amazon Online Shops",
+     "post_link": null,
+     "yt_link": "https://www.youtube.com/watch?v=2BWr0fsDSs0",
+     "company_tags": null
+    },
+    {
+     "id": "System-Design-of-Google-Maps",
+     "step_no": 12,
+     "sl_no_in_step": 13,
+     "head_step_no": "Practice Problems",
+     "title": "System Design of Google Maps",
+     "post_link": "https://interviewready.io/learn/system-design-course/design-a-location-based-service-like-google-maps/requirements-of-a-map-application?_aff=TAKEUFORWARD",
+     "yt_link": null,
+     "company_tags": null
+    },
+    {
+     "id": "System-Design-of-Gmail",
+     "step_no": 12,
+     "sl_no_in_step": 14,
+     "head_step_no": "Practice Problems",
+     "title": "System Design of Gmail",
+     "post_link": "https://interviewready.io/learn/system-design-course/design-an-emailing-service-like-gmail/scope_and_requirement_setting?_aff=TAKEUFORWARD",
+     "yt_link": null,
+     "company_tags": null
+    },
+    {
+     "id": "System-Design-of-a-Chess-Website",
+     "step_no": 12,
+     "sl_no_in_step": 15,
+     "head_step_no": "Practice Problems",
+     "title": "System Design of a Chess Website",
+     "post_link": "https://interviewready.io/learn/system-design-course/chess-design-building-a-highly-scalable-turn-based-gaming-website/requirements_of_a_chess_website?_aff=TAKEUFORWARD",
+     "yt_link": null,
+     "company_tags": null
+    },
+    {
+     "id": "System-Design-of-Uber",
+     "step_no": 12,
+     "sl_no_in_step": 16,
+     "head_step_no": "Practice Problems",
+     "title": "System Design of Uber",
+     "post_link": "https://interviewready.io/learn/system-design-course/design-a-cab-aggregator-app-like-uber/requirements-of-a-cab-aggregator?_aff=TAKEUFORWARD",
+     "yt_link": null,
+     "company_tags": null
+    },
+    {
+     "id": "System-Design-of-Google-Docs",
+     "step_no": 12,
+     "sl_no_in_step": 17,
+     "head_step_no": "Practice Problems",
+     "title": "System Design of Google Docs",
+     "post_link": "https://interviewready.io/learn/system-design-course/google-docs-collaborative-editor-design/Google-Docs-Requirements?_aff=TAKEUFORWARD",
+     "yt_link": null,
+     "company_tags": null
+    }
+   ]
+  },
+  {
+   "step_no": 13,
+   "head_step_no": "Additional Resources",
+   "topics": [
+    {
+     "id": "Interview-Ready-Course",
+     "step_no": 13,
+     "sl_no_in_step": 1,
+     "head_step_no": "Additional Resources",
+     "title": "InterviewReady Course",
+     "post_link": "https://interviewready.io/?_aff=TAKEUFORWARD&source_id=striver_blog",
+     "yt_link": null,
+     "company_tags": null
+    },
+    {
+     "id": "GitHub-Page",
+     "step_no": 13,
+     "sl_no_in_step": 2,
+     "head_step_no": "Additional Resources",
+     "title": "GitHub Page",
+     "post_link": "https://github.com/InterviewReady/system-design-resources",
+     "yt_link": null,
+     "company_tags": null
+    },
+    {
+     "id": "Designing-Data-Intensive-Applications",
+     "step_no": 13,
+     "sl_no_in_step": 3,
+     "head_step_no": "Additional Resources",
+     "title": "Designing Data-Intensive Applications",
+     "post_link": "https://amzn.to/3SyNAOy",
+     "yt_link": null,
+     "company_tags": null
+    }
+   ]
+  }
+ ]
+}
