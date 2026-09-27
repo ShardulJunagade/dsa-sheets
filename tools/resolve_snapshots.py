@@ -7,11 +7,13 @@ Usage: python resolve_snapshots.py <sheet.raw.json> <snapshots.json> [--before 2
 From about Sep 2024 takeuforward pages are an empty JS shell (the text came from
 an API the archive rarely captured), so we pick the newest earlier capture that
 is big enough and actually contains the article. Results are written as
-{"<path>": "<timestamp>" | null}; reruns retry every null (misses are often
-rate-limited responses), so run it again until the unresolved count stops falling.
+{"<path>": "<timestamp>" | false | null}: false means every candidate was checked
+and none has the article; null means a network error. Reruns retry nulls, and
+also falses with --retry-missing.
 """
 import argparse
 import json
+import os
 import re
 import sys
 import threading
@@ -72,7 +74,8 @@ def has_article(page, kws):
     if "<title" not in page:
         return False
     text = re.sub(r"<[^>]+>", " ", re.sub(r"<script.*?</script>|<style.*?</style>", "", page, flags=re.S)).lower()
-    return len(text.split()) > 300 and all(text.count(k) >= 2 for k in kws)
+    # Match on a 6-letter prefix: the slug says "kadanes" where the text says "Kadane's".
+    return len(text.split()) > 300 and all(text.count(k[:6]) >= 2 for k in kws)
 
 
 def resolve(path, before):
@@ -85,7 +88,23 @@ def resolve(path, before):
         page = get(f"https://web.archive.org/web/{ts}id_/https://takeuforward.org/{path}/")
         if has_article(page, kws):
             return ts
-    return None
+    return False  # every candidate fetched fine, none has the article
+
+
+def acquire_lock(out):
+    """Hold an OS-level lock on <out>.lock for the life of the process, so only one
+    run works on a results file at a time. The OS releases it if the process dies."""
+    fh = open(out.with_suffix(".lock"), "a+")
+    try:
+        if os.name == "nt":
+            import msvcrt
+            msvcrt.locking(fh.fileno(), msvcrt.LK_NBLCK, 1)
+        else:
+            import fcntl
+            fcntl.flock(fh, fcntl.LOCK_EX | fcntl.LOCK_NB)
+    except OSError:
+        sys.exit(f"Another run is already working on {out}; not starting a second one.")
+    return fh
 
 
 def main():
@@ -96,15 +115,18 @@ def main():
     ap.add_argument("--workers", type=int, default=1)
     ap.add_argument("--seed", action="append", default=[], type=Path,
                     help="Another snapshots.json to reuse resolved paths from (repeatable)")
+    ap.add_argument("--retry-missing", action="store_true",
+                    help="Also recheck paths previously found to have no good snapshot")
     args = ap.parse_args()
+    _lock = acquire_lock(args.out)  # noqa: F841 (kept open until exit)
 
     paths = article_paths(load_json(args.src))
     result = json.loads(args.out.read_text(encoding="utf-8")) if args.out.exists() else {}
     for seed in args.seed:
         if seed.exists():
             known = json.loads(seed.read_text(encoding="utf-8"))
-            result.update({p: known[p] for p in paths if not result.get(p) and known.get(p)})
-    todo = [p for p in paths if not result.get(p)]
+            result.update({p: known[p] for p in paths if not result.get(p) and known.get(p) is not None})
+    todo = [p for p in paths if result.get(p) is None or (args.retry_missing and result[p] is False)]
     print(f"{len(paths)} articles, {len(todo)} to resolve", flush=True)
 
     def work(p):
@@ -114,17 +136,25 @@ def main():
             ts = None
             print(f"ERR {p}: {e}", flush=True)
         with lock:
-            result[p] = ts
+            # Re-read before writing so a second run on the same file can't erase results.
+            # Precedence: verified timestamp > False (no good copy) > None (error).
+            on_disk = json.loads(args.out.read_text(encoding="utf-8")) if args.out.exists() else {}
+            for k, v in list(on_disk.items()) + [(p, ts)]:
+                old = result.get(k)
+                if old is None or (old is False and v):
+                    result[k] = v
             args.out.write_text(json.dumps(result, indent=2, sort_keys=True), encoding="utf-8")
             done = sum(1 for q in paths if q in result)
             print(f"[{done}/{len(paths)}] {p} -> {ts}", flush=True)
 
     with ThreadPoolExecutor(args.workers) as ex:
         list(ex.map(work, todo))
-    missing = [p for p in paths if not result.get(p)]
-    print(f"done: {len(paths) - len(missing)} resolved, {len(missing)} unresolved", flush=True)
-    for p in missing:
-        print("  unresolved:", p)
+    none = [p for p in paths if result.get(p) is False]
+    errs = [p for p in paths if result.get(p) is None]
+    print(f"done: {len(paths) - len(none) - len(errs)} verified, {len(none)} with no good snapshot, "
+          f"{len(errs)} network errors (rerun to retry)", flush=True)
+    for p in none:
+        print("  no good snapshot:", p)
 
 
 if __name__ == "__main__":

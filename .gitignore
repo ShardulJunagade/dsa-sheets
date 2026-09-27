@@ -5,3 +5,4 @@ sources/*.intro.html
 sheets/*/intro.js
 __pycache__/
 node_modules/
+sources/*.lock

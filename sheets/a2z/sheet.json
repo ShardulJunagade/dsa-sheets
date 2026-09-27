@@ -201,7 +201,7 @@
           {
             "id": "rvrsnmbr",
             "title": "Reverse a Number",
-            "article": "https://web.archive.org/web/20240301000000/https://takeuforward.org/maths/reverse-digits-of-a-number",
+            "article": "https://web.archive.org/web/*/https://takeuforward.org/maths/reverse-digits-of-a-number",
             "youtube": "https://www.youtube.com/watch?v=1xNbjMdbjug&t=930",
             "practice": [
               {
@@ -1012,7 +1012,7 @@
           {
             "id": "kdnslgrithmmximmsbrrysm",
             "title": "Kadane's Algorithm, maximum subarray sum",
-            "article": "https://web.archive.org/web/20240301000000/https://takeuforward.org/data-structure/kadanes-algorithm-maximum-subarray-sum-in-an-array/",
+            "article": "https://web.archive.org/web/20240302012026/https://takeuforward.org/data-structure/kadanes-algorithm-maximum-subarray-sum-in-an-array/",
             "youtube": "https://www.youtube.com/watch?v=AHZpyENo7k4",
             "practice": [
               {
@@ -1033,7 +1033,7 @@
           {
             "id": "printsbrrywithmximmsbrrysmxtnddvrsinfbvprblm",
             "title": "Print subarray with maximum subarray sum (extended version of above problem)",
-            "article": "https://web.archive.org/web/20240301000000/https://takeuforward.org/data-structure/kadanes-algorithm-maximum-subarray-sum-in-an-array/",
+            "article": "https://web.archive.org/web/20240302012026/https://takeuforward.org/data-structure/kadanes-algorithm-maximum-subarray-sum-in-an-array/",
             "youtube": "https://www.youtube.com/watch?v=AHZpyENo7k4",
             "practice": [
               {
@@ -1113,7 +1113,7 @@
           {
             "id": "ldrsinnrryprblm",
             "title": "Leaders in an Array problem",
-            "article": "https://web.archive.org/web/20240301000000/https://takeuforward.org/data-structure/leaders-in-an-array/",
+            "article": "https://web.archive.org/web/20231001164207/https://takeuforward.org/data-structure/leaders-in-an-array/",
             "youtube": "https://www.youtube.com/watch?v=cHrH9CQ8pmY",
             "practice": [
               {
@@ -1130,7 +1130,7 @@
           {
             "id": "lngstcnsctivsqncinnrry",
             "title": "Longest Consecutive Sequence in an Array",
-            "article": "https://web.archive.org/web/20240301000000/https://takeuforward.org/data-structure/longest-consecutive-sequence-in-an-array/",
+            "article": "https://web.archive.org/web/20231002052803/https://takeuforward.org/data-structure/longest-consecutive-sequence-in-an-array/",
             "youtube": "https://www.youtube.com/watch?v=oO5uLE7EUlM",
             "practice": [
               {
@@ -1151,7 +1151,7 @@
           {
             "id": "stmtrixzrs",
             "title": "Set Matrix Zeros",
-            "article": "https://web.archive.org/web/20240301000000/https://takeuforward.org/data-structure/set-matrix-zero/",
+            "article": "https://web.archive.org/web/20240302004240/https://takeuforward.org/data-structure/set-matrix-zero/",
             "youtube": "https://www.youtube.com/watch?v=N0MgLvceX7M",
             "practice": [
               {
@@ -1172,7 +1172,7 @@
           {
             "id": "rttmtrixby90dgrs",
             "title": "Rotate Matrix by 90 degrees",
-            "article": "https://web.archive.org/web/20240301000000/https://takeuforward.org/data-structure/rotate-image-by-90-degree/",
+            "article": "https://web.archive.org/web/20231209223712/https://takeuforward.org/data-structure/rotate-image-by-90-degree/",
             "youtube": "https://www.youtube.com/watch?v=Z0R2u6gd3GU",
             "practice": [
               {
@@ -1193,7 +1193,7 @@
           {
             "id": "printthmtrixinspirlmnnr",
             "title": "Print the matrix in spiral manner",
-            "article": "https://web.archive.org/web/20240301000000/https://takeuforward.org/data-structure/spiral-traversal-of-matrix/",
+            "article": "https://web.archive.org/web/20231002044214/https://takeuforward.org/data-structure/spiral-traversal-of-matrix/",
             "youtube": "https://www.youtube.com/watch?v=3Zv-s9UUrFM",
             "practice": [
               {
@@ -1214,7 +1214,7 @@
           {
             "id": "sbrrywithgivnsm",
             "title": "Count subarrays with given sum",
-            "article": "https://web.archive.org/web/20240301000000/https://takeuforward.org/arrays/count-subarray-sum-equals-k/",
+            "article": "https://web.archive.org/web/20231205021806/https://takeuforward.org/arrays/count-subarray-sum-equals-k/",
             "youtube": "https://www.youtube.com/watch?v=xvNwoz-ufXA",
             "practice": [
               {
@@ -1240,7 +1240,7 @@
           {
             "id": "psclstringl",
             "title": "Pascal's Triangle",
-            "article": "https://web.archive.org/web/20240301000000/https://takeuforward.org/data-structure/program-to-generate-pascals-triangle/",
+            "article": "https://web.archive.org/web/20240301235044/https://takeuforward.org/data-structure/program-to-generate-pascals-triangle/",
             "youtube": "https://www.youtube.com/watch?v=bR7mQgwQ_o8",
             "practice": [
               {
@@ -1261,7 +1261,7 @@
           {
             "id": "mjritylmntn3tims",
             "title": "Majority Element (n/3 times)",
-            "article": "https://web.archive.org/web/20240301000000/https://takeuforward.org/data-structure/majority-elementsn-3-times-find-the-elements-that-appears-more-than-n-3-times-in-the-array/",
+            "article": "https://web.archive.org/web/20231203141527/https://takeuforward.org/data-structure/majority-elementsn-3-times-find-the-elements-that-appears-more-than-n-3-times-in-the-array/",
             "youtube": "https://www.youtube.com/watch?v=vwZj1K0e9U8",
             "practice": [
               {
@@ -1278,7 +1278,7 @@
           {
             "id": "3smprblm",
             "title": "3-Sum Problem",
-            "article": "https://web.archive.org/web/20240301000000/https://takeuforward.org/data-structure/3-sum-find-triplets-that-add-up-to-a-zero/",
+            "article": "https://web.archive.org/web/20240303221737/https://takeuforward.org/data-structure/3-sum-find-triplets-that-add-up-to-a-zero/",
             "youtube": "https://www.youtube.com/watch?v=DhFh8Kw7ymk",
             "practice": [
               {
@@ -1299,7 +1299,7 @@
           {
             "id": "4smprblm",
             "title": "4-Sum Problem",
-            "article": "https://web.archive.org/web/20240301000000/https://takeuforward.org/data-structure/4-sum-find-quads-that-add-up-to-a-target-value/",
+            "article": "https://web.archive.org/web/20231209222938/https://takeuforward.org/data-structure/4-sum-find-quads-that-add-up-to-a-target-value/",
             "youtube": "https://www.youtube.com/watch?v=eD95WRfh81c",
             "practice": [
               {
@@ -1320,7 +1320,7 @@
           {
             "id": "lrgstsbrrywith0sm",
             "title": "Largest Subarray with 0 Sum",
-            "article": "https://web.archive.org/web/20240301000000/https://takeuforward.org/data-structure/length-of-the-longest-subarray-with-zero-sum/",
+            "article": "https://web.archive.org/web/20240302010021/https://takeuforward.org/data-structure/length-of-the-longest-subarray-with-zero-sum/",
             "youtube": "https://www.youtube.com/watch?v=xmguZ6GbatA",
             "practice": [
               {
@@ -1337,7 +1337,7 @@
           {
             "id": "cntnmbrfsbrryswithgivnxrk",
             "title": "Count number of subarrays with given xor K",
-            "article": "https://web.archive.org/web/20240301000000/https://takeuforward.org/data-structure/count-the-number-of-subarrays-with-given-xor-k/",
+            "article": "https://web.archive.org/web/20240301231407/https://takeuforward.org/data-structure/count-the-number-of-subarrays-with-given-xor-k/",
             "youtube": "https://www.youtube.com/watch?v=eZr-6p0B7ME",
             "practice": [
               {
@@ -1358,7 +1358,7 @@
           {
             "id": "mrgvrlppingsbintrvls",
             "title": "Merge Overlapping Subintervals",
-            "article": "https://web.archive.org/web/20240301000000/https://takeuforward.org/data-structure/merge-overlapping-sub-intervals/",
+            "article": "https://web.archive.org/web/20231002044056/https://takeuforward.org/data-structure/merge-overlapping-sub-intervals/",
             "youtube": "https://www.youtube.com/watch?v=IexN60k62jo",
             "practice": [
               {
@@ -1379,7 +1379,7 @@
           {
             "id": "mrgtwsrtdrryswithtxtrspc",
             "title": "Merge two sorted arrays without extra space",
-            "article": "https://web.archive.org/web/20240301000000/https://takeuforward.org/data-structure/merge-two-sorted-arrays-without-extra-space/",
+            "article": "https://web.archive.org/web/20231002050322/https://takeuforward.org/data-structure/merge-two-sorted-arrays-without-extra-space/",
             "youtube": "https://www.youtube.com/watch?v=n7uwj04E0I4",
             "practice": [
               {
@@ -5439,7 +5439,7 @@
           {
             "id": "mrgintrvls",
             "title": "Merge Intervals",
-            "article": "https://web.archive.org/web/20240301000000/https://takeuforward.org/data-structure/merge-overlapping-sub-intervals/",
+            "article": "https://web.archive.org/web/20231002044056/https://takeuforward.org/data-structure/merge-overlapping-sub-intervals/",
             "youtube": "https://www.youtube.com/watch?v=2JzRBPFYbKE",
             "practice": [
               {

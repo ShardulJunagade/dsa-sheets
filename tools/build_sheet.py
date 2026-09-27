@@ -65,8 +65,11 @@ def clean_article(url, snapshots):
     url = strip_wayback(url).replace("://interviewreadyio/", "://interviewready.io/")
     if re.match(r"^https?://(www\.)?takeuforward\.org/", url):
         key = urlparse(url).path.strip("/")
-        ts = snapshots.get(key) or DEFAULT_SNAPSHOT
-        return f"https://web.archive.org/web/{ts}/{url}"
+        ts = snapshots.get(key)
+        if ts is False:
+            # Checked: no archived copy has the article, so point at the capture list instead.
+            return f"https://web.archive.org/web/*/{url}"
+        return f"https://web.archive.org/web/{ts or DEFAULT_SNAPSHOT}/{url}"
     return url
 
 
@@ -171,6 +174,7 @@ input[type=checkbox]{width:18px;height:18px;accent-color:var(--ok);cursor:pointe
 a{color:var(--accent);text-decoration:none;font-weight:500}
 a:hover{text-decoration:underline}
 .na{color:var(--muted)}
+a.missing{color:var(--muted);font-weight:400;text-decoration:underline dotted}
 .empty{padding:24px;text-align:center;color:var(--muted)}
 .intro{background:var(--card);border:1px solid var(--line);border-left:4px solid var(--accent);border-radius:10px;padding:18px 22px;margin-top:20px}
 .intro h2{margin:0 0 8px;font-size:20px}
@@ -234,7 +238,7 @@ const head = `<thead><tr><th>Done</th><th>Problem</th><th>Article</th><th>YouTub
 const row = t => `<tr data-id="${esc(t.id)}">
 <td class="c"><input type="checkbox" aria-label="Mark ${esc(t.title)} done"></td>
 <td class="t">${esc(t.title)}</td>
-<td class="l">${link(t.article, "Read")}</td>
+<td class="l">${t.article && t.article.includes("/web/*/") ? `<a class="missing" href="${esc(t.article)}" target="_blank" rel="noopener" title="No archived copy with the article text was found. This opens the list of all captures.">Archive</a>` : link(t.article, "Read")}</td>
 <td class="l">${link(t.youtube, "Watch")}</td>
 ${HAS_PRACTICE ? `<td class="l p">${t.practice.length ? t.practice.map(p => link(p.url, esc(p.label))).join("") : '<span class="na">&ndash;</span>'}</td>` : ""}
 <td class="n"><button class="icon note-btn" aria-label="Note for ${esc(t.title)}" title="Notes">&#9998;</button></td>
@@ -422,12 +426,14 @@ def build_page(src, out_dir, title, snapshots=None, archived="Jan 2025", intro=N
     (out_dir / "index.html").write_text(page, encoding="utf-8")
     items = [t for s in steps for g in s["groups"] for t in g["items"]]
     unresolved = sum(1 for t in items if t["article"] and f"/web/{DEFAULT_SNAPSHOT}/" in t["article"])
+    missing = sum(1 for t in items if t["article"] and "/web/*/" in t["article"])
     print(f"Wrote {out_dir / 'index.html'}: {len(steps)} steps, {len(items)} items"
-          + (f", {unresolved} articles using fallback snapshot" if unresolved else ""))
+          + (f", {unresolved} articles not yet verified" if unresolved else "")
+          + (f", {missing} with no archived copy" if missing else ""))
     return {"slug": slug, "steps": len(steps), "items": len(items),
             "videos": sum(1 for t in items if t["youtube"]),
             "articles": sum(1 for t in items if t["article"]),
-            "fallback": unresolved}
+            "fallback": unresolved, "missing": missing}
 
 
 def main():
