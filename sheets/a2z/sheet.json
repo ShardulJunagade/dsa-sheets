@@ -31,7 +31,7 @@
             "practice": [
               {
                 "label": "GFG",
-                "url": "https://bit.ly/3Dqmgvx"
+                "url": "https://www.geeksforgeeks.org/problems/data-types/1"
               },
               {
                 "label": "CN",
@@ -860,7 +860,7 @@
               },
               {
                 "label": "GFG",
-                "url": "https://bit.ly/3A2pKTh"
+                "url": "https://www.geeksforgeeks.org/problems/missing-number-in-array1416/1"
               }
             ],
             "difficulty": "Easy"
@@ -1202,7 +1202,7 @@
               },
               {
                 "label": "GFG",
-                "url": "https://bit.ly/3ppEJ53"
+                "url": "https://www.geeksforgeeks.org/problems/spirally-traversing-a-matrix-1587115621/1"
               },
               {
                 "label": "CN",
@@ -3366,7 +3366,7 @@
               },
               {
                 "label": "GFG",
-                "url": "https://bit.ly/3CMZFul"
+                "url": "https://www.geeksforgeeks.org/problems/combination-sum-iii--111703/1"
               },
               {
                 "label": "CN",
@@ -4857,7 +4857,7 @@
               },
               {
                 "label": "CN",
-                "url": "https://www.codingninjas.com/studio/problems/is-heap-possible-from-the-array?_8164274?utm_source=striver&utm_medium=website&utm_campaign=a_zcoursetuf"
+                "url": "https://www.codingninjas.com/studio/problems/is-heap-possible-from-the-array_8164274?utm_source=striver&utm_medium=website&utm_campaign=a_zcoursetuf"
               }
             ],
             "difficulty": "Medium"
@@ -4868,10 +4868,6 @@
             "article": null,
             "youtube": null,
             "practice": [
-              {
-                "label": "GFG",
-                "url": "https://bit.ly/3flmw7c"
-              },
               {
                 "label": "CN",
                 "url": "https://www.codingninjas.com/codestudio/problems/convert-min-heap-to-max-heap_1381084?utm_source=striver&utm_medium=website&utm_campaign=a_zcoursetuf"
@@ -5978,7 +5974,7 @@
             "id": "symmtricbinrytr",
             "title": "Symmetric Binary Tree",
             "article": "https://web.archive.org/web/20240303222525/https://takeuforward.org/data-structure/check-for-symmetrical-binary-tree/",
-            "youtube": "https://www.youtube.com/watch?v=nKggiEpBE",
+            "youtube": "https://www.youtube.com/watch?v=nKggNAiEpBE",
             "practice": [
               {
                 "label": "LC",
@@ -7848,7 +7844,7 @@
               },
               {
                 "label": "GFG",
-                "url": "https://practice.geeksforgeeks.org/problems/number-of-unique-paths/0"
+                "url": "https://www.geeksforgeeks.org/problems/number-of-paths0926/1"
               },
               {
                 "label": "CN",
@@ -8127,7 +8123,7 @@
             "practice": [
               {
                 "label": "LC",
-                "url": "https://leetcode.com/problems/coin-change-2/"
+                "url": "https://leetcode.com/problems/coin-change-ii/"
               },
               {
                 "label": "GFG",
@@ -8724,7 +8720,7 @@
               },
               {
                 "label": "GFG",
-                "url": "https://bit.ly/3A9LdKp"
+                "url": "https://www.geeksforgeeks.org/problems/burst-balloons/1"
               },
               {
                 "label": "CN",
@@ -9093,11 +9089,11 @@
             "practice": [
               {
                 "label": "LC",
-                "url": "https://leetcode.com/problems/implement-strstr/"
+                "url": "https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/"
               },
               {
                 "label": "GFG",
-                "url": "https://practice.geeksforgeeks.org/problems/8dcd25918295847b4ced54055eae35a8501181c1/1"
+                "url": "https://www.geeksforgeeks.org/problems/search-pattern-z-algorithm--141631/1"
               },
               {
                 "label": "CN",
@@ -9114,7 +9110,7 @@
             "practice": [
               {
                 "label": "LC",
-                "url": "https://leetcode.com/problems/implement-strstr/"
+                "url": "https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/"
               },
               {
                 "label": "GFG",

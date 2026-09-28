@@ -153,12 +153,16 @@ details[open]>summary::after{transform:rotate(90deg)}
 .group h3 .lec{color:var(--accent);white-space:nowrap}
 .group h3 .gname{flex:1}
 .scroll{overflow-x:auto}
-table{width:100%;border-collapse:collapse}
+table{width:100%;border-collapse:collapse;table-layout:fixed;min-width:var(--tmin,0)}
 th,td{padding:9px 14px;border-top:1px solid var(--line);text-align:left;vertical-align:middle}
+col.c,col.n{width:64px}col.art{width:84px}col.yt{width:92px}col.pr{width:150px}col.df{width:110px}col.s{width:96px}
+th.mid{text-align:center}
+td.t{overflow-wrap:anywhere;word-break:normal}
 th{font-size:12px;text-transform:uppercase;letter-spacing:.04em;color:var(--muted);font-weight:600}
-td.c,td.s,td.n{width:44px;text-align:center}
+td.c,td.s,td.n{text-align:center}
 td.l{white-space:nowrap}
-td.p a{margin-right:10px}
+td.p{white-space:normal}
+td.p a{margin-right:10px;display:inline-block}
 tr.done td.t{color:var(--muted);text-decoration:line-through}
 .diff{font-size:13px;font-weight:600}
 .diff.Easy{color:var(--easy)}.diff.Medium{color:var(--medium)}.diff.Hard{color:var(--hard)}
@@ -234,7 +238,11 @@ const save = () => { try { localStorage.setItem(KEY, JSON.stringify({done, star,
 const esc = s => String(s).replace(/[&<>"]/g, c => ({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"}[c]));
 const link = (u, label) => u ? `<a href="${esc(u)}" target="_blank" rel="noopener">${label}</a>` : `<span class="na">&ndash;</span>`;
 const COLS = 5 + (HAS_PRACTICE ? 1 : 0) + (HAS_DIFF ? 1 : 0) + 1;
-const head = `<thead><tr><th>Done</th><th>Problem</th><th>Article</th><th>YouTube</th>${HAS_PRACTICE ? "<th>Practice</th>" : ""}<th>Note</th>${HAS_DIFF ? "<th>Difficulty</th>" : ""}<th>Revision</th></tr></thead>`;
+// Fixed column widths (table-layout: fixed) so every section lines up; Problem takes the rest and wraps.
+const colgroup = `<colgroup><col class="c"><col><col class="art"><col class="yt">${HAS_PRACTICE ? '<col class="pr">' : ""}<col class="n">${HAS_DIFF ? '<col class="df">' : ""}<col class="s"></colgroup>`;
+const TMIN = 64 + 84 + 92 + (HAS_PRACTICE ? 150 : 0) + 64 + (HAS_DIFF ? 110 : 0) + 96 + 220;
+document.documentElement.style.setProperty("--tmin", TMIN + "px");
+const head = `${colgroup}<thead><tr><th class="mid">Done</th><th>Problem</th><th>Article</th><th>YouTube</th>${HAS_PRACTICE ? "<th>Practice</th>" : ""}<th class="mid">Note</th>${HAS_DIFF ? "<th>Difficulty</th>" : ""}<th class="mid">Revision</th></tr></thead>`;
 const row = t => `<tr data-id="${esc(t.id)}">
 <td class="c"><input type="checkbox" aria-label="Mark ${esc(t.title)} done"></td>
 <td class="t">${esc(t.title)}</td>
